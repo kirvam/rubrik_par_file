@@ -1,0 +1,817 @@
+Object Name,Object Type,Location,Cluster Location,SLA Domain,Organization,Data Reduction (%),Dedup Ratio,Logical Data Reduction (%),Logical Dedup Ratio,Protected On,Total Local Storage (GB),Total Archive Storage (GB),Local Storage Growth (MB/day),Archive Storage Growth (MB/day)
+ABDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,90.11,10.11,99.33,148.57,8/17/2018 9:12,13,0,0,0
+ABDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.11,10.11,99.33,148.57,8/17/2018 9:12,13,0,0,0
+ABPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,76.35,4.23,98.28,58.13,11/15/2017 11:23,22.2,0,-3.1,0
+ABPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,76.35,4.23,98.28,58.13,11/15/2017 11:23,22.2,0,-3.1,0
+ABPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,56.51,2.3,95.72,23.37,11/15/2017 11:23,32.2,0,-5.4,0
+ABPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.51,2.3,95.72,23.37,11/15/2017 11:23,32.2,0,-5.4,0
+ADS-Solar-Flow,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,93.66,15.77,99.48,192,11/6/2017 7:48,66.8,0,-182.1,0
+ADS-Solar-Flow,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,93.66,15.77,99.48,192,11/6/2017 7:48,66.8,0,-182.1,0
+ADS-Solar-Flow,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,93.66,15.77,99.48,192,11/6/2017 7:48,66.8,0,-182.1,0
+ADS-Solar-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,Dave Fortin,83.16,5.94,88.22,8.49,1/26/2018 9:52,183.4,0,1092.9,0
+ADS-Solar-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,DII - EAS,83.16,5.94,88.22,8.49,1/26/2018 9:52,183.4,0,1092.9,0
+ADS-Solar-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,Global,83.16,5.94,88.22,8.49,1/26/2018 9:52,183.4,0,1092.9,0
+ADS-SolarWinds,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,57.48,2.35,95.18,20.75,11/6/2017 7:48,108.7,0,103.5,0
+ADS-SolarWinds,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,57.48,2.35,95.18,20.75,11/6/2017 7:48,108.7,0,103.5,0
+ADS-SolarWinds,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.48,2.35,95.18,20.75,11/6/2017 7:48,108.7,0,103.5,0
+AHS-CTX08LICDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,64.3,2.8,96.4,27.77,12/26/2017 15:37,27.1,0,21,0
+AHS-CTX08LICDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.3,2.8,96.4,27.77,12/26/2017 15:37,27.1,0,21,0
+AHS-CTXProfiler,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,64.42,2.81,96.64,29.78,12/26/2017 15:37,20.2,0,54.1,0
+AHS-CTXProfiler,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.42,2.81,96.64,29.78,12/26/2017 15:37,20.2,0,54.1,0
+AHS-DC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,69.35,3.26,96.96,32.9,3/29/2018 7:45,29.7,0,34.8,0
+AHS-DC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,69.35,3.26,96.96,32.9,3/29/2018 7:45,29.7,0,34.8,0
+AHS-DC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,65.09,2.86,95.72,23.38,3/29/2018 7:45,38.6,0,72.1,0
+AHS-DC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,65.09,2.86,95.72,23.38,3/29/2018 7:45,38.6,0,72.1,0
+AHS-DC3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,60.62,2.54,95.99,24.92,12/26/2017 15:37,54.3,0,-90.7,0
+AHS-DC3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.62,2.54,95.99,24.92,12/26/2017 15:37,54.3,0,-90.7,0
+AHS-DC-BURL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,71.54,3.51,97.26,36.53,3/29/2018 7:45,26.8,0,63.2,0
+AHS-DC-BURL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,71.54,3.51,97.26,36.53,3/29/2018 7:45,26.8,0,63.2,0
+AHS-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,73.61,3.79,97.68,43.18,6/8/2018 13:34,31.3,0,27.2,0
+AHS-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,73.61,3.79,97.68,43.18,6/8/2018 13:34,31.3,0,27.2,0
+AHS-PRTSRV08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,81.93,5.53,97.08,34.2,12/26/2017 15:37,39.6,0,31.1,0
+AHS-PRTSRV08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,81.93,5.53,97.08,34.2,12/26/2017 15:37,39.6,0,31.1,0
+AHS-RSA-CSG2k8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,64.43,2.81,97.12,34.67,12/26/2017 15:37,21.7,0,-20.9,0
+AHS-RSA-CSG2k8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.43,2.81,97.12,34.67,12/26/2017 15:37,21.7,0,-20.9,0
+AHS-SECUREID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,74.82,3.97,97.84,46.38,12/26/2017 15:37,24.9,0,-10.5,0
+AHS-SECUREID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.82,3.97,97.84,46.38,12/26/2017 15:37,24.9,0,-10.5,0
+AHS-SECURID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,95.87,24.23,99.71,345.53,10/23/2017 7:31,4.8,0,0.4,0
+AHS-SECURID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,95.87,24.23,99.71,345.53,10/23/2017 7:31,4.8,0,0.4,0
+AHS-UTILITIES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,59.06,2.44,95.02,20.09,12/26/2017 15:37,37.4,0,-27.9,0
+AHS-UTILITIES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,59.06,2.44,95.02,20.09,12/26/2017 15:37,37.4,0,-27.9,0
+AHS-WSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,42.65,1.74,94.8,19.21,12/26/2017 15:37,105.6,0,-63.6,0
+AHS-WSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,42.65,1.74,94.8,19.21,12/26/2017 15:37,105.6,0,-63.6,0
+All,NAS Fileset,\\10.244.1.146\LRB,Local,NL Two Weeks NAS,Global,63.39,2.73,98.65,74.31,1/17/2018 9:23,1.3,0,0.8,0
+All,NAS Fileset,\\10.244.1.146\VRB,Local,NL Two Weeks NAS,Global,71,3.45,97.81,45.69,1/21/2018 14:49,2.7,0,4,0
+All,NAS Fileset,\\10.244.1.146\LTG,Local,NL Two Weeks NAS,Global,57.72,2.37,97.13,34.8,1/17/2018 9:24,3.9,0,0.4,0
+All,NAS Fileset,\\10.244.1.146\WS,Local,NL Two Weeks NAS,Global,15.13,1.18,95.66,23.05,1/23/2018 10:03,17.9,0,1.8,0
+All,NAS Fileset,\\10.244.1.146\WC,Local,NL Two Weeks NAS,Global,15.45,1.18,95.48,22.13,1/23/2018 10:02,25,0,1.8,0
+All,NAS Fileset,\\10.244.1.146\ADM,Local,NL Two Weeks NAS,Global,48.59,1.95,96.52,28.69,1/15/2018 13:14,27.8,0,1.5,0
+All,NAS Fileset,\\10.244.1.146\EXE,Local,NL Two Weeks NAS,Global,32.62,1.48,95.06,20.25,1/15/2018 13:13,32.7,0,3.9,0
+All,NAS Fileset,\\10.244.1.146\FSD,Local,NL Two Weeks NAS,Global,46.5,1.87,95.58,22.61,1/15/2018 13:12,37.1,0,26.7,0
+All,NAS Fileset,\\10.244.1.146\TSProfiles$,Local,NL Two Weeks NAS,Global,56.91,2.32,96.62,29.57,1/23/2018 14:21,41.9,0,35.7,0
+All,NAS Fileset,\\10.244.1.146\VCW,Local,NL Two Weeks NAS,Global,20.16,1.25,94.25,17.4,1/21/2018 14:47,52.2,0,6,0
+All,NAS Fileset,\\10.244.1.146\RM,Local,NL Two Weeks NAS,Global,32.67,1.49,95.34,21.48,1/17/2018 9:27,71,0,-1175.1,0
+All,NAS Fileset,\\10.244.1.146\VLC,Local,NL Two Weeks NAS,Global,29.19,1.41,94.18,17.19,1/21/2018 14:47,89.2,0,40.5,0
+All,NAS Fileset,\\10.244.1.146\AUD,Local,NL Two Weeks NAS,Global,48.74,1.95,95.92,24.53,1/15/2018 13:12,136.8,0,140.7,0
+All,NAS Fileset,\\10.244.1.146\HRC,Local,NL Two Weeks NAS,Global,28.95,1.41,94.19,17.21,1/15/2018 13:10,143.1,0,222.4,0
+All,NAS Fileset,\\10.244.1.146\MIL,Local,NL Two Weeks NAS,Global,10.46,1.12,94.55,18.34,1/17/2018 9:25,214.5,0,27.2,0
+All,NAS Fileset,\\10.244.1.146\FIN,Local,NL Two Weeks NAS,Global,52.36,2.1,96.5,28.58,1/15/2018 13:13,241.2,0,114.4,0
+All,NAS Fileset,\\10.244.1.146\PSB,Local,NL Two Weeks NAS,Global,25.2,1.34,94.5,18.17,1/17/2018 9:25,249.3,0,146,0
+All,NAS Fileset,\\10.244.1.146\LIB,Local,NL Two Weeks NAS,Global,39.07,1.64,95.77,23.67,1/17/2018 9:22,258.3,0,516.9,0
+All,NAS Fileset,\\10.244.1.146\GMCB,Local,NL Two Weeks NAS,Global,27.35,1.38,95.21,20.87,1/15/2018 13:11,286.9,0,96.1,0
+All,NAS Fileset,\\10.244.1.146\ACD,Local,NL Two Weeks NAS,Global,24.29,1.32,93.75,15.99,1/15/2018 13:11,297.5,0,-43.8,0
+All,NAS Fileset,\\jud-fs01.crt.state.vt.us\JUD-Misc,Local,NL Two Weeks NAS,Global,23.22,1.3,95.76,23.59,3/29/2018 10:31,297.7,0,0,0
+All,NAS Fileset,\\jud-fs01.crt.state.vt.us\JUD-Shared folders,Local,NL Two Weeks NAS,Global,47.95,1.92,96.8,31.2,3/29/2018 11:09,437.9,0,413.7,0
+All,NAS Fileset,\\10.244.1.146\VVH,Local,NL Two Weeks NAS,Global,26.65,1.36,94.86,19.44,1/23/2018 10:02,605.1,0,231.3,0
+All,NAS Fileset,\\10.244.1.146\VCJTC,Local,NL Two Weeks NAS,Global,31,1.45,94.64,18.66,1/21/2018 14:46,702.5,0,146.4,0
+All,NAS Fileset,\\159.105.132.105\AHS-DMH-VSH,Local,NL Two Weeks NAS,Global,48.01,1.92,96.11,25.68,2/7/2018 9:35,842.5,0,270.6,0
+All,NAS Fileset,\\10.244.1.146\DII,Local,NL Two Weeks NAS,Global,33.01,1.49,95.07,20.27,1/15/2018 13:14,1150.9,0,524.6,0
+All,NAS Fileset,\\10.244.1.146\PSD,Local,NL Two Weeks NAS,Global,41.63,1.71,95.76,23.6,1/17/2018 9:26,1203.5,0,449.7,0
+All,NAS Fileset,\\10.246.14.28\root01$,Local,NL Two Weeks NAS,Global,80.08,5.02,95.39,21.67,2/2/2018 10:15,1312,0,2911,0
+All,NAS Fileset,\\159.105.132.105\AHS-DAIL,Local,NL Two Weeks NAS,Global,33.92,1.51,95.42,21.81,2/8/2018 9:30,1865.2,0,2023.8,0
+All,NAS Fileset,\\10.244.1.146\DHR,Local,NL Two Weeks NAS,Global,31.06,1.45,94.7,18.87,1/15/2018 13:12,2010.6,0,3955.3,0
+All,NAS Fileset,\\10.244.1.146\AGR,Local,NL Two Weeks NAS,Global,26.23,1.36,94.01,16.68,1/15/2018 13:15,2108.9,0,4266.9,0
+All,NAS Fileset,\\159.105.132.105\AHS-DVHA,Local,NL Two Weeks NAS,Global,62.23,2.65,97.43,38.88,2/9/2018 11:57,2319.2,0,3994.5,0
+All,NAS Fileset,\\10.244.1.146\BGS,Local,NL Two Weeks NAS,Global,21.11,1.27,93.67,15.8,1/15/2018 13:11,4036.7,0,-1854.2,0
+All,NAS Fileset,\\159.105.132.105\AHS-DCF,Local,NL Two Weeks NAS,Global,30.73,1.44,94.77,19.12,2/15/2018 9:58,4398.8,0,1480.9,0
+All,NAS Fileset,\\159.105.132.105\AHS-DOC,Local,NL Two Weeks NAS,Global,27.96,1.39,94.38,17.8,2/17/2018 8:33,5157.9,0,3828,0
+All,NAS Fileset,\\10.244.1.146\ACCD,Local,NL Two Weeks NAS,Global,15.87,1.19,93.69,15.84,1/15/2018 13:25,5413.7,0,-294.2,0
+All,NAS Fileset,\\159.105.132.105\AHS-CO,Local,NL Two Weeks NAS,Global,33.48,1.5,95.38,21.63,2/9/2018 10:38,6454.8,0,7031.6,0
+All,NAS Fileset,\\159.105.132.105\AHS-VDH,Local,NL Two Weeks NAS,Global,51.27,2.05,96.96,32.9,3/22/2018 7:37,9814,0,6160.1,0
+All,NAS Fileset,\\10.244.1.146\VCGI,Local,NL Two Weeks NAS,Global,35.11,1.54,96.51,28.67,3/20/2018 12:21,12368.1,0,10567,0
+All,NAS Fileset,\\10.244.1.146\SAS,Local,NL Two Weeks NAS,Global,12.89,1.15,93.63,15.69,1/23/2018 15:17,14117.1,0,7261.9,0
+ANR-Aries,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,56.14,2.28,95.04,20.16,11/11/2017 8:35,63.9,0,-12.2,0
+ANR-Aries,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,56.14,2.28,95.04,20.16,11/11/2017 8:35,63.9,0,-12.2,0
+ANR-Aries,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.14,2.28,95.04,20.16,11/11/2017 8:35,63.9,0,-12.2,0
+ANR-AV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,60.95,2.56,95.72,23.35,7/12/2018 13:43,64.4,0,1839.7,0
+ANR-AV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,60.95,2.56,95.72,23.35,7/12/2018 13:43,64.4,0,1839.7,0
+ANR-AV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.95,2.56,95.72,23.35,7/12/2018 13:43,64.4,0,1839.7,0
+ANR-AV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,32.89,1.49,87.62,8.08,11/11/2017 8:35,204.7,0,124,0
+ANR-AV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,32.89,1.49,87.62,8.08,11/11/2017 8:35,204.7,0,124,0
+ANR-AV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,32.89,1.49,87.62,8.08,11/11/2017 8:35,204.7,0,124,0
+ANR-Capture,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,75.12,4.02,97.9,47.51,7/20/2018 12:17,32.8,0,79,0
+ANR-Capture,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,75.12,4.02,97.9,47.51,7/20/2018 12:17,32.8,0,79,0
+ANR-Capture,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.12,4.02,97.9,47.51,7/20/2018 12:17,32.8,0,79,0
+ANR-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,70.06,3.34,96.65,29.89,1/2/2018 8:45,25.1,0,-26.8,0
+ANR-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,70.06,3.34,96.65,29.89,1/2/2018 8:45,25.1,0,-26.8,0
+ANR-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.06,3.34,96.65,29.89,1/2/2018 8:45,25.1,0,-26.8,0
+ANR-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,69.63,3.29,96.65,29.82,12/31/2017 18:45,25.2,0,-15.5,0
+ANR-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,69.63,3.29,96.65,29.82,12/31/2017 18:45,25.2,0,-15.5,0
+ANR-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,69.63,3.29,96.65,29.82,12/31/2017 18:45,25.2,0,-15.5,0
+ANR-Eris,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,52.27,2.1,95.96,24.74,11/11/2017 8:35,48.6,0,-31.7,0
+ANR-Eris,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,52.27,2.1,95.96,24.74,11/11/2017 8:35,48.6,0,-31.7,0
+ANR-Eris,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.27,2.1,95.96,24.74,11/11/2017 8:35,48.6,0,-31.7,0
+ANR-ERMSSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,74.74,3.96,97.03,33.64,8/30/2018 9:01,46.3,0,613.8,0
+ANR-ERMSSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,74.74,3.96,97.03,33.64,8/30/2018 9:01,46.3,0,613.8,0
+ANR-ERMSSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.74,3.96,97.03,33.64,8/30/2018 9:01,46.3,0,613.8,0
+ANR-GDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,42.5,1.74,87.58,8.05,10/3/2018 17:10,11154.8,0,383976.4,0
+ANR-GDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,42.5,1.74,87.58,8.05,10/3/2018 17:10,11154.8,0,383976.4,0
+ANR-GDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,42.5,1.74,87.58,8.05,10/3/2018 17:10,11154.8,0,383976.4,0
+ANR-Intra,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,90.33,10.34,99.29,140.63,12/31/2017 18:46,32.1,0,40.3,0
+ANR-Intra,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,90.33,10.34,99.29,140.63,12/31/2017 18:46,32.1,0,40.3,0
+ANR-Intra,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.33,10.34,99.29,140.63,12/31/2017 18:46,32.1,0,40.3,0
+ANR-Leo,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,80.94,5.25,98.34,60.16,1/2/2018 8:48,30,0,18.7,0
+ANR-Leo,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,80.94,5.25,98.34,60.16,1/2/2018 8:48,30,0,18.7,0
+ANR-Leo,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,80.94,5.25,98.34,60.16,1/2/2018 8:48,30,0,18.7,0
+ANR-Maps,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,36.16,1.57,94.09,16.93,11/11/2017 8:35,261.3,0,202.1,0
+ANR-Maps,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,36.16,1.57,94.09,16.93,11/11/2017 8:35,261.3,0,202.1,0
+ANR-Maps,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,36.16,1.57,94.09,16.93,11/11/2017 8:35,261.3,0,202.1,0
+ANR-Mars,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,38.77,1.63,95.81,23.86,11/11/2017 8:35,290.2,0,-818.5,0
+ANR-Mars,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,38.77,1.63,95.81,23.86,11/11/2017 8:35,290.2,0,-818.5,0
+ANR-Mars,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,38.77,1.63,95.81,23.86,11/11/2017 8:35,290.2,0,-818.5,0
+ANR-NForms,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,68.25,3.15,97.36,37.87,11/11/2017 8:35,39.7,0,-32.6,0
+ANR-NForms,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,68.25,3.15,97.36,37.87,11/11/2017 8:35,39.7,0,-32.6,0
+ANR-NForms,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.25,3.15,97.36,37.87,11/11/2017 8:35,39.7,0,-32.6,0
+ANR-NRBSP2010,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,77.9,4.53,97.79,45.18,11/11/2017 8:35,39.9,0,132.3,0
+ANR-NRBSP2010,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,77.9,4.53,97.79,45.18,11/11/2017 8:35,39.9,0,132.3,0
+ANR-NRBSP2010,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,77.9,4.53,97.79,45.18,11/11/2017 8:35,39.9,0,132.3,0
+ANR-Proxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,27.16,1.37,94.68,18.79,12/31/2017 18:46,492.7,0,-2317.4,0
+ANR-Proxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,27.16,1.37,94.68,18.79,12/31/2017 18:46,492.7,0,-2317.4,0
+ANR-Proxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,27.16,1.37,94.68,18.79,12/31/2017 18:46,492.7,0,-2317.4,0
+ANR-SPFE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,33.65,1.51,90.84,10.92,12/31/2017 18:48,909.5,0,3154.6,0
+ANR-SPFE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,33.65,1.51,90.84,10.92,12/31/2017 18:48,909.5,0,3154.6,0
+ANR-SPFE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,33.65,1.51,90.84,10.92,12/31/2017 18:48,909.5,0,3154.6,0
+ANR-SPWebApp,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,80.48,5.12,98.33,60.03,1/3/2018 9:20,162.8,0,14.9,0
+ANR-SPWebApp,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,80.48,5.12,98.33,60.03,1/3/2018 9:20,162.8,0,14.9,0
+ANR-SPWebApp,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,80.48,5.12,98.33,60.03,1/3/2018 9:20,162.8,0,14.9,0
+ANR-TestSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,79.62,4.91,98.61,72.17,8/30/2018 9:01,16.7,0,-297,0
+ANR-TestSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,79.62,4.91,98.61,72.17,8/30/2018 9:01,16.7,0,-297,0
+ANR-Venus,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,55.75,2.26,92.1,12.65,1/5/2018 9:03,2089.7,0,15920.7,0
+ANR-Venus,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,55.75,2.26,92.1,12.65,1/5/2018 9:03,2089.7,0,15920.7,0
+ANR-Venus,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,55.75,2.26,92.1,12.65,1/5/2018 9:03,2089.7,0,15920.7,0
+ANR-vParksRH7,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,70.7,3.41,96.99,33.22,12/31/2017 18:49,90.5,0,96.9,0
+ANR-vParksRH7,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,70.7,3.41,96.99,33.22,12/31/2017 18:49,90.5,0,96.9,0
+ANR-vParksRH7,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.7,3.41,96.99,33.22,12/31/2017 18:49,90.5,0,96.9,0
+ANR-WEB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,86.09,7.19,98.96,96,1/2/2018 8:52,46.1,0,-64.2,0
+ANR-WEB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,86.09,7.19,98.96,96,1/2/2018 8:52,46.1,0,-64.2,0
+ANR-WEB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,86.09,7.19,98.96,96,1/2/2018 8:52,46.1,0,-64.2,0
+ANR-WWWIntranet,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,90.71,10.76,99.31,143.99,1/2/2018 8:49,37.9,0,-5.4,0
+ANR-WWWIntranet,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ANR,90.71,10.76,99.31,143.99,1/2/2018 8:49,37.9,0,-5.4,0
+ANR-WWWIntranet,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.71,10.76,99.31,143.99,1/2/2018 8:49,37.9,0,-5.4,0
+AzureLinuxtest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,98.72,77.85,99.91,1167.75,4/10/2018 16:47,1.7,0,0,0
+AzureLinuxtest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,98.72,77.85,99.91,1167.75,4/10/2018 16:47,1.7,0,0,0
+AzureMigrate,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,85.73,7.01,99.03,103.62,11/29/2017 14:32,12.4,0,0,0
+AzureMigrate,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,85.73,7.01,99.03,103.62,11/29/2017 14:32,12.4,0,0,0
+AZURETEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,76.21,4.2,97.93,48.37,10/6/2017 14:37,15.9,0,6.8,0
+AZURETEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,76.21,4.2,97.93,48.37,10/6/2017 14:37,15.9,0,6.8,0
+Azuretest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,96.13,25.82,99.73,368.16,10/6/2017 14:37,28,0,14,0
+Azuretest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,96.13,25.82,99.73,368.16,10/6/2017 14:37,28,0,14,0
+BGS-CTCHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,81.52,5.41,98.4,62.33,12/13/2017 14:05,20.7,0,8.1,0
+BGS-CTCHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,81.52,5.41,98.4,62.33,12/13/2017 14:05,20.7,0,8.1,0
+BGS-CTCHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,81.52,5.41,98.4,62.33,12/13/2017 14:05,20.7,0,8.1,0
+BGS-CTIAX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,80.33,5.08,97.06,33.96,12/13/2017 14:05,132.8,0,259,0
+BGS-CTIAX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,80.33,5.08,97.06,33.96,12/13/2017 14:05,132.8,0,259,0
+BGS-CTIAX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,80.33,5.08,97.06,33.96,12/13/2017 14:05,132.8,0,259,0
+BGS-CTIN4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,91.26,11.44,99.32,147.72,8/9/2018 17:37,20.4,0,8.3,0
+BGS-CTIN4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,91.26,11.44,99.32,147.72,8/9/2018 17:37,20.4,0,8.3,0
+BGS-CTIN4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,91.26,11.44,99.32,147.72,8/9/2018 17:37,20.4,0,8.3,0
+BGS-CTIR2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,84.41,6.42,98.72,78.26,12/13/2017 14:05,30.9,0,45.4,0
+BGS-CTIR2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,84.41,6.42,98.72,78.26,12/13/2017 14:05,30.9,0,45.4,0
+BGS-CTIR2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,84.41,6.42,98.72,78.26,12/13/2017 14:05,30.9,0,45.4,0
+BGS-FTview,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,61.22,2.58,96.72,30.45,12/13/2017 14:05,42.3,0,12.2,0
+BGS-FTview,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,61.22,2.58,96.72,30.45,12/13/2017 14:05,42.3,0,12.2,0
+BGS-FTview,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,61.22,2.58,96.72,30.45,12/13/2017 14:05,42.3,0,12.2,0
+BGS-Gasmonitor,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,70.61,3.4,97.21,35.8,12/29/2017 9:14,21,0,58,0
+BGS-Gasmonitor,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,70.61,3.4,97.21,35.8,12/29/2017 9:14,21,0,58,0
+BGS-Gasmonitor,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.61,3.4,97.21,35.8,12/29/2017 9:14,21,0,58,0
+BGS-JCIHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,68.9,3.22,96.99,33.18,12/13/2017 14:05,24.3,0,46.9,0
+BGS-JCIHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,68.9,3.22,96.99,33.18,12/13/2017 14:05,24.3,0,46.9,0
+BGS-JCIHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.9,3.22,96.99,33.18,12/13/2017 14:05,24.3,0,46.9,0
+BGS-N4HVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,67.57,3.08,96.79,31.19,12/13/2017 14:05,25.8,0,49.5,0
+BGS-N4HVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,67.57,3.08,96.79,31.19,12/13/2017 14:05,25.8,0,49.5,0
+BGS-N4HVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,67.57,3.08,96.79,31.19,12/13/2017 14:05,25.8,0,49.5,0
+BGS-PLNTPRESS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,52.81,2.12,95.22,20.93,12/29/2017 9:14,57.5,0,310.8,0
+BGS-PLNTPRESS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,52.81,2.12,95.22,20.93,12/29/2017 9:14,57.5,0,310.8,0
+BGS-PLNTPRESS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.81,2.12,95.22,20.93,12/29/2017 9:14,57.5,0,310.8,0
+BGS-PRINTASE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,54.22,2.18,95.99,24.92,12/29/2017 9:14,43.1,0,23.3,0
+BGS-PRINTASE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,54.22,2.18,95.99,24.92,12/29/2017 9:14,43.1,0,23.3,0
+BGS-PRINTASE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,54.22,2.18,95.99,24.92,12/29/2017 9:14,43.1,0,23.3,0
+BGS-Prowatch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,59.63,2.48,94.98,19.91,12/29/2017 9:14,498.2,0,2360.3,0
+BGS-Prowatch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,59.63,2.48,94.98,19.91,12/29/2017 9:14,498.2,0,2360.3,0
+BGS-Prowatch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,59.63,2.48,94.98,19.91,12/29/2017 9:14,498.2,0,2360.3,0
+BGS-SkySparks,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,89.2,9.26,98.26,57.33,12/13/2017 14:05,29.2,0,9.8,0
+BGS-SkySparks,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,89.2,9.26,98.26,57.33,12/13/2017 14:05,29.2,0,9.8,0
+BGS-SkySparks,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,89.2,9.26,98.26,57.33,12/13/2017 14:05,29.2,0,9.8,0
+BGS-TCOVHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,84.99,6.66,98.21,55.84,12/13/2017 14:05,35,0,141.4,0
+BGS-TCOVHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,84.99,6.66,98.21,55.84,12/13/2017 14:05,35,0,141.4,0
+BGS-TCOVHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,84.99,6.66,98.21,55.84,12/13/2017 14:05,35,0,141.4,0
+BIDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,70.45,3.38,97.39,38.27,11/15/2017 11:24,51.6,0,0,0
+BIDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.45,3.38,97.39,38.27,11/15/2017 11:24,51.6,0,0,0
+BIPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,67.84,3.11,97.79,45.18,11/15/2017 11:23,28.5,0,0.6,0
+BIPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,67.84,3.11,97.79,45.18,11/15/2017 11:23,28.5,0,0.6,0
+BIPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,64.22,2.79,96.48,28.41,11/15/2017 11:23,26.5,0,-6.8,0
+BIPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.22,2.79,96.48,28.41,11/15/2017 11:23,26.5,0,-6.8,0
+BUDBUILD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,69.01,3.23,97.91,47.95,11/15/2017 11:23,40.3,0,0.2,0
+BUDBUILD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,69.01,3.23,97.91,47.95,11/15/2017 11:23,40.3,0,0.2,0
+BUDGETUTIL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,51.68,2.07,96.16,26.01,10/24/2017 8:27,21.7,0,-77.4,0
+BUDGETUTIL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.68,2.07,96.16,26.01,10/24/2017 8:27,21.7,0,-77.4,0
+Citrix VPX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,97.22,35.96,97.22,35.96,10/23/2017 7:32,9,0,10.1,0
+Citrix VPX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,97.22,35.96,97.22,35.96,10/23/2017 7:32,9,0,10.1,0
+Citrix VPX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,97.22,35.96,97.22,35.96,10/23/2017 7:32,9,0,10.1,0
+DEV-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,87.48,7.99,99.12,113.6,10/24/2017 8:09,32.6,0,14.2,0
+DEV-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,87.48,7.99,99.12,113.6,10/24/2017 8:09,32.6,0,14.2,0
+DEV-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,87.48,7.99,99.12,113.6,10/24/2017 8:09,32.6,0,14.2,0
+DEV-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,86.63,7.48,99.05,105.42,4/5/2018 16:07,83.9,0,-41,0
+DEV-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,86.63,7.48,99.05,105.42,4/5/2018 16:07,83.9,0,-41,0
+DEV-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,86.63,7.48,99.05,105.42,4/5/2018 16:07,83.9,0,-41,0
+DEVM-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,82.72,5.79,98.82,84.88,10/24/2017 8:09,3.8,0,0,0
+DEVM-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,82.72,5.79,98.82,84.88,10/24/2017 8:09,3.8,0,0,0
+DEVM-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,82.72,5.79,98.82,84.88,10/24/2017 8:09,3.8,0,0,0
+DEVM-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,87.02,7.7,99.12,113.98,10/24/2017 8:09,17,0,0,0
+DEVM-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,87.02,7.7,99.12,113.98,10/24/2017 8:09,17,0,0,0
+DEVM-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,87.02,7.7,99.12,113.98,10/24/2017 8:09,17,0,0,0
+DLC-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,70.07,3.34,96.57,29.18,1/10/2018 20:27,27.6,0,5.3,0
+DLC-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.07,3.34,96.57,29.18,1/10/2018 20:27,27.6,0,5.3,0
+DLC-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,72.21,3.6,96.85,31.8,1/5/2018 9:07,25.3,0,-21.3,0
+DLC-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,72.21,3.6,96.85,31.8,1/5/2018 9:07,25.3,0,-21.3,0
+DLC-File,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,33.35,1.5,94.55,18.35,1/7/2018 8:31,1360.2,0,688.7,0
+DLC-File,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,33.35,1.5,94.55,18.35,1/7/2018 8:31,1360.2,0,688.7,0
+DLC-LM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,73.39,3.76,96.1,25.67,1/3/2018 9:30,31.4,0,-33.4,0
+DLC-LM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,73.39,3.76,96.1,25.67,1/3/2018 9:30,31.4,0,-33.4,0
+DLC-Print,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,38.79,1.63,94.69,18.84,1/5/2018 9:07,82.6,0,-171.9,0
+DLC-Print,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,38.79,1.63,94.69,18.84,1/5/2018 9:07,82.6,0,-171.9,0
+DLC-RIMS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,78.74,4.7,92.98,14.24,1/9/2018 8:48,429.9,0,-2201.4,0
+DLC-RIMS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.74,4.7,92.98,14.24,1/9/2018 8:48,429.9,0,-2201.4,0
+DLC-SEQUOIA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,70.92,3.44,97.02,33.56,1/10/2018 20:27,104.6,0,120.8,0
+DLC-SEQUOIA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.92,3.44,97.02,33.56,1/10/2018 20:27,104.6,0,120.8,0
+DLC-SEQUOIATEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,75.38,4.06,96.57,29.14,1/4/2018 9:35,127.8,0,-931.2,0
+DLC-SEQUOIATEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.38,4.06,96.57,29.14,1/4/2018 9:35,127.8,0,-931.2,0
+DLC-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,84.43,6.42,98.76,80.4,1/7/2018 14:49,26.8,0,-20,0
+DLC-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,84.43,6.42,98.76,80.4,1/7/2018 14:49,26.8,0,-20,0
+DSHEPARD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,62.97,2.7,96.95,32.82,10/24/2017 8:27,12.3,0,19.9,0
+DSHEPARD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.97,2.7,96.95,32.82,10/24/2017 8:27,12.3,0,19.9,0
+EAG- pfSense-BFIS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,92.43,13.21,99.48,191.11,12/6/2017 16:25,0.7,0,0.2,0
+EAG- pfSense-BFIS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,92.43,13.21,99.48,191.11,12/6/2017 16:25,0.7,0,0.2,0
+EAG-JonTest,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,0,0,0,0,10/24/2018 13:37,0,0,0,0
+EAG-JonTest,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,0,0,0,0,10/24/2018 13:37,0,0,0,0
+eagmbrocadesan,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.89,3.21,97.44,39.06,10/6/2017 15:16,19.2,0,-26.7,0
+EAGMDC02,vSphere VM,eagmnlvca.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.31,2.97,96.52,28.7,1/9/2018 10:08,26.2,0,-36.9,0
+eagmesrsve01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,99.88,823.12,99.88,823.12,10/9/2017 13:05,1.3,0,0,0
+eagmiaas01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.67,3.95,98.01,50.19,10/6/2017 15:16,18.2,0,-40.7,0
+EAGMLM,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.15,3.35,98.01,50.26,10/6/2017 15:16,16,0,0,0
+eagmlogicmon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,88.4,8.62,99.21,125.96,10/6/2017 14:37,6.4,0,0,0
+eagmlogicmon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,88.4,8.62,99.21,125.96,10/6/2017 14:37,6.4,0,0,0
+eagmmail01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.96,2.08,96.69,30.18,10/6/2017 15:16,53.4,0,76.9,0
+eagmnlepsc,vSphere VM,eagmnlvca.ea.dii.state.vt.us,Local,NL Two Weeks,Global,91.62,11.93,99.33,148.78,1/9/2018 10:08,5.7,0,2.9,0
+eagmnlvca,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,95.82,23.92,99.68,315.76,10/11/2017 8:48,11.1,0,5,0
+eagmpassmgmt,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.9,2.7,96.48,28.38,10/6/2017 15:16,26.5,0,-36.9,0
+eagmscrt01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.99,3.22,97.22,35.93,10/6/2017 15:16,34.4,0,-49.6,0
+eagmsplunk01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.41,4.07,98.2,55.64,10/6/2017 15:16,213.2,0,132.5,0
+eagmsplunk02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,74.85,3.98,96.73,30.59,10/6/2017 14:37,35.1,0,97.2,0
+eagmsplunk02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.85,3.98,96.73,30.59,10/6/2017 14:37,35.1,0,97.2,0
+eagmutlppath02,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,93.92,16.44,99.59,246.55,10/6/2017 15:16,0.7,0,0,0
+eagmutlsep01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,22.36,1.29,87.53,8.02,10/6/2017 15:16,225,0,-705.4,0
+eagmutlwsus,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,20.14,1.25,94.68,18.78,10/6/2017 15:16,192.9,0,0,0
+eagmvmvc01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.05,4.56,97.05,33.9,10/9/2017 10:19,89,0,-40.6,0
+eagmvraut01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.41,3.17,97.03,33.62,10/9/2017 13:05,63.4,0,94.6,0
+eagmvrbiz01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,86.15,7.22,97.73,44.06,10/9/2017 13:05,17.1,0,37.5,0
+eagmvrin01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,87.54,8.02,98.99,98.9,10/9/2017 13:05,3,0,-3.2,0
+eagpdc01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,61.49,2.6,96.39,27.69,10/9/2017 10:19,33.1,0,-21.5,0
+eagpdc02,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.74,2.55,96.23,26.54,10/9/2017 10:19,28.3,0,-29.2,0
+eagpdc03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,67.15,3.04,97.12,34.75,10/9/2017 7:58,30.3,0,-30.9,0
+eagpdc03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,67.15,3.04,97.12,34.75,10/9/2017 7:58,30.3,0,-30.9,0
+EAG-pfSAense-ADS-NL02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,0,0,0,0,10/24/2018 13:04,0,0,0,0
+EAG-pfSAense-ADS-NL02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,0,0,0,0,10/24/2018 13:04,0,0,0,0
+EAG-pfSense-ADS-NL01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,0,0,0,0,10/23/2018 16:26,0,0,0,0
+EAG-pfSense-ADS-NL01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,0,0,0,0,10/23/2018 16:26,0,0,0,0
+EAG-pfSense-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,93.01,14.31,99.52,208.54,6/18/2018 13:57,0.6,0,0.6,0
+EAG-pfSense-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,93.01,14.31,99.52,208.54,6/18/2018 13:57,0.6,0,0.6,0
+EAG-pfSenseWS-Jon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,86.68,7.51,99.07,107.14,6/18/2018 14:27,7.5,0,0.1,0
+EAG-pfSenseWS-Jon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,86.68,7.51,99.07,107.14,6/18/2018 14:27,7.5,0,0.1,0
+eagpportal01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,90.58,10.61,99.35,152.79,10/9/2017 7:58,2.1,0,0,0
+eagpportal01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.58,10.61,99.35,152.79,10/9/2017 7:58,2.1,0,0,0
+eagpproxy01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,91.52,11.8,99.42,171.14,10/9/2017 7:58,1.9,0,0,0
+eagpproxy01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,91.52,11.8,99.42,171.14,10/9/2017 7:58,1.9,0,0,0
+eagpvcom01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,68.16,3.14,97.11,34.56,10/11/2017 8:50,21.7,0,-17.4,0
+eagpvcom01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.16,3.14,97.11,34.56,10/11/2017 8:50,21.7,0,-17.4,0
+eagpvdivc01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,78.03,4.55,98.14,53.65,10/11/2017 8:50,75.8,0,-18.2,0
+eagpvdivc01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.03,4.55,98.14,53.65,10/11/2017 8:50,75.8,0,-18.2,0
+eagpvdivcdb01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,88.42,8.64,98,50.05,10/11/2017 8:50,160.4,0,-113.5,0
+eagpvdivcdb01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,88.42,8.64,98,50.05,10/11/2017 8:50,160.4,0,-113.5,0
+eagpvmvc01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,72.97,3.7,96.94,32.71,10/11/2017 8:48,129.2,0,-148,0
+eagpvmvcdb01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,89.25,9.3,96.73,30.63,10/11/2017 8:48,407.4,0,1278.2,0
+eagpvmvcweb,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,63.73,2.76,96.84,31.68,10/11/2017 8:48,38,0,-30,0
+eagpvrops01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,83.02,5.89,97.07,34.08,10/9/2017 13:05,221.8,0,0,0
+eagpvshield02,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,89.72,9.73,98.52,67.76,10/11/2017 8:48,13.3,0,18.8,0
+eagwclund,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,67.33,3.06,97.46,39.39,10/9/2017 7:55,73.6,0,69.3,0
+eagwdgwozdz,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,65.38,2.89,96.41,27.89,10/9/2017 7:55,103.2,0,-10.4,0
+eagwjheintz,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.42,2.15,95.78,23.67,10/9/2017 7:55,57.2,0,-92.3,0
+eagwjheintz2,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,54.27,2.19,95.72,23.35,8/13/2018 10:53,57.9,0,16.2,0
+eagwjhosford,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.71,2.68,96.87,31.99,10/9/2017 7:55,37.6,0,-228.2,0
+eagwkneas,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,81.76,5.48,98.58,70.58,8/14/2018 11:09,12.8,0,-17.4,0
+eagwmlapera,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,54.46,2.2,95.92,24.53,10/9/2017 7:55,49,0,0.2,0
+ENT-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,75.3,4.05,96.5,28.57,12/31/2017 18:40,84.6,0,1274,0
+ENT-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,75.3,4.05,96.5,28.57,12/31/2017 18:40,84.6,0,1274,0
+ENT-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.3,4.05,96.5,28.57,12/31/2017 18:40,84.6,0,1274,0
+ENT-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,29.3,1.41,90.68,10.73,1/2/2018 8:43,594.3,0,1054.8,0
+ENT-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,29.3,1.41,90.68,10.73,1/2/2018 8:43,594.3,0,1054.8,0
+ENT-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,29.3,1.41,90.68,10.73,1/2/2018 8:43,594.3,0,1054.8,0
+ENT-ACD4-CIC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,31.52,1.46,92.48,13.3,12/31/2017 18:40,503.8,0,185.4,0
+ENT-ACD4-CIC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,31.52,1.46,92.48,13.3,12/31/2017 18:40,503.8,0,185.4,0
+ENT-ACD4-CIC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,31.52,1.46,92.48,13.3,12/31/2017 18:40,503.8,0,185.4,0
+ENT-ACD4-IMON,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,51.36,2.06,96.24,26.59,12/31/2017 18:40,84.8,0,-169.6,0
+ENT-ACD4-IMON,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,51.36,2.06,96.24,26.59,12/31/2017 18:40,84.8,0,-169.6,0
+ENT-ACD4-IMON,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.36,2.06,96.24,26.59,12/31/2017 18:40,84.8,0,-169.6,0
+ENT-ACD4-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,Dave Fortin,85.21,6.76,90.66,10.71,1/26/2018 9:52,179.5,0,-78.4,0
+ENT-ACD4-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,DII - EAS,85.21,6.76,90.66,10.71,1/26/2018 9:52,179.5,0,-78.4,0
+ENT-ACD4-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,Global,85.21,6.76,90.66,10.71,1/26/2018 9:52,179.5,0,-78.4,0
+ENT-ACD4-SRS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,82.3,5.65,98.6,71.6,12/31/2017 18:40,31.5,0,25.3,0
+ENT-ACD4-SRS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,82.3,5.65,98.6,71.6,12/31/2017 18:40,31.5,0,25.3,0
+ENT-ACD4-SRS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,82.3,5.65,98.6,71.6,12/31/2017 18:40,31.5,0,25.3,0
+ENT-ACD4-TTS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,84.09,6.29,98.75,79.7,12/31/2017 18:40,30.3,0,63.4,0
+ENT-ACD4-TTS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,84.09,6.29,98.75,79.7,12/31/2017 18:40,30.3,0,63.4,0
+ENT-ACD4-TTS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,84.09,6.29,98.75,79.7,12/31/2017 18:40,30.3,0,63.4,0
+ENT-ACD-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,79.87,4.97,98.66,74.5,12/31/2017 18:40,10.8,0,0,0
+ENT-ACD-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,79.87,4.97,98.66,74.5,12/31/2017 18:40,10.8,0,0,0
+ENT-ACD-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,79.87,4.97,98.66,74.5,12/31/2017 18:40,10.8,0,0,0
+ENT-ADSSLS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,97.18,35.48,99.75,401.82,10/5/2018 8:28,17.6,0,839.8,0
+ENT-ADSSLS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,97.18,35.48,99.75,401.82,10/5/2018 8:28,17.6,0,839.8,0
+ENT-ADSSLS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,97.18,35.48,99.75,401.82,10/5/2018 8:28,17.6,0,839.8,0
+ENT-CA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,85.22,6.76,98.93,93.76,3/8/2018 15:27,10.3,0,0.5,0
+ENT-CA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,85.22,6.76,98.93,93.76,3/8/2018 15:27,10.3,0,0.5,0
+ENT-CA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,85.22,6.76,98.93,93.76,3/8/2018 15:27,10.3,0,0.5,0
+ENT-CISCO-CDA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,96.72,30.52,99.75,392.88,8/1/2018 10:26,4.6,0,129.1,0
+ENT-CISCO-CDA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,96.72,30.52,99.75,392.88,8/1/2018 10:26,4.6,0,129.1,0
+ENT-CISCO-CDA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,96.72,30.52,99.75,392.88,8/1/2018 10:26,4.6,0,129.1,0
+ENT-Citrix-MGMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,71.77,3.54,97.47,39.6,10/24/2017 8:23,22.8,0,37.1,0
+ENT-Citrix-MGMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,71.77,3.54,97.47,39.6,10/24/2017 8:23,22.8,0,37.1,0
+ENT-Citrix-MGMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,71.77,3.54,97.47,39.6,10/24/2017 8:23,22.8,0,37.1,0
+ENT-CITRIX-NS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,92.44,13.23,99.39,162.62,5/18/2018 14:19,2.8,0,-0.7,0
+ENT-CITRIX-NS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,92.44,13.23,99.39,162.62,5/18/2018 14:19,2.8,0,-0.7,0
+ENT-CITRIX-NS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,92.44,13.23,99.39,162.62,5/18/2018 14:19,2.8,0,-0.7,0
+Ent-Citrix-SQL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,78.06,4.56,96.61,29.54,10/24/2017 8:23,45.8,0,242,0
+Ent-Citrix-SQL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,78.06,4.56,96.61,29.54,10/24/2017 8:23,45.8,0,242,0
+Ent-Citrix-SQL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.06,4.56,96.61,29.54,10/24/2017 8:23,45.8,0,242,0
+Ent-Citrix-XA00,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,63.91,2.77,96.57,29.14,10/24/2017 8:23,67.1,0,95.6,0
+Ent-Citrix-XA00,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,63.91,2.77,96.57,29.14,10/24/2017 8:23,67.1,0,95.6,0
+Ent-Citrix-XA00,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,63.91,2.77,96.57,29.14,10/24/2017 8:23,67.1,0,95.6,0
+Ent-Citrix-XA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,60,2.5,92.59,13.49,10/24/2017 8:23,155.2,0,341.6,0
+Ent-Citrix-XA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,60,2.5,92.59,13.49,10/24/2017 8:23,155.2,0,341.6,0
+Ent-Citrix-XA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60,2.5,92.59,13.49,10/24/2017 8:23,155.2,0,341.6,0
+Ent-Citrix-XA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,57.33,2.34,92.96,14.2,10/24/2017 8:23,147.4,0,2505,0
+Ent-Citrix-XA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,57.33,2.34,92.96,14.2,10/24/2017 8:23,147.4,0,2505,0
+Ent-Citrix-XA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.33,2.34,92.96,14.2,10/24/2017 8:23,147.4,0,2505,0
+ENT-Citrix-XA03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,55.24,2.23,95.52,22.34,10/24/2017 8:23,87.5,0,210.5,0
+ENT-Citrix-XA03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,55.24,2.23,95.52,22.34,10/24/2017 8:23,87.5,0,210.5,0
+ENT-Citrix-XA03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,55.24,2.23,95.52,22.34,10/24/2017 8:23,87.5,0,210.5,0
+ENT-Citrix-XA04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,78.26,4.6,96.34,27.34,10/24/2017 8:23,71.5,0,132.5,0
+ENT-Citrix-XA04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,78.26,4.6,96.34,27.34,10/24/2017 8:23,71.5,0,132.5,0
+ENT-Citrix-XA04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.26,4.6,96.34,27.34,10/24/2017 8:23,71.5,0,132.5,0
+Ent-Citrix-XA05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,48.98,1.96,94.86,19.47,10/24/2017 8:23,100.4,0,517.7,0
+Ent-Citrix-XA05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,48.98,1.96,94.86,19.47,10/24/2017 8:23,100.4,0,517.7,0
+Ent-Citrix-XA05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,48.98,1.96,94.86,19.47,10/24/2017 8:23,100.4,0,517.7,0
+Ent-Citrix-XA06,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,62.24,2.65,94.65,18.69,10/24/2017 8:23,104.6,0,211.5,0
+Ent-Citrix-XA06,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,62.24,2.65,94.65,18.69,10/24/2017 8:23,104.6,0,211.5,0
+Ent-Citrix-XA06,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.24,2.65,94.65,18.69,10/24/2017 8:23,104.6,0,211.5,0
+ENT-Citrix-XA07,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,51.57,2.06,95.8,23.81,10/24/2017 8:23,87.9,0,50.1,0
+ENT-Citrix-XA07,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,51.57,2.06,95.8,23.81,10/24/2017 8:23,87.9,0,50.1,0
+ENT-Citrix-XA07,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.57,2.06,95.8,23.81,10/24/2017 8:23,87.9,0,50.1,0
+Ent-Citrix-XA08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,45.92,1.85,95.39,21.67,10/24/2017 8:23,96.6,0,-9.5,0
+Ent-Citrix-XA08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,45.92,1.85,95.39,21.67,10/24/2017 8:23,96.6,0,-9.5,0
+Ent-Citrix-XA08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,45.92,1.85,95.39,21.67,10/24/2017 8:23,96.6,0,-9.5,0
+ENT-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,96.99,33.2,99.8,498.03,11/10/2017 9:00,11.3,0,0,0
+ENT-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,96.99,33.2,99.8,498.03,11/10/2017 9:00,11.3,0,0,0
+ENT-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,96.99,33.2,99.8,498.03,11/10/2017 9:00,11.3,0,0,0
+ENT-LAMP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,42.75,1.75,95.46,22,11/10/2017 9:00,18.3,0,13.9,0
+ENT-LAMP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,42.75,1.75,95.46,22,11/10/2017 9:00,18.3,0,13.9,0
+ENT-LAMP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,42.75,1.75,95.46,22,11/10/2017 9:00,18.3,0,13.9,0
+ENT-LD-DB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,Dave Fortin,82.74,5.79,87.56,8.04,1/26/2018 9:53,133.6,0,-274.7,0
+ENT-LD-DB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,DII - EAS,82.74,5.79,87.56,8.04,1/26/2018 9:53,133.6,0,-274.7,0
+ENT-LD-DB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Weekly large Snapshots,Global,82.74,5.79,87.56,8.04,1/26/2018 9:53,133.6,0,-274.7,0
+ENT-MCAFEE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,76.06,4.18,98.12,53.3,11/6/2017 7:48,55.8,0,-789.1,0
+ENT-MCAFEE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,76.06,4.18,98.12,53.3,11/6/2017 7:48,55.8,0,-789.1,0
+ENT-MCAFEE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,76.06,4.18,98.12,53.3,11/6/2017 7:48,55.8,0,-789.1,0
+ENT-MCAFEEAGENT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,74.34,3.9,97.91,47.91,11/6/2017 7:48,15.7,0,-122.8,0
+ENT-MCAFEEAGENT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,74.34,3.9,97.91,47.91,11/6/2017 7:48,15.7,0,-122.8,0
+ENT-MCAFEEAGENT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.34,3.9,97.91,47.91,11/6/2017 7:48,15.7,0,-122.8,0
+ENT-NL-NBU-MAST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,75.01,4,97.39,38.29,11/6/2017 7:48,116.1,0,-49.9,0
+ENT-NL-NBU-MAST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,75.01,4,97.39,38.29,11/6/2017 7:48,116.1,0,-49.9,0
+ENT-NL-NBU-MAST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.01,4,97.39,38.29,11/6/2017 7:48,116.1,0,-49.9,0
+ENT-OPENVAS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,83.88,6.2,98.91,91.48,10/24/2017 8:24,8.8,0,0.4,0
+ENT-OPENVAS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,83.88,6.2,98.91,91.48,10/24/2017 8:24,8.8,0,0.4,0
+ENT-OPENVAS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,83.88,6.2,98.91,91.48,10/24/2017 8:24,8.8,0,0.4,0
+ENT-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,66.21,2.96,96.3,27.02,11/10/2017 9:00,35.4,0,84.5,0
+ENT-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,66.21,2.96,96.3,27.02,11/10/2017 9:00,35.4,0,84.5,0
+ENT-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.21,2.96,96.3,27.02,11/10/2017 9:00,35.4,0,84.5,0
+ENT-SPLUNK01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,80.7,5.18,98.41,62.76,11/10/2017 9:10,53.9,0,36.9,0
+ENT-SPLUNK01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,80.7,5.18,98.41,62.76,11/10/2017 9:10,53.9,0,36.9,0
+ENT-SQLTEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,89.69,9.69,97.12,34.72,11/10/2017 9:00,120.6,0,-612.2,0
+ENT-SQLTEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,89.69,9.69,97.12,34.72,11/10/2017 9:00,120.6,0,-612.2,0
+ENT-SQLTEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,89.69,9.69,97.12,34.72,11/10/2017 9:00,120.6,0,-612.2,0
+ENT-TEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,75.94,4.16,98.2,55.65,11/10/2017 9:00,34,0,-72.3,0
+ENT-TEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,75.94,4.16,98.2,55.65,11/10/2017 9:00,34,0,-72.3,0
+ENT-TEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.94,4.16,98.2,55.65,11/10/2017 9:00,34,0,-72.3,0
+ENT-TenableFull-New,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,86.81,7.58,98.87,88.25,8/2/2018 10:05,71.8,0,99.1,0
+ENT-TenableFull-New,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,86.81,7.58,98.87,88.25,8/2/2018 10:05,71.8,0,99.1,0
+ENT-TenableFull-New,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,86.81,7.58,98.87,88.25,8/2/2018 10:05,71.8,0,99.1,0
+ENT-TenableScan1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,23.05,1.3,90.49,10.51,1/23/2018 12:06,71.5,0,17.9,0
+ENT-TenableScan1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,23.05,1.3,90.49,10.51,1/23/2018 12:06,71.5,0,17.9,0
+ENT-TenableScan1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,23.05,1.3,90.49,10.51,1/23/2018 12:06,71.5,0,17.9,0
+ENT-TenableScan2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,21.6,1.28,89.65,9.66,1/23/2018 12:05,77.8,0,123.6,0
+ENT-TenableScan2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,21.6,1.28,89.65,9.66,1/23/2018 12:05,77.8,0,123.6,0
+ENT-TenableScan2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,21.6,1.28,89.65,9.66,1/23/2018 12:05,77.8,0,123.6,0
+ENT-TenableScan3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,48.22,1.93,88.81,8.94,1/23/2018 16:37,78.1,0,114.1,0
+ENT-TenableScan3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,48.22,1.93,88.81,8.94,1/23/2018 16:37,78.1,0,114.1,0
+ENT-TenableScan3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,48.22,1.93,88.81,8.94,1/23/2018 16:37,78.1,0,114.1,0
+ERP-AFARRELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,66.35,2.97,97.69,43.26,10/24/2017 8:27,18.6,0,0,0
+ERP-AFARRELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.35,2.97,97.69,43.26,10/24/2017 8:27,18.6,0,0,0
+ERP-CHANGE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.72,2.16,96.5,28.58,1/7/2018 20:11,152.2,0,-81.6,0
+ERP-CHANGE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.72,2.16,96.5,28.58,1/7/2018 20:11,152.2,0,-81.6,0
+ERP-CORR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,46.07,1.85,92.81,13.91,10/24/2017 8:27,54,0,695.2,0
+ERP-CORR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,46.07,1.85,92.81,13.91,10/24/2017 8:27,54,0,695.2,0
+ERP-CPALISSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,64.99,2.86,96.93,32.54,10/24/2017 8:27,46.2,0,-75.5,0
+ERP-CPALISSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.99,2.86,96.93,32.54,10/24/2017 8:27,46.2,0,-75.5,0
+ERP-DBUPK,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,75,4,97.94,48.5,10/27/2017 9:06,24.9,0,0.3,0
+ERP-DBUPK,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75,4,97.94,48.5,10/27/2017 9:06,24.9,0,0.3,0
+ERP-DNS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,41.86,1.72,95.79,23.76,1/17/2018 8:46,562.6,0,-795.3,0
+ERP-DNS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,41.86,1.72,95.79,23.76,1/17/2018 8:46,562.6,0,-795.3,0
+ERP-DNS02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,31.5,1.46,90.28,10.28,1/7/2018 20:14,116.9,0,-12.8,0
+ERP-DNS02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,31.5,1.46,90.28,10.28,1/7/2018 20:14,116.9,0,-12.8,0
+ERP-ESDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,90.2,10.2,98.82,84.45,10/27/2017 9:06,49.6,0,133.7,0
+ERP-ESDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.2,10.2,98.82,84.45,10/27/2017 9:06,49.6,0,133.7,0
+ERP-ESDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,89.61,9.63,99.25,133.41,10/27/2017 9:06,29.8,0,102.7,0
+ERP-ESDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,89.61,9.63,99.25,133.41,10/27/2017 9:06,29.8,0,102.7,0
+ERP-FMSBX7APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,42.67,1.74,95.55,22.45,10/24/2017 8:28,57.4,0,79.7,0
+ERP-FMSBX7APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,42.67,1.74,95.55,22.45,10/24/2017 8:28,57.4,0,79.7,0
+ERP-FMSBX7WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,52.68,2.11,96.25,26.67,10/24/2017 8:28,28.2,0,0.5,0
+ERP-FMSBX7WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.68,2.11,96.25,26.67,10/24/2017 8:28,28.2,0,0.5,0
+ERP-FOGLIGHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,83.4,6.02,98.61,71.81,1/7/2018 20:13,37.7,0,-54.7,0
+ERP-FOGLIGHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,83.4,6.02,98.61,71.81,1/7/2018 20:13,37.7,0,-54.7,0
+ERP-FS-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,73.73,3.81,97.91,47.74,10/27/2017 9:06,49.5,0,-13.6,0
+ERP-FS-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,73.73,3.81,97.91,47.74,10/27/2017 9:06,49.5,0,-13.6,0
+ERP-FTPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,66.34,2.97,97.27,36.63,10/27/2017 9:06,54.2,0,-15.3,0
+ERP-FTPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.34,2.97,97.27,36.63,10/27/2017 9:06,54.2,0,-15.3,0
+ERP-FTPPRD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.89,2.17,96.24,26.58,10/27/2017 9:06,88.9,0,38.7,0
+ERP-FTPPRD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.89,2.17,96.24,26.58,10/27/2017 9:06,88.9,0,38.7,0
+ERP-JHACKNEY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,50.64,2.03,96.49,28.53,10/24/2017 8:27,28.2,0,0,0
+ERP-JHACKNEY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,50.64,2.03,96.49,28.53,10/24/2017 8:27,28.2,0,0,0
+ERP-JKEZAR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,63.82,2.76,96.22,26.43,2/2/2018 16:20,45.5,0,642.8,0
+ERP-JKEZAR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,63.82,2.76,96.22,26.43,2/2/2018 16:20,45.5,0,642.8,0
+ERP-KROULEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.42,2.15,96.16,26.06,10/24/2017 8:27,30.9,0,13.7,0
+ERP-KROULEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.42,2.15,96.16,26.06,10/24/2017 8:27,30.9,0,13.7,0
+ERP-LTRIPP-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,47.43,1.9,94.94,19.75,10/24/2017 8:27,38.1,0,-15.5,0
+ERP-LTRIPP-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,47.43,1.9,94.94,19.75,10/24/2017 8:27,38.1,0,-15.5,0
+ERP-NANDERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,97.42,38.74,99.83,581.1,8/7/2018 14:19,2.8,0,0,0
+ERP-NANDERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,97.42,38.74,99.83,581.1,8/7/2018 14:19,2.8,0,0,0
+ERP-OEM13c,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,48.36,1.94,95.79,23.75,1/7/2018 15:13,88.1,0,-32,0
+ERP-OEM13c,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,48.36,1.94,95.79,23.75,1/7/2018 15:13,88.1,0,-32,0
+ERP-OEM13cDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.68,1.99,90.76,10.82,1/7/2018 15:13,237.2,0,243.7,0
+ERP-OEM13cDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.68,1.99,90.76,10.82,1/7/2018 15:13,237.2,0,243.7,0
+ERP-PPERRY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,59.98,2.5,96.82,31.47,10/24/2017 8:27,25.6,0,-17.4,0
+ERP-PPERRY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,59.98,2.5,96.82,31.47,10/24/2017 8:27,25.6,0,-17.4,0
+ERP-SCI-AJAYI,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,51.83,2.08,95.2,20.83,2/26/2018 16:11,36.1,0,31.8,0
+ERP-SCI-AJAYI,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.83,2.08,95.2,20.83,2/26/2018 16:11,36.1,0,31.8,0
+ERP-SCI-AMAIN,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,72.27,3.61,97.79,45.29,10/24/2017 8:27,17.8,0,-1,0
+ERP-SCI-AMAIN,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,72.27,3.61,97.79,45.29,10/24/2017 8:27,17.8,0,-1,0
+ERP-SCI-CBURNETT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.16,1.97,95.88,24.3,10/24/2017 8:27,33.1,0,92.7,0
+ERP-SCI-CBURNETT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.16,1.97,95.88,24.3,10/24/2017 8:27,33.1,0,92.7,0
+ERP-SCI-DTARANGO,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,62.47,2.66,97.45,39.19,2/9/2018 17:33,20.5,0,0,0
+ERP-SCI-DTARANGO,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.47,2.66,97.45,39.19,2/9/2018 17:33,20.5,0,0,0
+ERP-SCI-JHENSLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,45.83,1.85,94.96,19.86,5/8/2018 16:28,37.9,0,-21.2,0
+ERP-SCI-JHENSLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,45.83,1.85,94.96,19.86,5/8/2018 16:28,37.9,0,-21.2,0
+ERP-SCI-JKENNERKNECHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,56.02,2.27,95.94,24.63,10/24/2017 8:27,30.5,0,-22.9,0
+ERP-SCI-JKENNERKNECHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.02,2.27,95.94,24.63,10/24/2017 8:27,30.5,0,-22.9,0
+ERP-SCI-MBLACKMORE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,40.25,1.67,87.59,8.06,10/24/2017 8:27,106.6,0,952.9,0
+ERP-SCI-MBLACKMORE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,40.25,1.67,87.59,8.06,10/24/2017 8:27,106.6,0,952.9,0
+ERP-SCI-MPFALLER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,46.27,1.86,94.66,18.74,10/24/2017 8:27,40.1,0,-760.3,0
+ERP-SCI-MPFALLER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,46.27,1.86,94.66,18.74,10/24/2017 8:27,40.1,0,-760.3,0
+ERP-SCI-NMANNA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,55.68,2.26,96.42,27.93,10/24/2017 8:27,28.8,0,23.3,0
+ERP-SCI-NMANNA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,55.68,2.26,96.42,27.93,10/24/2017 8:27,28.8,0,23.3,0
+ERP-SCI-RBAKER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,46.46,1.87,93.23,14.78,2/26/2018 16:11,58.1,0,0,0
+ERP-SCI-RBAKER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,46.46,1.87,93.23,14.78,2/26/2018 16:11,58.1,0,0,0
+ERP-SCI-RSMITH,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,45.64,1.84,95.32,21.36,10/24/2017 8:27,35.2,0,113.6,0
+ERP-SCI-RSMITH,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,45.64,1.84,95.32,21.36,10/24/2017 8:27,35.2,0,113.6,0
+ERP-SCI-SAJMAL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,45.99,1.85,96.13,25.83,2/9/2018 17:33,31.2,0,0,0
+ERP-SCI-SAJMAL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,45.99,1.85,96.13,25.83,2/9/2018 17:33,31.2,0,0,0
+ERP-SCI-SCONYERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,57.15,2.33,94.12,17.01,10/24/2017 8:27,50.5,0,-902.4,0
+ERP-SCI-SCONYERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.15,2.33,94.12,17.01,10/24/2017 8:27,50.5,0,-902.4,0
+ERP-SCI-SHULING,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,60.27,2.52,96.95,32.84,10/24/2017 8:27,24.5,0,-0.7,0
+ERP-SCI-SHULING,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.27,2.52,96.95,32.84,10/24/2017 8:27,24.5,0,-0.7,0
+ERP-SCI-UPGRADE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.11,2.13,88.41,8.63,10/24/2017 8:27,211.6,0,1400.9,0
+ERP-SCI-UPGRADE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.11,2.13,88.41,8.63,10/24/2017 8:27,211.6,0,1400.9,0
+ERP-SCI-UPGRADE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.6,1.98,96.28,26.88,10/24/2017 8:27,89.9,0,4.9,0
+ERP-SCI-UPGRADE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.6,1.98,96.28,26.88,10/24/2017 8:27,89.9,0,4.9,0
+ERP-SCI-WPINCKLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,70.67,3.41,97.74,44.34,10/24/2017 8:27,18.2,0,-0.6,0
+ERP-SCI-WPINCKLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.67,3.41,97.74,44.34,10/24/2017 8:27,18.2,0,-0.6,0
+ERP-SCI-WROGERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,55.06,2.22,96.83,31.52,2/26/2018 16:11,25.6,0,0,0
+ERP-SCI-WROGERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,55.06,2.22,96.83,31.52,2/26/2018 16:11,25.6,0,0,0
+ERP-SDORN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,65.7,2.92,94.92,19.68,7/19/2018 10:42,81.8,0,42.8,0
+ERP-SDORN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,65.7,2.92,94.92,19.68,7/19/2018 10:42,81.8,0,42.8,0
+ERP-SEP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,22.21,1.29,84.44,6.43,1/7/2018 20:12,187.1,0,-2510.7,0
+ERP-SEP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,22.21,1.29,84.44,6.43,1/7/2018 20:12,187.1,0,-2510.7,0
+ERP-SPETERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,52.9,2.12,96.23,26.51,10/24/2017 8:27,30.4,0,-15.3,0
+ERP-SPETERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.9,2.12,96.23,26.51,10/24/2017 8:27,30.4,0,-15.3,0
+ERP-SZELLER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,68.62,3.19,97.19,35.6,10/24/2017 8:27,21.1,0,-14.9,0
+ERP-SZELLER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.62,3.19,97.19,35.6,10/24/2017 8:27,21.1,0,-14.9,0
+ERP-TMARINEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,52.77,2.12,96.14,25.87,10/24/2017 8:27,31.1,0,32.6,0
+ERP-TMARINEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.77,2.12,96.14,25.87,10/24/2017 8:27,31.1,0,32.6,0
+ERP-UPKWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,33.02,1.49,92.79,13.87,10/27/2017 9:06,54.2,0,-34,0
+ERP-UPKWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,33.02,1.49,92.79,13.87,10/27/2017 9:06,54.2,0,-34,0
+ERP-WEBUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,64.89,2.85,96.57,29.15,10/27/2017 9:06,51.6,0,111.6,0
+ERP-WEBUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.89,2.85,96.57,29.15,10/27/2017 9:06,51.6,0,111.6,0
+FMDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.47,1.98,95.55,22.49,10/29/2017 15:54,53.5,0,30.9,0
+FMDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.47,1.98,95.55,22.49,10/29/2017 15:54,53.5,0,30.9,0
+FMDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,50.45,2.02,95.58,22.64,11/10/2017 9:16,35.6,0,-4.2,0
+FMDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,50.45,2.02,95.58,22.64,11/10/2017 9:16,35.6,0,-4.2,0
+FMDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,66.02,2.94,97.03,33.69,10/29/2017 15:54,35.7,0,62.5,0
+FMDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.02,2.94,97.03,33.69,10/29/2017 15:54,35.7,0,62.5,0
+FMDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,82.76,5.8,98.53,67.87,10/29/2017 15:54,11.1,0,-399.4,0
+FMDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,82.76,5.8,98.53,67.87,10/29/2017 15:54,11.1,0,-399.4,0
+FMDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,57.48,2.35,96.63,29.64,11/10/2017 9:16,25.4,0,-8.6,0
+FMDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.48,2.35,96.63,29.64,11/10/2017 9:16,25.4,0,-8.6,0
+FMPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,73.34,3.75,97.88,47.13,11/13/2017 10:52,25.5,0,-12.4,0
+FMPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,73.34,3.75,97.88,47.13,11/13/2017 10:52,25.5,0,-12.4,0
+FMPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,67.5,3.08,96.95,32.74,11/13/2017 10:52,36.7,0,-29.7,0
+FMPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,67.5,3.08,96.95,32.74,11/13/2017 10:52,36.7,0,-29.7,0
+FMPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,62.47,2.66,96,24.98,11/13/2017 10:52,30.1,0,373.6,0
+FMPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.47,2.66,96,24.98,11/13/2017 10:52,30.1,0,373.6,0
+FMPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,80.29,5.07,97.99,49.85,11/13/2017 10:52,81.8,0,-14.7,0
+FMPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,80.29,5.07,97.99,49.85,11/13/2017 10:52,81.8,0,-14.7,0
+FMPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,70.08,3.34,97.58,41.29,11/13/2017 10:52,18.2,0,-17.4,0
+FMPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.08,3.34,97.58,41.29,11/13/2017 10:52,18.2,0,-17.4,0
+FMPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,70.32,3.37,97.6,41.69,11/13/2017 10:52,18,0,112.4,0
+FMPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.32,3.37,97.6,41.69,11/13/2017 10:52,18,0,112.4,0
+FMPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,75.39,4.06,98.01,50.37,11/13/2017 10:52,14.9,0,-120.3,0
+FMPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.39,4.06,98.01,50.37,11/13/2017 10:52,14.9,0,-120.3,0
+FMSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,57.17,2.33,95.39,21.7,10/24/2017 8:28,55.4,0,-39.5,0
+FMSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.17,2.33,95.39,21.7,10/24/2017 8:28,55.4,0,-39.5,0
+FMSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,59.41,2.46,96.27,26.8,10/24/2017 8:28,28,0,-23.4,0
+FMSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,59.41,2.46,96.27,26.8,10/24/2017 8:28,28,0,-23.4,0
+FMSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,52.51,2.11,94.85,19.41,10/24/2017 8:28,38.7,0,101.1,0
+FMSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.51,2.11,94.85,19.41,10/24/2017 8:28,38.7,0,101.1,0
+FMSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,50.38,2.02,94.88,19.55,10/24/2017 8:28,61.5,0,-2.8,0
+FMSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,50.38,2.02,94.88,19.55,10/24/2017 8:28,61.5,0,-2.8,0
+FMSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,72.94,3.7,97.46,39.4,10/24/2017 8:28,19.1,0,388.4,0
+FMSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,72.94,3.7,97.46,39.4,10/24/2017 8:28,19.1,0,388.4,0
+FMSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,48.61,1.95,94.52,18.23,10/24/2017 8:28,41.2,0,7.7,0
+FMSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,48.61,1.95,94.52,18.23,10/24/2017 8:28,41.2,0,7.7,0
+FMSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,43.86,1.78,94.77,19.13,10/24/2017 8:28,62.9,0,-23.5,0
+FMSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,43.86,1.78,94.77,19.13,10/24/2017 8:28,62.9,0,-23.5,0
+FMSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,56.28,2.29,95.84,24.02,10/24/2017 8:28,31.3,0,-32.1,0
+FMSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.28,2.29,95.84,24.02,10/24/2017 8:28,31.3,0,-32.1,0
+FMSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,47.22,1.89,94.36,17.72,10/24/2017 8:28,42.4,0,-107.3,0
+FMSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,47.22,1.89,94.36,17.72,10/24/2017 8:28,42.4,0,-107.3,0
+FMSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,97.46,39.45,99.81,535.29,10/24/2017 8:28,2.4,0,0.3,0
+FMSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,97.46,39.45,99.81,535.29,10/24/2017 8:28,2.4,0,0.3,0
+FMSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,71.97,3.57,97.6,41.6,10/24/2017 8:28,18.1,0,-28.2,0
+FMSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,71.97,3.57,97.6,41.6,10/24/2017 8:28,18.1,0,-28.2,0
+FMSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,97.28,36.83,99.79,478.94,10/24/2017 8:28,1.7,0,1,0
+FMSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,97.28,36.83,99.79,478.94,10/24/2017 8:28,1.7,0,1,0
+FMSBX5APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,39.82,1.66,95.99,24.93,10/24/2017 8:28,51.7,0,0,0
+FMSBX5APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,39.82,1.66,95.99,24.93,10/24/2017 8:28,51.7,0,0,0
+FMSBX5WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,42.73,1.75,96.18,26.19,10/24/2017 8:28,30.7,0,0,0
+FMSBX5WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,42.73,1.75,96.18,26.19,10/24/2017 8:28,30.7,0,0,0
+FMSBX9APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,96.12,25.74,99.71,342.55,10/24/2017 8:28,3.8,0,-0.6,0
+FMSBX9APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,96.12,25.74,99.71,342.55,10/24/2017 8:28,3.8,0,-0.6,0
+FMSBX9WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,94.74,19,99.61,257.96,10/24/2017 8:28,3.1,0,0.8,0
+FMSBX9WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,94.74,19,99.61,257.96,10/24/2017 8:28,3.1,0,0.8,0
+FMUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.82,2.17,96.46,28.25,10/23/2017 7:38,45.6,0,50.9,0
+FMUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.82,2.17,96.46,28.25,10/23/2017 7:38,45.6,0,50.9,0
+FMUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,66.88,3.02,97.17,35.34,10/23/2017 7:38,34,0,14.2,0
+FMUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.88,3.02,97.17,35.34,10/23/2017 7:38,34,0,14.2,0
+FMUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,65.14,2.87,96.67,30.01,10/23/2017 7:38,25,0,-24.7,0
+FMUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,65.14,2.87,96.67,30.01,10/23/2017 7:38,25,0,-24.7,0
+FMUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.27,1.97,96.05,25.31,10/23/2017 7:38,31.8,0,16.8,0
+FMUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.27,1.97,96.05,25.31,10/23/2017 7:38,31.8,0,16.8,0
+FMUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.96,2,96.21,26.37,10/23/2017 7:38,30.5,0,19.3,0
+FMUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.96,2,96.21,26.37,10/23/2017 7:38,30.5,0,19.3,0
+FMUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.09,2.13,96.27,26.82,10/23/2017 7:38,28,0,-16.5,0
+FMUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.09,2.13,96.27,26.82,10/23/2017 7:38,28,0,-16.5,0
+FMUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,52.4,2.1,96.22,26.42,10/23/2017 7:38,28.4,0,-36.2,0
+FMUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.4,2.1,96.22,26.42,10/23/2017 7:38,28.4,0,-36.2,0
+Generic Linux excluding basic ephemeral dirs,Linux Fileset,dbfmuat2rac02.erp.state.vt.us,Local,NL Two Weeks,Global,85.79,7.04,98.83,85.26,7/24/2018 10:49,18.7,0,185.6,0
+Generic Linux excluding basic ephemeral dirs,Linux Fileset,dbfmuat2rac01.erp.state.vt.us,Local,NL Two Weeks,Global,83.9,6.21,98.64,73.29,7/24/2018 10:48,23.3,0,122.8,0
+GWRIGHT-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,48.59,1.95,94.83,19.35,10/24/2017 8:27,38.8,0,-81.9,0
+GWRIGHT-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,48.59,1.95,94.83,19.35,10/24/2017 8:27,38.8,0,-81.9,0
+HRDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,69.64,3.29,97.42,38.82,10/29/2017 15:54,42.6,0,3.4,0
+HRDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,69.64,3.29,97.42,38.82,10/29/2017 15:54,42.6,0,3.4,0
+HRDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,57.85,2.37,97.04,33.74,11/10/2017 9:16,23.9,0,0.9,0
+HRDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.85,2.37,97.04,33.74,11/10/2017 9:16,23.9,0,0.9,0
+HRDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,60.28,2.52,96.85,31.74,10/29/2017 15:54,52.1,0,-405.1,0
+HRDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.28,2.52,96.85,31.74,10/29/2017 15:54,52.1,0,-405.1,0
+HRDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,82.21,5.62,98.46,64.85,10/29/2017 15:54,11.6,0,-17.5,0
+HRDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,82.21,5.62,98.46,64.85,10/29/2017 15:54,11.6,0,-17.5,0
+HRDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,50.43,2.02,95.86,24.13,11/10/2017 9:16,31.1,0,12.3,0
+HRDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,50.43,2.02,95.86,24.13,11/10/2017 9:16,31.1,0,12.3,0
+HRPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,63.96,2.77,97.09,34.35,11/13/2017 10:52,48.1,0,-7.7,0
+HRPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,63.96,2.77,97.09,34.35,11/13/2017 10:52,48.1,0,-7.7,0
+HRPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,61.73,2.61,96.64,29.75,11/13/2017 10:52,55.6,0,-86.3,0
+HRPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,61.73,2.61,96.64,29.75,11/13/2017 10:52,55.6,0,-86.3,0
+HRPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,64.08,2.78,96.71,30.43,11/13/2017 10:52,24.7,0,-11.1,0
+HRPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.08,2.78,96.71,30.43,11/13/2017 10:52,24.7,0,-11.1,0
+HRPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,74.42,3.91,97.94,48.65,11/13/2017 10:52,65.1,0,11.8,0
+HRPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.42,3.91,97.94,48.65,11/13/2017 10:52,65.1,0,11.8,0
+HRPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,62.79,2.69,96.62,29.58,11/13/2017 10:52,25.4,0,-51.9,0
+HRPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.79,2.69,96.62,29.58,11/13/2017 10:52,25.4,0,-51.9,0
+HRPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,52.26,2.09,95.64,22.94,11/13/2017 10:52,32.8,0,32.7,0
+HRPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.26,2.09,95.64,22.94,11/13/2017 10:52,32.8,0,32.7,0
+HRPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,62.72,2.68,96.6,29.38,11/13/2017 10:52,25.6,0,-5.5,0
+HRPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.72,2.68,96.6,29.38,11/13/2017 10:52,25.6,0,-5.5,0
+HRRPTDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,72.34,3.62,97.75,44.49,10/29/2017 15:54,37.2,0,-2.9,0
+HRRPTDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,72.34,3.62,97.75,44.49,10/29/2017 15:54,37.2,0,-2.9,0
+HRRPTDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,62.3,2.65,92.28,12.96,10/29/2017 15:54,66.3,0,588.5,0
+HRRPTDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.3,2.65,92.28,12.96,10/29/2017 15:54,66.3,0,588.5,0
+HRRPTDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,62.1,2.64,96.81,31.39,11/10/2017 9:16,23.9,0,2.9,0
+HRRPTDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,62.1,2.64,96.81,31.39,11/10/2017 9:16,23.9,0,2.9,0
+HRSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,43.18,1.76,94.92,19.7,10/24/2017 8:28,83.9,0,-111.1,0
+HRSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,43.18,1.76,94.92,19.7,10/24/2017 8:28,83.9,0,-111.1,0
+HRSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,78.17,4.58,98.01,50.24,10/24/2017 8:28,15,0,-1073.3,0
+HRSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.17,4.58,98.01,50.24,10/24/2017 8:28,15,0,-1073.3,0
+HRSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.74,1.99,95.25,21.06,10/24/2017 8:28,35.7,0,-56.9,0
+HRSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.74,1.99,95.25,21.06,10/24/2017 8:28,35.7,0,-56.9,0
+HRSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,41.56,1.71,85.4,6.85,10/24/2017 8:28,293.2,0,2424.5,0
+HRSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,41.56,1.71,85.4,6.85,10/24/2017 8:28,293.2,0,2424.5,0
+HRSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,70.27,3.36,95.48,22.15,10/24/2017 8:28,36.4,0,-21.8,0
+HRSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.27,3.36,95.48,22.15,10/24/2017 8:28,36.4,0,-21.8,0
+HRSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,54.57,2.2,95.03,20.13,10/24/2017 8:28,37.3,0,-18.7,0
+HRSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,54.57,2.2,95.03,20.13,10/24/2017 8:28,37.3,0,-18.7,0
+HRSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,40.29,1.67,94.63,18.61,10/24/2017 8:28,88.9,0,-70.1,0
+HRSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,40.29,1.67,94.63,18.61,10/24/2017 8:28,88.9,0,-70.1,0
+HRSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,78.05,4.56,98,49.99,10/24/2017 8:28,15,0,-24.8,0
+HRSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.05,4.56,98,49.99,10/24/2017 8:28,15,0,-24.8,0
+HRSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.21,2.14,94.53,18.28,10/24/2017 8:28,41.1,0,-21.6,0
+HRSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.21,2.14,94.53,18.28,10/24/2017 8:28,41.1,0,-21.6,0
+HRSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.55,2.15,96.15,25.95,10/24/2017 8:28,46.3,0,8.1,0
+HRSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.55,2.15,96.15,25.95,10/24/2017 8:28,46.3,0,8.1,0
+HRSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,60.98,2.56,96.61,29.5,10/24/2017 8:28,25.5,0,-696.8,0
+HRSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.98,2.56,96.61,29.5,10/24/2017 8:28,25.5,0,-696.8,0
+HRSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,51.22,2.05,95.58,22.65,10/24/2017 8:28,33.2,0,26,0
+HRSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.22,2.05,95.58,22.65,10/24/2017 8:28,33.2,0,26,0
+HRSBX8CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,82.25,5.64,98.82,84.53,10/24/2017 8:28,17.1,0,0,0
+HRSBX8CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,82.25,5.64,98.82,84.53,10/24/2017 8:28,17.1,0,0,0
+HRUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,53.3,2.14,96.37,27.53,10/23/2017 7:38,64.4,0,27.7,0
+HRUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.3,2.14,96.37,27.53,10/23/2017 7:38,64.4,0,27.7,0
+HRUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,60.37,2.52,96.68,30.16,10/23/2017 7:38,54.8,0,-25.3,0
+HRUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.37,2.52,96.68,30.16,10/23/2017 7:38,54.8,0,-25.3,0
+HRUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,58.44,2.41,96.23,26.56,10/23/2017 7:38,28.3,0,404.6,0
+HRUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,58.44,2.41,96.23,26.56,10/23/2017 7:38,28.3,0,404.6,0
+HRUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,57.24,2.34,96.19,26.22,10/23/2017 7:38,28.7,0,-10.2,0
+HRUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.24,2.34,96.19,26.22,10/23/2017 7:38,28.7,0,-10.2,0
+HRUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.7,1.99,95.67,23.12,10/23/2017 7:38,32.5,0,-5.5,0
+HRUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.7,1.99,95.67,23.12,10/23/2017 7:38,32.5,0,-5.5,0
+HRUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,47.16,1.89,95.41,21.78,10/23/2017 7:38,34.5,0,-1.8,0
+HRUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,47.16,1.89,95.41,21.78,10/23/2017 7:38,34.5,0,-1.8,0
+HRUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,49.56,1.98,95.65,23,10/23/2017 7:38,32.7,0,-48.8,0
+HRUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.56,1.98,95.65,23,10/23/2017 7:38,32.7,0,-48.8,0
+JBECKER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,78.74,4.7,97.85,46.59,10/24/2017 8:27,8.6,0,-2.2,0
+JBECKER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.74,4.7,97.85,46.59,10/24/2017 8:27,8.6,0,-2.2,0
+JHARRIS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,78.38,4.63,98.32,59.46,10/24/2017 8:27,13.5,0,6,0
+JHARRIS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.38,4.63,98.32,59.46,10/24/2017 8:27,13.5,0,6,0
+kentest2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,88.07,8.38,99.12,114.17,10/6/2017 14:37,7.1,0,0.1,0
+kentest2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,88.07,8.38,99.12,114.17,10/6/2017 14:37,7.1,0,0.1,0
+KJAQUISH-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,79.82,4.96,98.47,65.45,10/24/2017 8:27,12.3,0,4.7,0
+KJAQUISH-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,79.82,4.96,98.47,65.45,10/24/2017 8:27,12.3,0,4.7,0
+KSEWELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,96.25,26.64,99.74,384.06,10/24/2017 8:27,2.1,0,0.3,0
+KSEWELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,96.25,26.64,99.74,384.06,10/24/2017 8:27,2.1,0,0.3,0
+KWAKEFIELD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,69.03,3.23,97.83,46,10/24/2017 8:27,17.5,0,0.5,0
+KWAKEFIELD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,69.03,3.23,97.83,46,10/24/2017 8:27,17.5,0,0.5,0
+MBUTRYMAN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,57.57,2.36,96.7,30.28,10/24/2017 8:27,26.6,0,9.1,0
+MBUTRYMAN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.57,2.36,96.7,30.28,10/24/2017 8:27,26.6,0,9.1,0
+NCOLLINS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,64.72,2.83,97.15,35.04,10/24/2017 8:27,10.7,0,-19.1,0
+NCOLLINS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.72,2.83,97.15,35.04,10/24/2017 8:27,10.7,0,-19.1,0
+Panorama-8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,99.42,171.21,99.96,2568.09,10/6/2017 14:37,13.4,0,0,0
+Panorama-8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,99.42,171.21,99.96,2568.09,10/6/2017 14:37,13.4,0,0,0
+PA-VM-8.0-01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,94.64,18.64,99.64,279.59,10/6/2017 14:37,3.5,0,0,0
+PA-VM-8.0-01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,94.64,18.64,99.64,279.59,10/6/2017 14:37,3.5,0,0,0
+PBROOKS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,66.09,2.95,97.2,35.72,10/24/2017 8:27,11.3,0,0.4,0
+PBROOKS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.09,2.95,97.2,35.72,10/24/2017 8:27,11.3,0,0.4,0
+ph-CentOS7-firebrand,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,98.05,51.38,99.87,753,10/6/2017 14:37,1.1,0,0.1,0
+ph-CentOS7-firebrand,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,98.05,51.38,99.87,753,10/6/2017 14:37,1.1,0,0.1,0
+ph-CentOS7-wavemaker,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,98.14,53.86,99.73,372.12,10/6/2017 14:37,2,0,-0.7,0
+ph-CentOS7-wavemaker,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,98.14,53.86,99.73,372.12,10/6/2017 14:37,2,0,-0.7,0
+ph-CentOS7-zealot,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,96.36,27.5,99.55,219.84,10/6/2017 14:37,3.9,0,0,0
+ph-CentOS7-zealot,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,96.36,27.5,99.55,219.84,10/6/2017 14:37,3.9,0,0,0
+TAX-CHAINB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,97.07,34.09,99.78,464.94,10/23/2017 7:46,33.1,0,-104.2,0
+TAX-CHAINB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,97.07,34.09,99.78,464.94,10/23/2017 7:46,33.1,0,-104.2,0
+Tax-Checks02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,51.86,2.08,95.17,20.69,1/26/2018 11:53,98.1,0,164.8,0
+Tax-Checks02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.86,2.08,95.17,20.69,1/26/2018 11:53,98.1,0,164.8,0
+TAX-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,70.59,3.4,96.64,29.73,1/26/2018 11:54,40.5,0,101.8,0
+TAX-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.59,3.4,96.64,29.73,1/26/2018 11:54,40.5,0,101.8,0
+TAX-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,67,3.03,94.28,17.48,1/24/2018 10:02,73.7,0,901.3,0
+TAX-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,67,3.03,94.28,17.48,1/24/2018 10:02,73.7,0,901.3,0
+TAX-DC03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,75.55,4.09,97.4,38.46,1/24/2018 10:02,31.3,0,-17.5,0
+TAX-DC03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.55,4.09,97.4,38.46,1/24/2018 10:02,31.3,0,-17.5,0
+TAX-FFWEB-P1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,70.16,3.35,94.88,19.52,6/25/2018 10:50,88,0,1380.4,0
+TAX-FFWEB-P1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,70.16,3.35,94.88,19.52,6/25/2018 10:50,88,0,1380.4,0
+TAX-FFWEB-S1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,63.42,2.73,96.55,29.02,3/22/2018 8:19,51.8,0,33.9,0
+TAX-FFWEB-S1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,63.42,2.73,96.55,29.02,3/22/2018 8:19,51.8,0,33.9,0
+Tax-Files01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,41.9,1.72,95.77,23.63,2/2/2018 9:22,2732.8,0,2254.5,0
+Tax-Files01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,41.9,1.72,95.77,23.63,2/2/2018 9:22,2732.8,0,2254.5,0
+Tax-FPDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,64.89,2.85,95.92,24.54,10/27/2017 8:35,30.6,0,-39.1,0
+Tax-FPDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.89,2.85,95.92,24.54,10/27/2017 8:35,30.6,0,-39.1,0
+Tax-FPPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,59.61,2.48,95.4,21.72,1/26/2018 12:06,34.6,0,-30,0
+Tax-FPPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,59.61,2.48,95.4,21.72,1/26/2018 12:06,34.6,0,-30,0
+Tax-FPPRD02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,38.46,1.62,95.53,22.35,1/24/2018 10:02,36,0,6.6,0
+Tax-FPPRD02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,38.46,1.62,95.53,22.35,1/24/2018 10:02,36,0,6.6,0
+Tax-FPTST01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,64.3,2.8,95.8,23.78,10/27/2017 8:35,31.6,0,30.1,0
+Tax-FPTST01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,64.3,2.8,95.8,23.78,10/27/2017 8:35,31.6,0,30.1,0
+TAX-GTFCR1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,51.78,2.07,91.88,12.31,1/31/2018 9:20,122.1,0,-178.8,0
+TAX-GTFCR1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,51.78,2.07,91.88,12.31,1/31/2018 9:20,122.1,0,-178.8,0
+TAX-GTFILE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,77.09,4.36,98.3,58.73,1/31/2018 9:20,81.4,0,-14.1,0
+TAX-GTFILE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,77.09,4.36,98.3,58.73,1/31/2018 9:20,81.4,0,-14.1,0
+TAX-GTFILE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,73.61,3.79,97.84,46.37,1/30/2018 14:51,64.8,0,-25.5,0
+TAX-GTFILE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,73.61,3.79,97.84,46.37,1/30/2018 14:51,64.8,0,-25.5,0
+TAX-GTFILE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,74.02,3.85,97.78,45.03,1/30/2018 8:40,39.6,0,99.9,0
+TAX-GTFILE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.02,3.85,97.78,45.03,1/30/2018 8:40,39.6,0,99.9,0
+TAX-GTPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,60.22,2.51,93.02,14.32,1/30/2018 8:40,56.2,0,50.2,0
+TAX-GTPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.22,2.51,93.02,14.32,1/30/2018 8:40,56.2,0,50.2,0
+TAX-GTPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,58.72,2.42,95.19,20.8,1/30/2018 8:40,36.1,0,4.2,0
+TAX-GTPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,58.72,2.42,95.19,20.8,1/30/2018 8:40,36.1,0,4.2,0
+TAX-GTPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,57.11,2.33,95.05,20.2,1/26/2018 10:07,37.2,0,83.7,0
+TAX-GTPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,57.11,2.33,95.05,20.2,1/26/2018 10:07,37.2,0,83.7,0
+TAX-GTPROD4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,56.68,2.31,94.98,19.93,1/26/2018 10:07,37.7,0,90.2,0
+TAX-GTPROD4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.68,2.31,94.98,19.93,1/26/2018 10:07,37.7,0,90.2,0
+TAX-GTSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,46.77,1.88,93.33,14.99,1/26/2018 10:07,50.2,0,35.8,0
+TAX-GTSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,46.77,1.88,93.33,14.99,1/26/2018 10:07,50.2,0,35.8,0
+TAX-GTSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,48.23,1.93,93.65,15.76,1/26/2018 10:07,47.7,0,-168.7,0
+TAX-GTSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,48.23,1.93,93.65,15.76,1/26/2018 10:07,47.7,0,-168.7,0
+TAX-GTSTAGE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,52.44,2.1,94.15,17.09,1/26/2018 9:30,44,0,-115.1,0
+TAX-GTSTAGE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.44,2.1,94.15,17.09,1/26/2018 9:30,44,0,-115.1,0
+TAX-GTSTAGE4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,37.2,1.59,92.33,13.04,1/26/2018 9:30,57.6,0,-111.3,0
+TAX-GTSTAGE4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,37.2,1.59,92.33,13.04,1/26/2018 9:30,57.6,0,-111.3,0
+TAX-GTTAPPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,56.48,2.3,94.61,18.54,1/24/2018 9:55,40.5,0,-11,0
+TAX-GTTAPPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.48,2.3,94.61,18.54,1/24/2018 9:55,40.5,0,-11,0
+TAX-GTTAPPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,53.79,2.16,94.26,17.42,1/24/2018 9:55,43.1,0,30.2,0
+TAX-GTTAPPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,53.79,2.16,94.26,17.42,1/24/2018 9:55,43.1,0,30.2,0
+TAX-GTTAPSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,56.04,2.27,94.63,18.63,1/24/2018 9:55,40.3,0,-29.4,0
+TAX-GTTAPSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.04,2.27,94.63,18.63,1/24/2018 9:55,40.3,0,-29.4,0
+TAX-GTTAPSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,56.49,2.3,94.68,18.79,1/24/2018 9:55,40,0,-0.7,0
+TAX-GTTAPSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.49,2.3,94.68,18.79,1/24/2018 9:55,40,0,-0.7,0
+TAX-GTTAPWEBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,66.08,2.95,96.42,27.91,1/24/2018 9:55,26.9,0,-5.1,0
+TAX-GTTAPWEBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.08,2.95,96.42,27.91,1/24/2018 9:55,26.9,0,-5.1,0
+TAX-GTTAPWEBP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,65.18,2.87,96.28,26.91,1/24/2018 9:55,27.9,0,2.3,0
+TAX-GTTAPWEBP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,65.18,2.87,96.28,26.91,1/24/2018 9:55,27.9,0,2.3,0
+TAX-GTTAPWEBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,68.95,3.22,96.78,31.06,1/24/2018 9:55,25.9,0,69.7,0
+TAX-GTTAPWEBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,68.95,3.22,96.78,31.06,1/24/2018 9:55,25.9,0,69.7,0
+TAX-GTTAPWEBS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,66.99,3.03,96.53,28.79,1/24/2018 9:55,26.1,0,2.6,0
+TAX-GTTAPWEBS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.99,3.03,96.53,28.79,1/24/2018 9:55,26.1,0,2.6,0
+TAX-GTTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,49.95,2,93.56,15.53,1/24/2018 9:55,48.4,0,-7.5,0
+TAX-GTTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,49.95,2,93.56,15.53,1/24/2018 9:55,48.4,0,-7.5,0
+TAX-GTTEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,52.49,2.1,93.98,16.6,1/24/2018 9:55,45.3,0,-52.4,0
+TAX-GTTEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,52.49,2.1,93.98,16.6,1/24/2018 9:55,45.3,0,-52.4,0
+Tax-GWSPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,63.53,2.74,95.8,23.82,1/26/2018 9:06,31.5,0,-228,0
+Tax-GWSPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,63.53,2.74,95.8,23.82,1/26/2018 9:06,31.5,0,-228,0
+TAX-GWSUAT01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,60.11,2.51,93.03,14.36,10/27/2017 8:35,56.1,0,-209.8,0
+TAX-GWSUAT01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,60.11,2.51,93.03,14.36,10/27/2017 8:35,56.1,0,-209.8,0
+TAX-IFP-DB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,69.43,3.27,95.45,21.98,1/26/2018 12:07,102.6,0,1717.3,0
+TAX-IFP-DB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,69.43,3.27,95.45,21.98,1/26/2018 12:07,102.6,0,1717.3,0
+TAXILMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,76.65,4.28,96.51,28.62,10/23/2017 7:46,26.3,0,259.5,0
+TAXILMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,76.65,4.28,96.51,28.62,10/23/2017 7:46,26.3,0,259.5,0
+TAX-IMGDB-IBML1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,83.06,5.9,98.68,75.62,3/22/2018 8:19,41.9,0,78.7,0
+TAX-IMGDB-IBML1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,83.06,5.9,98.68,75.62,3/22/2018 8:19,41.9,0,78.7,0
+TAX-IMGDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,90.8,10.87,99.33,149.43,6/25/2018 10:50,42.9,0,25.7,0
+TAX-IMGDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.8,10.87,99.33,149.43,6/25/2018 10:50,42.9,0,25.7,0
+TAX-IMGDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,90.43,10.45,99.22,127.57,3/22/2018 8:19,47.1,0,-106.8,0
+TAX-IMGDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.43,10.45,99.22,127.57,3/22/2018 8:19,47.1,0,-106.8,0
+TAX-IMGFILES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,65.82,2.93,97.25,36.31,6/1/2018 17:42,103.5,0,31.7,0
+TAX-IMGFILES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,65.82,2.93,97.25,36.31,6/1/2018 17:42,103.5,0,31.7,0
+TAX-IMGFILES1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,78.69,4.69,98.55,69.02,3/22/2018 8:19,58.3,0,0,0
+TAX-IMGFILES1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,78.69,4.69,98.55,69.02,3/22/2018 8:19,58.3,0,0,0
+TAX-IMGFILES2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,89.56,9.58,99.19,123.13,6/22/2018 12:26,30.5,0,-62.2,0
+TAX-IMGFILES2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,89.56,9.58,99.19,123.13,6/22/2018 12:26,30.5,0,-62.2,0
+TAX-IMGPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,79.1,4.78,97.91,47.79,6/22/2018 10:26,50.6,0,795.3,0
+TAX-IMGPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,79.1,4.78,97.91,47.79,6/22/2018 10:26,50.6,0,795.3,0
+TAX-IMGPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,76.61,4.27,97.18,35.48,6/22/2018 10:26,69.6,0,594.6,0
+TAX-IMGPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,76.61,4.27,97.18,35.48,6/22/2018 10:26,69.6,0,594.6,0
+TAX-IMGPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,84.93,6.63,98.8,83.45,6/22/2018 10:56,28.3,0,-55.1,0
+TAX-IMGPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,84.93,6.63,98.8,83.45,6/22/2018 10:56,28.3,0,-55.1,0
+TAX-IMGSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,59.09,2.44,95.27,21.14,3/22/2018 8:19,182.9,0,2300.1,0
+TAX-IMGSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,59.09,2.44,95.27,21.14,3/22/2018 8:19,182.9,0,2300.1,0
+TAX-IMGTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,81.3,5.35,98.44,64.26,3/22/2018 8:19,58.5,0,598.4,0
+TAX-IMGTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,81.3,5.35,98.44,64.26,3/22/2018 8:19,58.5,0,598.4,0
+Tax-NESSUS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,46.8,1.88,90.25,10.25,10/27/2017 8:35,73.3,0,-1543.3,0
+Tax-NESSUS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,46.8,1.88,90.25,10.25,10/27/2017 8:35,73.3,0,-1543.3,0
+TAX-OPSUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,83.33,6,98.68,75.92,1/26/2018 9:06,29.7,0,13.6,0
+TAX-OPSUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,83.33,6,98.68,75.92,1/26/2018 9:06,29.7,0,13.6,0
+TAX-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,75.11,4.02,97.77,44.81,1/24/2018 10:02,30.2,0,48.3,0
+TAX-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,75.11,4.02,97.77,44.81,1/24/2018 10:02,30.2,0,48.3,0
+TAX-PVRSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,80.75,5.19,98.29,58.34,1/26/2018 14:22,112.3,0,43.5,0
+TAX-PVRSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,80.75,5.19,98.29,58.34,1/26/2018 14:22,112.3,0,43.5,0
+TAX-RSA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,88.48,8.68,99.14,116.19,10/23/2017 7:46,14.4,0,0.5,0
+TAX-RSA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,88.48,8.68,99.14,116.19,10/23/2017 7:46,14.4,0,0.5,0
+TAX-RSA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,90.87,10.96,99.35,153.09,10/23/2017 7:46,10.9,0,0.2,0
+TAX-RSA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,90.87,10.96,99.35,153.09,10/23/2017 7:46,10.9,0,0.2,0
+Tax-secure-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,56.55,2.3,95.47,22.07,10/23/2017 7:46,34,0,-17.3,0
+Tax-secure-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,56.55,2.3,95.47,22.07,10/23/2017 7:46,34,0,-17.3,0
+TAX-SPLHF,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,89.72,9.73,99.06,106.37,10/23/2017 7:46,26.2,0,-9.8,0
+TAX-SPLHF,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,89.72,9.73,99.06,106.37,10/23/2017 7:46,26.2,0,-9.8,0
+Tax-Win10-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,92.91,14.1,98.81,84.27,10/15/2018 12:03,11.5,0,1042.5,0
+Tax-Win10-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,92.91,14.1,98.81,84.27,10/15/2018 12:03,11.5,0,1042.5,0
+Tax-Win7-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,83.69,6.13,98.74,79.17,10/29/2017 15:38,94.9,0,-31.7,0
+Tax-Win7-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,83.69,6.13,98.74,79.17,10/29/2017 15:38,94.9,0,-31.7,0
+Tax-Win7-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,65.07,2.86,96.71,30.37,10/29/2017 15:38,74.3,0,82.9,0
+Tax-Win7-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,65.07,2.86,96.71,30.37,10/29/2017 15:38,74.3,0,82.9,0
+TMORSE-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,45.35,1.83,93.99,16.64,10/24/2017 8:27,45.2,0,-32.9,0
+TMORSE-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,45.35,1.83,93.99,16.64,10/24/2017 8:27,45.2,0,-32.9,0
+UPKMDE01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,ERP,72.12,3.59,97.86,46.76,10/27/2017 9:06,13.8,0,2.1,0
+UPKMDE01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,72.12,3.59,97.86,46.76,10/27/2017 9:06,13.8,0,2.1,0
+vcgi-geocortex-dev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,59.31,2.46,96.8,31.26,12/13/2017 14:01,139.1,0,65.5,0
+vcgi-geocortex-dev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,59.31,2.46,96.8,31.26,12/13/2017 14:01,139.1,0,65.5,0
+vcgi-geocortex-prd,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,66.51,2.99,97.23,36.06,12/13/2017 14:01,115.8,0,-14.7,0
+vcgi-geocortex-prd,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,66.51,2.99,97.23,36.06,12/13/2017 14:01,115.8,0,-14.7,0
+VLC-ACCTG,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,74.53,3.93,96.01,25.07,11/10/2017 9:00,66,0,29.9,0
+VLC-ACCTG,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,74.53,3.93,96.01,25.07,11/10/2017 9:00,66,0,29.9,0
+VLC-ACCTG,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,74.53,3.93,96.01,25.07,11/10/2017 9:00,66,0,29.9,0
+VLC-DYNAMICS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Dave Fortin,83.49,6.06,98.73,78.5,9/5/2018 15:35,30.1,0,375.3,0
+VLC-DYNAMICS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,DII - EAS,83.49,6.06,98.73,78.5,9/5/2018 15:35,30.1,0,375.3,0
+VLC-DYNAMICS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,NL Two Weeks,Global,83.49,6.06,98.73,78.5,9/5/2018 15:35,30.1,0,375.3,0

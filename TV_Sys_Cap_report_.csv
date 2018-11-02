@@ -1,0 +1,2133 @@
+Object Name,Object Type,Location,Cluster Location,SLA Domain,Protected On,Total Local Storage (GB),Total Archive Storage (GB),Local Storage Growth (MB/day),Archive Storage Growth (MB/day)
+302-sharebackup,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:29,161.6,0,6.3,0
+ABDEVAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 12:25,26.9,0,-5.5,0
+ABDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/17/2018 9:59,13,0,0,0
+ABDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ABDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ABDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,16.2,0,0,0
+ABDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ABDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,5.3,0,-0.9,0
+ABPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/15/2017 11:34,22.2,0,-3.1,0
+ABPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ABPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/15/2017 11:34,32.2,0,-5.4,0
+ABPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCD-CDS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:21,52.7,0,402.6,0
+ACCD-CDS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/22/2017 11:14,40.4,0,-350.9,0
+ACCD-CDS-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCD-CMS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:21,75,0,1307,0
+ACCD-CMS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/22/2017 11:14,36.1,0,-388.6,0
+ACCD-CMS-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCD-CVT-PROD,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:21,18.7,0,215.3,0
+ACCD-CVT-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/22/2017 11:14,14.8,0,-150.3,0
+ACCD-CVT-PROD-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCD-CVT-QA,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:21,20.8,0,228.3,0
+ACCD-CVT-QA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/22/2017 11:14,17,0,-171.7,0
+ACCD-CVT-QA-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCDDEV,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:20,106.7,0,542.2,0
+ACCDDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/23/2017 7:36,96.9,0,-223.3,0
+ACCDDEV-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCD-DHCD,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:21,615.6,0,380.1,0
+ACCD-DHCD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/22/2017 11:14,53.8,0,-282.8,0
+ACCD-DHCD-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCD-SQL-Prod,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:21,186.8,0,2830.3,0
+ACCD-SQL-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/22/2017 11:14,114.1,0,-2296.9,0
+ACCD-SQL-Prod-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ACCD-SQL-QA,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:21,119.3,0,1815.5,0
+ACCD-SQL-QA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/22/2017 11:14,67.7,0,-1378.7,0
+ACCD-SQL-QA-PFS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ADS-CTODevCentOS7,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/21/2018 10:53,4.6,0,10.8,0
+ADS-CTODEVWIN,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/21/2018 10:53,36.8,0,841.2,0
+ADS-CTOSQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:12,35.9,0,4.8,0
+ADS-Solar-Flow,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/6/2017 7:48,62.9,0,-60.3,0
+ADS-Solar-Flow,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ADS-Solar-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Weekly large Snapshots,1/26/2018 9:52,181.5,0,1103.6,0
+ADS-Solar-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ADS-SolarWinds,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/6/2017 7:48,266.1,0,3120.2,0
+ADS-SolarWinds,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AGO-Crusher,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/13/2018 16:19,0,0,-11199.9,0
+AGO-Kirk,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,24.2,0,63.2,0
+AGO-Pike,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,9.9,0,13.4,0
+AGO-R2D2,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,64.7,0,-859.8,0
+AGO-Scotty,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,36,0,11.8,0
+AGO-Troy,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,7042.9,0,39824,0
+AGO-Voyager,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,189.9,0,284.9,0
+AGR-DBProd2008,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,54.9,0,637.4,0
+AGR-DBProd2012,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,619.5,0,-1602.3,0
+AGR-DBTest2008,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,50.2,0,15.9,0
+AGR-DBTest2012,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,98,0,44.9,0
+AGR-IFProd2008,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,44.6,0,-24,0
+AGR-INDB2012,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,19.3,0,-31,0
+AGR-Milk,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,77.8,0,2.5,0
+AGR-OFProd2012,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,29.8,0,-92.8,0
+AGR-OFWQ2012,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,47.3,0,-621.4,0
+AGR-ProdDB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,61,0,12.2,0
+AGR-Test2012,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 10:08,46.1,0,44.9,0
+AHS-2008DEV1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-2008DEV1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-2008DEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-2008DEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-2008DEV32B,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-2008DEV32B,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-AFGPRINT-Dev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-AFGPRINT-Dev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-AFGPRINT-Prod1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-AFGPRINT-Prod1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-APEX2k8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-APEX2k8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-APP01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-APP01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-APP01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-APP01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-APP01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-APP01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-APP02P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-APP02P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-DEV-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-DEV-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ARTHIXPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ARTHIXPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ARTHIXTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ARTHIXTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-10,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-10,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-5,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-5,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-6,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-6,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-7,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-7,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ART-PROD-9,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ART-PROD-9,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-APPDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-APPDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-DBDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-DBDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFISDB-Dev3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFISDB-Dev3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFISHELP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFISHELP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-HELP-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-BFIS-HELP-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-INTEGRATION,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-INTEGRATION,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-Integration-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-Integration-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-INTEGRATION-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-BFIS-INTEGRATION-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-OEMDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-OEMDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-OEMDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-OEMDev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-REPORT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-REPORT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-REPORT-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-BFIS-REPORT-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFISWL-Dev3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFISWL-Dev3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-Workstation-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-BFIS-Workstation-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BFIS-Workstation-Special2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BFIS-Workstation-Special2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BODEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BODEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BOPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BOPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BOPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BOPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BOTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BOTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-BOTEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-BOTEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CAWEB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CAWEB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDDB3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CDDB3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDDB3_clone,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CDDB3_clone,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDD-OEM-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CDD-OEM-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDD-ORA-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CDD-ORA-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDD-ORA-PROD-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-CDD-ORA-PROD-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDD-WL-PROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CDD-WL-PROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDD-WL-PROD1-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-CDD-WL-PROD1-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDD-WL-PROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CDD-WL-PROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CDD-WL-PROD2-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-CDD-WL-PROD2-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CFAPPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CFAPPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CHARON,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CHARON,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX06,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX06,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX07,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX07,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX08LICDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,27.1,0,21,0
+AHS-CTX08LICDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX09,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX09,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX10,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX10,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX11,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX11,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX12,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX12,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX13,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX13,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX14,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX14,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTX15,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTX15,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXAspen,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXAspen,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE801,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE801,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE802,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE802,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE803,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE803,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE804,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE804,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE805,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE805,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE806,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE806,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE807,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE807,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE808,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE808,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE809,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE809,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE810,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE810,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE811,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE811,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE812,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE812,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE813,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE813,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE814,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE814,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXIE815,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXIE815,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXOnBase,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXOnBase,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXProfiler,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,20.2,0,53.3,0
+AHS-CTXProfiler,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-CTXSCC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-CTXSCC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ahs-dailappprod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ahs-dailappprod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DAIL-APPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DAIL-APPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/29/2018 7:56,29.7,0,33.8,0
+AHS-DC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/29/2018 7:56,38.6,0,71.2,0
+AHS-DC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DC3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,54.3,0,-90.7,0
+AHS-DC3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DC-BURL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/29/2018 7:56,26.8,0,62.5,0
+AHS-DC-BURL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFAPPSDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFAPPSDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFAPPSDEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFAPPSDEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFAPPSPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFAPPSPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFAPPS-Prod2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFAPPS-Prod2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFAPPSTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFAPPSTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFCIS-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFCIS-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFCIS-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFCIS-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCF-DEVENV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCF-DEVENV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFDMZAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFDMZAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFDMZDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFDMZDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFDMZPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFDMZPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFDMZTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFDMZTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFINTRA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFINTRA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCF-MF-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCF-MF-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCF-MF-DEV-NEW,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCF-MF-DEV-NEW,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCF-MF-EXX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCF-MF-EXX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCF-Sagadmin,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCF-Sagadmin,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFSQLDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFSQLDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFSQLPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFSQLPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DCFZDO1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DCFZDO1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DDMHS-NET,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DDMHS-NET,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DIALSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DIALSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DMZCFPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DMZCFPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DMZ-SFTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DMZ-SFTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DOC-QBPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DOC-QBPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DVHAAPPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DVHAAPPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DVHAAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DVHAAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-DVHAAPPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-DVHAAPPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-EFT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-EFT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-EFT-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-EFT-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-EFT-DMZ,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-EFT-DMZ,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ExtDev01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ExtDev01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-GISPORTALDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-GISPORTALDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-GISPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-GISPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-GISTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-GISTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-IIS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-IIS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-IIS1TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-IIS1TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-IIS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-IIS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-IIS2-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-IIS2-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-INFO,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-INFO,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-INFORMIX-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-INFORMIX-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-INFORMIX-TEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-INFORMIX-TEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-INTERBE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-INTERBE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-INTERBE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-INTERBE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-InterFE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-InterFE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-INTFTPSRV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-INTFTPSRV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-INTRADEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-INTRADEV2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-Intranets,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-Intranets,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ISA2004,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ISA2004,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ISD-APPProd1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ISD-APPProd1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ISD-APPProd2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ISD-APPProd2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ISD-APPProd3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-ISD-APPProd3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-JIRA-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-JIRA-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-JIRA-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-JIRA-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-LDPWAPP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-LDPWAPP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-MSGPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-MSGPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-MSGTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-MSGTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-NBS-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-NBS-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-NBS-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-NBS-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-NBS-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-NBS-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-NOTICESAPPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-NOTICESAPPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-NOTICESAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-NOTICESAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-NWSPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-NWSPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-NWSTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-NWSTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBAPPPERIPHERAL01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBAPPPERIPHERAL01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBFILESERV1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBFILESERV1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBFILESERV-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBFILESERV-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBPROC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBPROC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBPROC-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBPROC-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFE01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFE01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFE02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFE02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFE03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFE03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFE04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFE04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFE1-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFE1-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFE2-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFE2-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFEAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFEAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFEAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFEAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFEAPP03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFEAPP03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFEAPP04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFEAPP04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFEAPP05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFEAPP05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFEAPP1-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFEAPP1-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OBWFEAPP2-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OBWFEAPP2-TEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OCSAPPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OCSAPPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OCSAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OCSAPPPROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OCSAPPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OCSAPPTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OCSFTPSRV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OCSFTPSRV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHSORAD01D,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHSORAD01P,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHSORAD01T,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ORA-OEM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,9/11/2018 10:50,0,0,-650.5,0
+AHS-ORA-OEM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-ORA-OEM-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,5/30/2018 8:36,0,0,0,0
+AHS-ORA-OEM-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-OVHAAPP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-OVHAAPP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-PBIGWP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-PBIGWP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-PBIGWT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-PBIGWT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/8/2018 13:59,55.5,0,859.4,0
+AHS-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-PRTSRV08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,39.6,0,31.1,0
+AHS-PRTSRV08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-RHAP-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-RHAP-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-Rhap-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-Rhap-Prod,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-Rhap-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-Rhap-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-RSA-CSG2k8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,21.7,0,-20.9,0
+AHS-RSA-CSG2k8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-Rules-Dev1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-Rules-Dev1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SANDBOX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SANDBOX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SECUREID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,24.9,0,-10.5,0
+AHS-SECUREID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SECURID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:36,4.8,0,0.4,0
+AHS-SECURID,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLA01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLA01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLA01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLA01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLA01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLA01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 17:36,0,0,0,0
+AHS-SQLD01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 17:36,0,0,0,0
+AHS-SQLD01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD02D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD02D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD02P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD02P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD02T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD02T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD03D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD03D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD03P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD03P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD03T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD03T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD04D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD04D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD04P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD04P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD04T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD04T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD05P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD05P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD05T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD05T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD06P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD06P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD07D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD07D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD07P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD07P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD07T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD07T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD08D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD08D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD08P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD08P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD08T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD08T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD09D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD09D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD09P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD09P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD09T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD09T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD10P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 18:06,0,0,0,0
+AHS-SQLD10P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD10T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 18:06,0,0,0,0
+AHS-SQLD10T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD11D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD11D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD11P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD11P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLD11T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLD11T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLI01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLI01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLI01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLI01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLI01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLI01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHSSQLM01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHSSQLM01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHSSQLM01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHSSQLM01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHSSQLM01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHSSQLM01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLR01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLR01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLR01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLR01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLR01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLR01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLR05P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLR05P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLR05T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLR05T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLR10P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 18:06,0,0,0,0
+AHS-SQLR10P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLR10T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 18:06,0,0,0,0
+AHS-SQLR10T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLV2-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLV2-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLV2-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLV2-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLV2-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLV2-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLW01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLW01D,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLW01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLW01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLW01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLW01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLW05P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLW05P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLW05T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SQLW05T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLW10P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 18:06,0,0,0,0
+AHS-SQLW10P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SQLW10T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/17/2017 18:06,0,0,0,0
+AHS-SQLW10T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Base,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Base,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Base-Copy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Base-Copy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-DEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Dev1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Dev1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Dev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Dev2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Prod1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Prod1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Prod2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Prod2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-Test-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-Test-Special,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-SSMIS-UAT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-SSMIS-UAT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-UTILITIES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,37.4,0,-27.9,0
+AHS-UTILITIES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHAPPS01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHAPPS01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHGISProxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHGISProxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHProxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHProxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHProxy-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHProxy-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHSAPPS01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHSAPPS01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHWEB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHWEB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHWEBAPPS-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHWEBAPPS-PROD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-VDHWEBAPPS-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-VDHWEBAPPS-TEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-WEB01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-WEB01P,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-WEB01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AHS-WEB01T,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AHS-WSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/26/2017 15:37,105.6,0,-63.6,0
+AHS-WSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+All,Linux Fileset,\\10.244.1.146\ACCD,Remote,NL Two Weeks NAS,1/15/2018 13:25,5413.7,0,-294.2,0
+All,Linux Fileset,\\10.244.1.146\ACD,Remote,NL Two Weeks NAS,1/15/2018 13:11,296.2,0,-85.3,0
+All,Linux Fileset,\\10.244.1.146\ADM,Remote,NL Two Weeks NAS,1/15/2018 13:14,27.8,0,1.5,0
+All,Linux Fileset,\\10.244.1.146\AGR,Remote,NL Two Weeks NAS,1/15/2018 13:15,2108.9,0,4304.2,0
+All,Linux Fileset,\\10.244.1.146\AUD,Remote,NL Two Weeks NAS,1/15/2018 13:12,136.8,0,140.7,0
+All,Linux Fileset,\\10.244.1.146\BGS,Remote,NL Two Weeks NAS,1/15/2018 13:11,4036.7,0,-1854.2,0
+All,Linux Fileset,\\10.244.1.146\DHR,Remote,NL Two Weeks NAS,1/15/2018 13:12,2010.6,0,3955.3,0
+All,Linux Fileset,\\10.244.1.146\DII,Remote,NL Two Weeks NAS,1/15/2018 13:14,1150.9,0,524.6,0
+All,Linux Fileset,\\10.244.1.146\EXE,Remote,NL Two Weeks NAS,1/15/2018 13:13,32.5,0,3.9,0
+All,Linux Fileset,\\10.244.1.146\FIN,Remote,NL Two Weeks NAS,1/15/2018 13:13,241.2,0,114.4,0
+All,Linux Fileset,\\10.244.1.146\FSD,Remote,NL Two Weeks NAS,1/15/2018 13:12,37.1,0,26.7,0
+All,Linux Fileset,\\10.244.1.146\GMCB,Remote,NL Two Weeks NAS,1/15/2018 13:11,289.7,0,95.9,0
+All,Linux Fileset,\\10.244.1.146\HRC,Remote,NL Two Weeks NAS,1/15/2018 13:10,143.1,0,222.4,0
+All,Linux Fileset,\\10.244.1.146\LIB,Remote,NL Two Weeks NAS,1/17/2018 9:22,258.3,0,516.9,0
+All,Linux Fileset,\\10.244.1.146\LRB,Remote,NL Two Weeks NAS,1/17/2018 9:23,1.3,0,0.8,0
+All,Linux Fileset,\\10.244.1.146\LTG,Remote,NL Two Weeks NAS,1/17/2018 9:24,3.9,0,0.4,0
+All,Linux Fileset,\\10.244.1.146\MIL,Remote,NL Two Weeks NAS,1/17/2018 9:25,214.5,0,27.2,0
+All,Linux Fileset,\\10.244.1.146\PSB,Remote,NL Two Weeks NAS,1/17/2018 9:25,249.3,0,146,0
+All,Linux Fileset,\\10.244.1.146\PSD,Remote,NL Two Weeks NAS,1/17/2018 9:26,1203.5,0,449.8,0
+All,Linux Fileset,\\10.244.1.146\RM,Remote,NL Two Weeks NAS,1/17/2018 9:27,71,0,-1175.1,0
+All,Linux Fileset,\\10.244.1.146\SAS,Remote,NL Two Weeks NAS,1/23/2018 15:17,14147.9,0,5962.3,0
+All,Linux Fileset,\\10.244.1.146\TSProfiles$,Remote,NL Two Weeks NAS,1/23/2018 14:21,41.3,0,22,0
+All,Linux Fileset,\\10.244.1.146\VCGI,Remote,NL Two Weeks NAS,3/20/2018 12:21,12077,0,8638.7,0
+All,Linux Fileset,\\10.244.1.146\VCJTC,Remote,NL Two Weeks NAS,1/21/2018 14:46,702.5,0,146.4,0
+All,Linux Fileset,\\10.244.1.146\VCW,Remote,NL Two Weeks NAS,1/21/2018 14:47,52.2,0,6,0
+All,Linux Fileset,\\10.244.1.146\VLC,Remote,NL Two Weeks NAS,1/21/2018 14:47,89.2,0,40.5,0
+All,Linux Fileset,\\10.244.1.146\VRB,Remote,NL Two Weeks NAS,1/21/2018 14:49,2.7,0,3.9,0
+All,Linux Fileset,\\10.244.1.146\VVH,Remote,NL Two Weeks NAS,1/23/2018 10:02,605.1,0,231.3,0
+All,Linux Fileset,\\10.244.1.146\WC,Remote,NL Two Weeks NAS,1/23/2018 10:02,25,0,1.8,0
+All,Linux Fileset,\\10.244.1.146\WS,Remote,NL Two Weeks NAS,1/23/2018 10:03,17.9,0,1.8,0
+All,Linux Fileset,\\10.246.14.28\root01$,Remote,NL Two Weeks NAS,2/2/2018 10:15,1312,0,2911,0
+All,Linux Fileset,\\159.105.132.105\AHS-CO,Remote,NL Two Weeks NAS,2/9/2018 10:38,6456.3,0,6962,0
+All,Linux Fileset,\\159.105.132.105\AHS-DAIL,Remote,NL Two Weeks NAS,2/8/2018 9:30,1865.2,0,2023.8,0
+All,Linux Fileset,\\159.105.132.105\AHS-DCF,Remote,NL Two Weeks NAS,2/15/2018 9:58,4395.4,0,1484.5,0
+All,Linux Fileset,\\159.105.132.105\AHS-DMH-VSH,Remote,NL Two Weeks NAS,2/7/2018 9:35,846.2,0,270.2,0
+All,Linux Fileset,\\159.105.132.105\AHS-DOC,Remote,NL Two Weeks NAS,2/17/2018 8:33,5134.9,0,3829.7,0
+All,Linux Fileset,\\159.105.132.105\AHS-DVHA,Remote,NL Two Weeks NAS,2/9/2018 11:57,2328.1,0,3617.4,0
+All,Linux Fileset,\\159.105.132.105\AHS-VDH,Remote,NL Two Weeks NAS,3/22/2018 7:37,9779.2,0,5540.8,0
+All,Linux Fileset,\\jud-fs01.crt.state.vt.us\JUD-Misc,Remote,NL Two Weeks NAS,3/29/2018 10:31,297.7,0,0,0
+All,Linux Fileset,\\jud-fs01.crt.state.vt.us\JUD-Shared folders,Remote,NL Two Weeks NAS,3/29/2018 11:09,437.9,0,29.5,0
+ANR-Aries,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/11/2017 8:35,103,0,-42.2,0
+ANR-Aries,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-AV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,7/12/2018 14:15,64.4,0,1656.1,0
+ANR-AV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-AV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/11/2017 8:35,204.7,0,124,0
+ANR-AV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Capture,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,7/20/2018 12:29,32.1,0,110.5,0
+ANR-Capture,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/2/2018 8:45,25.1,0,-27.3,0
+ANR-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:45,25.2,0,-15.5,0
+ANR-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Eris,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/11/2017 8:35,48.6,0,-32.6,0
+ANR-Eris,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-ERMSSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/30/2018 9:01,44.7,0,647,0
+ANR-ERMSSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-GDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/3/2018 17:31,9784.7,0,315634.3,0
+ANR-GDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Intra,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:46,30.8,0,10.4,0
+ANR-Intra,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Jupiter,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/23/2018 10:02,13196,0,-749.7,0
+ANR-Jupiter,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-JUPITER2,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks Daytime,10/22/2018 17:42,24.2,0,3453.1,0
+ANR-Jupiter-Old,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Leo,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/2/2018 8:48,32.2,0,18.7,0
+ANR-Leo,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Maps,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/11/2017 8:35,261.3,0,202.5,0
+ANR-Maps,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-MARS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/23/2018 16:00,90.1,0,496.6,0
+ANR-Mars,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/11/2017 8:35,293.7,0,-778.3,0
+ANR-Mars,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-NForms,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/11/2017 8:35,39.7,0,-32.5,0
+ANR-NForms,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-NRBSP2010,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/11/2017 8:35,39.9,0,132.3,0
+ANR-NRBSP2010,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-OldDev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/12/2018 16:01,28.1,0,-210.6,0
+ANR-OldDev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Proxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:46,492.7,0,-2317.4,0
+ANR-Proxy,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-SATURN,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/10/2018 16:28,5362.1,0,41774,0
+ANR-SPFE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:48,853.7,0,1354,0
+ANR-SPFE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-SPWebApp,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/3/2018 9:20,166.6,0,15.2,0
+ANR-SPWebApp,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-TestApps,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/23/2018 16:00,32.7,0,250.4,0
+ANR-TestApps,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/12/2018 16:01,25.5,0,-358.2,0
+ANR-TestApps,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-TestCapture,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/23/2018 16:00,23.1,0,141.7,0
+ANR-TestCapture,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/12/2018 16:01,19.4,0,-276.5,0
+ANR-TestCapture,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-TestDev,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/23/2018 16:00,30.3,0,175.9,0
+ANR-TestDev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/12/2018 16:01,77,0,-309.4,0
+ANR-TestDev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-TestSearch,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/23/2018 16:00,18.9,0,96.4,0
+ANR-TestSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/30/2018 9:01,16.4,0,-297.3,0
+ANR-TestSearch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-TestSP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/23/2018 16:00,212.7,0,3767.7,0
+ANR-TestSP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/12/2018 16:01,85.4,0,-805.6,0
+ANR-TestSP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-TestSQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/24/2018 4:20,388.3,0,4719.8,0
+ANR-TestSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/12/2018 16:01,242.8,0,-3489.3,0
+ANR-TestSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-testweb,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/23/2018 16:00,210,0,283.4,0
+ANR-testweb,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/12/2018 16:01,49,0,-255.6,0
+ANR-testweb,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-Venus,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/5/2018 9:03,2089.6,0,18098.3,0
+ANR-Venus,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-vParksRH7,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:49,90.5,0,96.9,0
+ANR-vParksRH7,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-WEB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/2/2018 8:52,49.9,0,-63.9,0
+ANR-WEB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ANR-WWWIntranet,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/2/2018 8:49,37.9,0,-5.4,0
+ANR-WWWIntranet,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AOTADFS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AOTADFS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/19/2017 8:55,16.7,0,-84,0
+AOTADFS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+AOTADFS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/19/2017 8:55,18.6,0,41.9,0
+argus,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,139.4,0,11.5,0
+ASR-CENTOS7-00,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ATG-DC02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,16.8,0,56.8,0
+AzureLinuxtest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,4/10/2018 17:06,1.7,0,0,0
+AzureLinuxtest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AzureMigrate,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/29/2017 14:44,12.4,0,-0.9,0
+AzureMigrate,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+AZURETEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,15.9,0,-417.2,0
+AZURETEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Azuretest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,43.6,0,-19.9,0
+Azuretest01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-CTCHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,22.2,0,22.4,0
+BGS-CTCHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-CTIAX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,132.8,0,258.9,0
+BGS-CTIAX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-CTIN4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/9/2018 17:51,33.9,0,5.8,0
+BGS-CTIN4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-CTIR2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,29.9,0,41.9,0
+BGS-CTIR2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-FTview,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,42.3,0,12.2,0
+BGS-FTview,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-Gasmonitor,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/29/2017 9:14,21,0,58,0
+BGS-Gasmonitor,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-JCIHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,23.9,0,40.3,0
+BGS-JCIHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-Lutron,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,30,0,68,0
+BGS-N4HVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,22,0,46.7,0
+BGS-N4HVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-PLNTPRESS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/29/2017 9:14,57.5,0,310.8,0
+BGS-PLNTPRESS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-PRINTASE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/29/2017 9:14,43.1,0,21.9,0
+BGS-PRINTASE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-Prowatch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/29/2017 9:14,498.2,0,2358.4,0
+BGS-Prowatch,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-SIEMENS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,98.8,0,1377.7,0
+BGS-SkySparks,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,29.2,0,-25.2,0
+BGS-SkySparks,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BGS-SQLDB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,29.6,0,-204.5,0
+BGS-TCOVHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,35,0,141.5,0
+BGS-TCOVHVAC,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BIDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/15/2017 11:34,51.6,0,0,0
+BIDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BIDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+BIDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,25.7,0,-1.2,0
+BIDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+BIDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,3.2,0,0.1,0
+BIPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/15/2017 11:34,28.5,0,-0.5,0
+BIPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BIPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/15/2017 11:34,26.5,0,-6.8,0
+BIPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+blkpearl,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,0.9,0,-1.5,0
+BUDBUILD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/15/2017 11:34,40.3,0,0.2,0
+BUDBUILD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BUDDBDR01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+BUDDBDR01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BUDDBPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+BUDDBPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+BUDDRBUILD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+BUDDRBUILD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,9.2,0,0,0
+BUDGETUTIL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,21.7,0,-77.6,0
+BUDGETUTIL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Call-APP01-01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/29/2018 9:39,14.9,0,-95.4,0
+Call-DB01-01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 8:35,50,0,-0.4,0
+Call-DB2-VOIP-01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 8:35,14.4,0,-69.2,0
+Call-DC01-01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 7:04,26.3,0,497.2,0
+Call-DC02-01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 7:04,48.1,0,1053,0
+Call-HS3-VOIP-01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 8:35,15.5,0,-45.2,0
+Cisco_FP_Mgmt_Ctr,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,11/15/2017 11:22,0,0,0,0
+Cisco_FP_Mgmt_Ctr,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ciscomgmt,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ciscomgmt,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,32.4,0,7.4,0
+Citrix VPX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:36,9,0,10.1,0
+Citrix VPX,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+claus-rubrik-test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,7/18/2018 8:32,0,0,0,0
+claus-rubrik-test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+CS-Test2016-A,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:06,16.7,0,145.3,0
+CS-Test2016-B,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:06,6.6,0,0,0
+DBFMDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DBFMDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DBFMDR01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DBFMDR01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DBHRDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DBHRDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DBHRDR01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DBHRDR01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DEV-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:14,31.5,0,0.8,0
+DEV-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DEV-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,4/5/2018 16:22,82.2,0,-50.3,0
+DEV-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DEVM-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:14,3.8,0,-0.1,0
+DEVM-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DEVM-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:14,17,0,0,0
+DEVM-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DFSFIREDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DFSFIREDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,12/27/2017 9:22,114.6,0,-29.9,0
+DFSFIREDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DFSFIREDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,12/27/2017 9:22,31.1,0,-333.5,0
+DLC-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/10/2018 20:39,21.7,0,-24.7,0
+DLC-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/5/2018 9:07,37,0,530.5,0
+DLC-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-File,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 8:31,1353.6,0,56,0
+DLC-File,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-LM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/3/2018 9:30,27,0,-77.8,0
+DLC-LM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-Print,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/5/2018 9:07,83.6,0,-259.9,0
+DLC-Print,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-RIMS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/9/2018 8:48,156.5,0,-2.7,0
+DLC-RIMS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-SEQUOIA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/10/2018 20:39,107.3,0,185.9,0
+DLC-SEQUOIA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-SEQUOIATEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/4/2018 9:35,130.3,0,-919.3,0
+DLC-SEQUOIATEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DLC-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 14:49,29.8,0,-21,0
+DLC-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+doepas1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,1.1,0,1.3,0
+doepie1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,3.9,0,-3.1,0
+DPSCopyScan,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSCopyScan,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,33.3,0,-70.6,0
+DPSDC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,11/6/2017 7:36,26.1,0,-602.8,0
+DPSDC03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDC03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/31/2017 14:29,21.6,0,9.4,0
+DPSDC04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDC04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:25,46.2,0,675.5,0
+DPSDFS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDFS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/5/2018 14:09,5064.5,0,-1730.4,0
+DPSDFS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDFS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,11/6/2017 7:38,4094.6,0,1545.8,0
+DPSDFS3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDFS3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/27/2017 8:24,1382.1,0,43,0
+DPSDIRMAN,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDIRMAN,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,26.9,0,-39.9,0
+DPSDOCSTAR-A,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDOCSTAR-A,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/24/2018 9:09,31.4,0,134.1,0
+DPSDOCSTAR-E,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDOCSTAR-E,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/24/2018 9:09,24.3,0,27.3,0
+DPSDOCSTAR-F,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDOCSTAR-F,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/24/2018 9:09,28.5,0,89,0
+DPSDOCSTAR-S,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSDOCSTAR-S,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/31/2018 17:13,31,0,152.6,0
+DPSEIOBOARD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSEIOBOARD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,37,0,-105.8,0
+DPSENDPOINT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSENDPOINT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,222.1,0,-1119.6,0
+DPSETICKET1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSETICKET1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,38.6,0,1.8,0
+DPSETICKET2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSETICKET2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,19.3,0,-4.3,0
+DPSFILEONQ,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSFILEONQ,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 8:45,20.9,0,-3.3,0
+DPSFTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSFTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 10:21,16.6,0,-28.9,0
+DPSGISETL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSGISETL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 10:21,49.5,0,64.9,0
+DPSGISMAP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSGISMAP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/29/2017 15:18,87,0,70.2,0
+DPSGISMAP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSGISMAP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/27/2017 8:26,50.2,0,55.2,0
+DPSGISMAP3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSGISMAP3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,30.2,0,182.7,0
+DPSGISWEB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSGISWEB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,20.8,0,21.5,0
+DPSGISWEB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSGISWEB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 10:21,23.9,0,-8.3,0
+DPSLICENSE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSLICENSE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,25.3,0,36.8,0
+DPSLPR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSLPR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/30/2017 8:36,633.3,0,-15,0
+DPSNETMOTION,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSNETMOTION,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,22.9,0,-52.4,0
+DPSNEXTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSNEXTEST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,30.6,0,-64.1,0
+DPSOJBCADP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSOJBCADP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/29/2017 15:19,41.1,0,14.6,0
+DPSOJBCADP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSOJBCADP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,146.5,0,2043.8,0
+DPSPRINTSRV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSPRINTSRV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,30.2,0,-689.6,0
+DPSRSA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSRSA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/19/2017 8:55,25.5,0,12.7,0
+DPSSQLENT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSSQLENT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/21/2018 21:27,2045.5,0,284.2,0
+DPSSQLENT1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSSQLENT1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/29/2018 8:34,981.5,0,41,0
+DPSSQLENT2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSSQLENT2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,1/8/2018 7:36,296.5,0,-28.1,0
+DPSVFLFA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSVFLFA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,42.1,0,-52.9,0
+DPSVIBRS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSVIBRS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:19,37.2,0,23.2,0
+DPSVJISSADS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSVJISSADS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:19,108.5,0,-193.8,0
+DPSWSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSWSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSWSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+DPSWSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+DPSWSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,10/19/2018 14:59,0,0,0,0
+DPSWSUS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/19/2018 13:59,22.8,0,3800.8,0
+DSHEPARD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,24.2,0,19.9,0
+DSHEPARD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+E911-AGSNL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:18,160.6,0,313.6,0
+E911-DC1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:18,276.5,0,-309.7,0
+E911-GIS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:18,114,0,17.2,0
+EAG- pfSense-BFIS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/6/2017 16:34,0.7,0,0.2,0
+EAG- pfSense-BFIS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagjhosfordtvp,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+eagjhosfordtvp,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-JonTest,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2018 14:11,0,0,0,0
+EAG-JonTest,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-JonTestpfSenseVM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 15:43,18.8,0,-217.6,0
+eagmbrocadesan,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,19.2,0,-26.7,0
+EAGMDC01,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 14:06,26.1,0,-162.5,0
+EAGMDC02,vSphere VM,eagmnlvca.ea.dii.state.vt.us,Remote,NL Two Weeks,1/9/2018 10:17,26.2,0,-36.8,0
+eagmemcmon-4.1,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 14:06,4.8,0,0.1,0
+eagmesrs,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 14:06,5.6,0,35.1,0
+eagmesrsve01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 13:05,1.3,0,-0.1,0
+eagmiaas01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,18.2,0,-39.8,0
+EAGMLM,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,16,0,0,0
+eagmlogicmon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,6.4,0,-0.9,0
+eagmlogicmon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmmail01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,52.9,0,61.5,0
+eagmnlepsc,vSphere VM,eagmnlvca.ea.dii.state.vt.us,Remote,NL Two Weeks,1/9/2018 10:16,5.7,0,2.9,0
+eagmnlvca,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,11.1,0,5,0
+eagmpassmgmt,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,42.1,0,-36.9,0
+eagmscrt01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,34.4,0,-50.9,0
+eagmsecret01,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,3/12/2018 17:14,33.2,0,-160.5,0
+eagmsiogw01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmsplunk01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,213.2,0,132.3,0
+eagmsplunk02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,35.1,0,97.3,0
+eagmsplunk02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmtvdb01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmtvepsc,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 14:06,7.4,0,-6.9,0
+eagmtvjmp01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmtvrubrikproxy,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,7/12/2018 10:48,2.9,0,4.2,0
+eagmtvvc01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmtvvca,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 14:06,14.3,0,7.6,0
+eagmtvvsn01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmtvvsn02.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmtvvum01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagmutlppath02,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,0.7,0,0,0
+eagmutlsep01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,225,0,-705.4,0
+eagmutlwsus,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,192.9,0,-1.1,0
+eagmvmvc01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 10:19,89,0,-42.1,0
+eagmvraut01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 13:05,63.4,0,94.6,0
+eagmvrbiz01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 13:05,17,0,37.5,0
+eagmvrin01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 13:05,3,0,-3.2,0
+eagmwsus01,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,3/27/2018 13:05,398.6,0,296.3,0
+eagmxms01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,Unprotected,2/16/2018 13:30,0,0,0,0
+eagpdc01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 10:19,33.1,0,-21.5,0
+eagpdc02,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 10:19,28.3,0,-29.2,0
+eagpdc03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 7:58,30.3,0,-30.9,0
+eagpdc03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-pfSAense-ADS-NL02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2018 13:39,0,0,0,0
+EAG-pfSAense-ADS-NL02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-PFSENSE-ACCD01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/13/2018 14:48,0.2,0,-5.1,0
+EAG-PFSENSE-ACCD02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/17/2018 13:25,0.2,0,1.5,0
+EAG-pfSense-ADS-NL01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2018 16:46,0,0,0,0
+EAG-pfSense-ADS-NL01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-PFSENSE-AHS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/10/2018 15:29,0.7,0,10.8,0
+EAG-PFSENSE-AHS02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/12/2018 15:37,0.8,0,16.9,0
+EAG-PFSENSE-ANR01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 14:08,0.2,0,0.2,0
+EAG-PFSENSE-ANR02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 15:08,0.7,0,0.1,0
+EAG-PFSENSE-C2TEST01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/11/2018 11:32,1.1,0,27.2,0
+EAG-PFSENSE-C2TEST02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/11/2018 12:44,0.7,0,13.2,0
+EAG-pfSense-CE-PH01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,0.3,0,-0.1,0
+EAG-PFSENSE-CTO01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/20/2018 15:44,0.9,0,17.9,0
+EAG-PFSENSE-CTO02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/21/2018 9:57,0.9,0,17.6,0
+EAG-PFSENSE-DOL01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/17/2018 13:46,0.4,0,0.5,0
+EAG-PFSENSE-DOL02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 13:12,0.4,0,0.1,0
+EAG-PFSENSE-ERP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/13/2018 13:30,0.8,0,0.5,0
+EAG-PFSENSE-ERP02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/13/2018 9:00,0.7,0,0,0
+EAG-PFSENSE-JUD01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/25/2018 9:30,0.4,0,0.7,0
+EAG-PFSENSE-JUD02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/17/2018 13:46,0.4,0,0.1,0
+EAG-PFSENSE-JUD-DR01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/15/2018 15:38,0.3,0,0.6,0
+EAG-PFSENSE-JUD-DR02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/15/2018 18:33,0.2,0,0.1,0
+EAG-PFSENSE-TAX01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/4/2018 8:39,1.3,0,35.7,0
+EAG-PFSENSE-TAX02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/4/2018 13:41,0.6,0,6,0
+EAG-pfSense-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/18/2018 14:09,0.6,0,0.6,0
+EAG-pfSense-Test,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-PFSENSE-TEST01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 14:12,0.6,0,5.9,0
+EAG-PFSENSE-TEST02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/14/2018 16:47,1.1,0,13.5,0
+EAG-pfSenseWS-Jon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/18/2018 14:57,14.5,0,0.1,0
+EAG-pfSenseWS-Jon,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagpportal01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 7:58,2.1,0,0,0
+eagpportal01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagpproxy01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 7:58,1.9,0,0,0
+eagpproxy01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagptvpsc01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagptvpsc02.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagptvpsc03,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 18:37,4.5,0,0.5,0
+eagptvvc01.ea.dii.state.vt.us,vSphere VM,eagmtvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagptvvc02,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/23/2018 18:57,9.1,0,-3,0
+eagpvcom01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,21.7,0,-17.4,0
+eagpvcom01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagpvdivc01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,75.8,0,-18.2,0
+eagpvdivc01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagpvdivcdb01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,160.4,0,-114.6,0
+eagpvdivcdb01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagpvhield03,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 14:06,3.8,0,0.4,0
+eagpvmvc01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,129.2,0,-148,0
+eagpvmvcdb01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,407.4,0,780.8,0
+eagpvmvcweb,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,38,0,-30,0
+eagpvrops01,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/9/2017 13:05,147.3,0,0,0
+eagpvrops02,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,5/3/2018 17:07,107.2,0,20.3,0
+eagpvrops03,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,5/16/2018 11:54,105.7,0,111.8,0
+eagpvshield02,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,13.3,0,18.8,0
+EAG-VLAN3722-pfSenseTest,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 11:27,44.7,0,1081.8,0
+EAG-VLAN3723-pfSenseTest,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 11:27,38.9,0,-178.6,0
+EAG-VLAN3724DMZ-pfSenseTest,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/17/2018 11:27,15.6,0,27.3,0
+eag-vxrack-oel7a,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,8/18/2018 6:46,0,0,0,0
+eag-vxrack-oel7a,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eag-vxrack-oel7b,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,8/18/2018 6:46,0,0,0,0
+eag-vxrack-oel7b,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eag-vxrack-win2012a,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,8/18/2018 6:47,0,0,0,0
+eag-vxrack-win2012a,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eag-vxrack-win2012b,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,8/18/2018 6:46,0,0,0,0
+eag-vxrack-win2012b,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagwaschwartztv,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,6/26/2018 15:56,42,0,797,0
+eagwclund,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,72.6,0,38.6,0
+eagwdgwozdz,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,65.2,0,-14.2,0
+eagwdgwozdztv,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,1/9/2018 14:06,80.9,0,143.3,0
+eagwjheintz,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,57.2,0,1191,0
+eagwjheintz2,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/13/2018 11:50,19.3,0,-2736.3,0
+eagwjhosford,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,37.6,0,-228.2,0
+eagwjhosfordtv,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,2/6/2018 12:24,31.6,0,232.6,0
+eagwkneas,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/14/2018 11:38,14,0,30.8,0
+eagwmlapera,vSphere VM,eagmvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,49,0,0.3,0
+eagwphaigh01,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+eagwphaightv,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,TV Two Weeks,5/2/2018 12:52,1.8,0,2.4,0
+EDU-DC1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,52.3,0,26.3,0
+EDU-DC2,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,52.2,0,1179.3,0
+EDU-DKR-01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/15/2018 13:37,1.1,0,0.1,0
+EDU-EDE-DEV,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/12/2018 10:33,13.7,0,5.9,0
+EDU-EDE-ETL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/19/2018 12:41,15.3,0,2179.6,0
+EDU-EDE-SQLDEV,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/12/2018 10:33,17.7,0,24,0
+EDU-EDE-SQLPRD,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/12/2018 10:33,16.5,0,23.7,0
+EDU-EFT,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,42.7,0,-1.4,0
+EDU-EFT-DMZ,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,16.1,0,8.1,0
+EDU-FS1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,1445.5,0,1022.7,0
+EDU-FS2,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,1120.5,0,425.1,0
+EDU-IES4,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,49.8,0,-2.4,0
+EDU-Netwrix,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,15,0,-4.2,0
+EDU-NSLP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,12.1,0,-20,0
+EDU-Print,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,22.8,0,72.5,0
+EDU-SQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EDU-SQLAnalysis,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,42.4,0,34.9,0
+EDU-VTCLIM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/12/2018 15:36,10.4,0,131.7,0
+EDWREPPUB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,1.4,0,-0.5,0
+ENT-AADSync,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:27,50.1,0,135.6,0
+ENT-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:40,48.6,0,53.7,0
+ENT-ACD4-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/2/2018 8:43,611.1,0,1058.2,0
+ENT-ACD4-CIC1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ACD4-CIC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:40,501.6,0,185.5,0
+ENT-ACD4-CIC2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ACD4-IMON,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:40,90.7,0,20.1,0
+ENT-ACD4-IMON,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ACD4-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Weekly large Snapshots,1/26/2018 9:52,176.7,0,-84.8,0
+ENT-ACD4-SQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ACD4-SRS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:40,31.5,0,25.3,0
+ENT-ACD4-SRS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ACD4-TTS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:40,30.3,0,63.5,0
+ENT-ACD4-TTS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ACD-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/31/2017 18:40,10.8,0,-0.1,0
+ENT-ACD-CCS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-ADAUDIT,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,32.9,0,-17.1,0
+ENT-ADSSLS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/5/2018 9:01,17.6,0,839.6,0
+ENT-ADSSLS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-CA,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,25.2,0,-0.5,0
+ENT-CA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/8/2018 16:36,10.3,0,0.5,0
+ENT-CA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-CISCO-CDA,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 9:42,0.6,0,0,0
+ENT-CISCO-CDA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/1/2018 10:54,4.6,0,130.3,0
+ENT-CISCO-CDA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-Citrix-MGMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,26,0,37.1,0
+ENT-Citrix-MGMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-CITRIX-NS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,5/18/2018 14:14,2.8,0,-0.7,0
+ENT-CITRIX-NS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Ent-Citrix-SQL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,45.8,0,130.7,0
+Ent-Citrix-SQL1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Ent-Citrix-XA00,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,67.1,0,95.6,0
+Ent-Citrix-XA00,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Ent-Citrix-XA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,93,0,341.6,0
+Ent-Citrix-XA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Ent-Citrix-XA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,83.9,0,318.9,0
+Ent-Citrix-XA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-Citrix-XA03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,87.5,0,348,0
+ENT-Citrix-XA03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-Citrix-XA04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,71.5,0,132.5,0
+ENT-Citrix-XA04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Ent-Citrix-XA05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,87.9,0,518.7,0
+Ent-Citrix-XA05,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Ent-Citrix-XA06,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,104.6,0,233.3,0
+Ent-Citrix-XA06,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-Citrix-XA07,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,87.9,0,50,0
+ENT-Citrix-XA07,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Ent-Citrix-XA08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,96.6,0,-10.8,0
+Ent-Citrix-XA08,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-DCNET01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,37.5,0,-12.9,0
+ENT-DCNET01A,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/14/2018 13:33,0,0,-1301.3,0
+ENT-DCNET02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,37.4,0,68.6,0
+ENT-DCNET02A,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/14/2018 13:33,0,0,-1352.8,0
+ENT-DCVSMS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,71.2,0,21.7,0
+ENT-DCVSMS01A,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/14/2018 13:33,0,0,-666.1,0
+ENT-DCVSMS02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,41.7,0,-14.5,0
+ENT-DCVSMS02A,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/14/2018 13:33,0,0,-744.2,0
+ENT-DCVSMS03,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,43,0,153.6,0
+ENT-DCVSMS04,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,54.3,0,618,0
+ENT-EXCH,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/12/2018 11:51,3586.8,0,3445.5,0
+ENT-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:00,11.3,0,0,0
+ENT-Footprints,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-Footprints-2003,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,86.5,0,-222,0
+ENT-IEM-CORE,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,584.8,0,-439.3,0
+ENT-IEM-CSA,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,5.9,0,18.7,0
+ENT-IEM-SQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,227.3,0,363.2,0
+ENT-ISM-APP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2018 15:00,17.9,0,43.1,0
+ENT-ISM-REP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2018 15:46,17.9,0,43.1,0
+ENT-ISM-SQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2018 15:46,18,0,-1308.7,0
+ENT-ISM-UAT,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,67.8,0,842.6,0
+ENT-ISM-WEB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2018 15:16,17.9,0,43,0
+ENT-LAMP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:00,18.3,0,13.9,0
+ENT-LAMP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-LD-DB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Weekly large Snapshots,1/26/2018 9:53,134.7,0,-370.8,0
+ENT-LD-DB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-LDMS-Core,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,470.2,0,228.5,0
+ENT-LDSD-App,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,56.1,0,82.2,0
+ENT-LDSD-UAT,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,78.1,0,41.7,0
+ENT-LDSD-Web,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:14,60.2,0,10.8,0
+ENT-MBAM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,23.6,0,-45.9,0
+ENT-MBAM-SQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,29.4,0,31.8,0
+ENT-MCAFEE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/6/2017 7:48,81.9,0,895.5,0
+ENT-MCAFEE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-MCAFEEAGENT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/6/2017 7:48,18.4,0,-508.5,0
+ENT-MCAFEEAGENT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-NL-NBU-MAST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/6/2017 7:48,116.1,0,-49.9,0
+ENT-NL-NBU-MAST,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-OPENVAS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:26,8.8,0,0.4,0
+ENT-OPENVAS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:00,30.9,0,68.1,0
+ENT-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-Seamus-CentOS7,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-SEP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,237.1,0,454.1,0
+ENT-SP-APP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,183.6,0,2851.2,0
+ENT-SPLUNK01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:17,53.9,0,36.9,0
+ENT-SPLUNK01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-SP-SQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,934.8,0,21336.9,0
+ENT-SP-WEB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,83,0,103.5,0
+ENT-SQLTEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:00,120.6,0,-612.3,0
+ENT-SQLTEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-TEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:00,34,0,-72.2,0
+ENT-TEL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-TenableFull-New,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/2/2018 11:16,71.8,0,99.1,0
+ENT-TenableFull-New,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-TenableScan1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/23/2018 12:21,71.5,0,17.9,0
+ENT-TenableScan1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-TenableScan2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/23/2018 12:21,77.8,0,123.6,0
+ENT-TenableScan2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-TenableScan3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/23/2018 16:59,78.1,0,114.1,0
+ENT-TenableScan3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ENT-VPN01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/12/2018 11:34,16,0,66.6,0
+ENT-VPN01-OLD,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/12/2018 11:04,0,0,-856.4,0
+ENT-VPN02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,23,0,-25.3,0
+ENT-WSUS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:13,306.9,0,2626.2,0
+ERP-AFARRELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,18.6,0,0,0
+ERP-AFARRELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-AWILLIAMS-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-AWILLIAMS-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,15.2,0,0,0
+ERP-BIDEVAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-BIGIPVE01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,3.5,0,-2.9,0
+ERP-BIGIPVE02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,6.2,0,-2.5,0
+ERP-BUDDBDEV01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-BUDDBDEV01-NEW,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,11/10/2017 9:23,0,0,0,0
+ERP-BUDDBDEV01-NEW,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-BUDDBPRD01-NEW,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-BUDDBPRD01-NEW,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-CHANGE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 20:11,147.6,0,-76.4,0
+ERP-CHANGE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-CORR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,54,0,695.2,0
+ERP-CORR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-CPALISSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,46.2,0,-75.5,0
+ERP-CPALISSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBFMDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBFMDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBFMPLG01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBFMPLG01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBFMPLG02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBFMPLG02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBFMPLG03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBFMPLG03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBFMPRD01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 16:15,0.3,0,28.7,0
+ERP-DBFMPRD02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 16:15,0.3,0,28.7,0
+ERP-dbfmprdrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbfmprdrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-dbfmprdrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbfmprdrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBFMSIT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,139.6,0,412.2,0
+ERP-DBFMUAT2RAC01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,7/24/2018 11:15,0,0,0,0
+ERP-DBFMUAT2RAC02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,7/24/2018 11:15,0,0,0,0
+ERP-dbfmuatrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbfmuatrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-dbfmuatrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbfmuatrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBHRDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBHRDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBHRPLG01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBHRPLG01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBHRPLG02RAC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBHRPLG02RAC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBHRPLG02RAC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBHRPLG02RAC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-dbhrprdrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbhrprdrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-dbhrprdrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbhrprdrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBHRRPTDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DBHRRPTDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-dbhruatrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbhruatrac01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-dbhruatrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-dbhruatrac02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DBUPK,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,24.9,0,0.3,0
+ERP-DBUPK,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DNS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/17/2018 8:56,562.2,0,-869.8,0
+ERP-DNS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DNS02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 20:14,116.9,0,-12.8,0
+ERP-DNS02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DNS03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DNS03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 7:25,544.1,0,-272.8,0
+ERP-DNS04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DNS04,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 7:25,14.4,0,-27.3,0
+ERP-DNS05,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,616.1,0,-499.4,0
+ERP-DNS06,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,25.3,0,-4.3,0
+ERPDR-FS-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERPDR-FS-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 7:25,82.2,0,-23.3,0
+ERP-DRRECCAT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-DRRECCAT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-DSHEPARD-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,56.8,0,-312.6,0
+ERP-ES01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,37.1,0,82.4,0
+ERP-ES02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,37,0,59.3,0
+ERP-ESDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,49.6,0,133.7,0
+ERP-ESDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-ESDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,29.8,0,102.7,0
+ERP-ESDEV02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-FMDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FMDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,39.4,0,-37.7,0
+ERP-FMDRAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FMDRAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,40.9,0,-65.9,0
+ERP-FMDRCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FMDRCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,18.8,0,-0.3,0
+ERP-FMDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FMDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,55.2,0,-0.1,0
+ERP-FMDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FMDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,31.9,0,0.2,0
+ERP-FMDRWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FMDRWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,26.7,0,-1,0
+ERP-FMDRWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FMDRWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,58.4,0,0.1,0
+ERP-FMPLG01-new,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/27/2018 13:12,111.2,0,421,0
+ERP-FMPRDAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 15:15,8.7,0,1084.8,0
+ERP-FMPRDAPP02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 15:15,8.7,0,1084.8,0
+ERP-FMPRDREP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:44,11.7,0,41.1,0
+ERP-FMPRDWEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:44,24.9,0,41.1,0
+ERP-FMPRDWEB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:44,11.7,0,41.1,0
+ERP-FMPRDWEB03,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:44,0.4,0,-3025.6,0
+ERP-FMSBX1APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 16:33,8.7,0,-1974.6,0
+ERP-FMSBX1WEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 16:33,0.4,0,52,0
+ERP-FMSBX7APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,57.4,0,79.7,0
+ERP-FMSBX7APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-FMSBX7WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,28.2,0,0.5,0
+ERP-FMSBX7WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-FMSITAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,24.3,0,-31.1,0
+ERP-FMSITWEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,23.7,0,-67,0
+ERP-FMTRNAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/27/2018 12:41,31.2,0,92.3,0
+ERP-FMTRNWEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/27/2018 13:12,37.3,0,978.2,0
+ERP-FMUAT2APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/28/2018 14:21,11.9,0,188.5,0
+ERP-FMUAT2APP02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:33,9.5,0,141.3,0
+ERP-FMUAT2REP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:44,25,0,44.5,0
+ERP-FMUAT2WEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/28/2018 14:21,13.7,0,-281.6,0
+ERP-FMUAT2WEB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:33,1.2,0,-2925.2,0
+ERP-FMUAT2WEB03,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/17/2018 14:33,1.2,0,-2925.3,0
+ERP-FOGLIGHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 20:13,37.7,0,-54.7,0
+ERP-FOGLIGHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-FS-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,50.1,0,5.5,0
+ERP-FS-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-FTPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,54.2,0,-15.3,0
+ERP-FTPDEV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-FTPDR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-FTPDR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 7:25,41.1,0,1209.3,0
+ERP-FTPPRD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,88.9,0,38.7,0
+ERP-FTPPRD,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-GWRIGHT-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,42.5,0,-99.4,0
+ERP-GWRIGHT-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-GWRIGHT-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,37.7,0,56.9,0
+ERP-HRDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-HRDRAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,64.4,0,17.1,0
+ERP-HRDRAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-HRDRAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,48,0,19.9,0
+ERP-HRDRCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-HRDRCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,22.8,0,4.1,0
+ERP-HRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-HRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,66.9,0,1.5,0
+ERP-HRDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-HRDRWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,21.3,0,-1,0
+ERP-HRDRWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-HRDRWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,33,0,-0.3,0
+ERP-HRDRWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-HRDRWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,30.3,0,-0.3,0
+ERP-JBECKER-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,28.3,0,-342.8,0
+ERP-JBERCHICK-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-JBERCHICK-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,9.3,0,0,0
+ERP-JHACKNEY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,27.7,0,0,0
+ERP-JHACKNEY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-JHACKNEY-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-JHACKNEY-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,7.8,0,0,0
+ERP-JHARRIS-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,28.5,0,-282.6,0
+ERP-JKEZAR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 16:38,45.5,0,642.8,0
+ERP-JKEZAR-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-JKEZAR-VM2,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,36,0,-107.3,0
+ERP-KJAQUISH-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,58,0,-391.8,0
+ERP-KROULEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,30.9,0,12.9,0
+ERP-KROULEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-LTRIPP-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,38.1,0,-15.5,0
+ERP-LTRIPP-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-LTRIPP-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-LTRIPP-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,28,0,-11.2,0
+ERP-NANDERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,8/7/2018 14:38,36.5,0,0,0
+ERP-NANDERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-NCOLLINS-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,29.5,0,-331.1,0
+ERP-NFS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,12/4/2017 8:10,0,0,0,0
+ERP-NFS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-NVISION,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/7/2018 8:14,43.8,0,-26.4,0
+ERP-OEM13c,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 15:13,88.2,0,-32,0
+ERP-OEM13c,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-OEM13cDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 15:13,237.2,0,243.7,0
+ERP-OEM13cDB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-PBROOKS-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,30.5,0,-234.2,0
+ERP-PPERRY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,25.7,0,-12.4,0
+ERP-PPERRY-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-PSRECCAT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-PSRECCAT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-PSRECCAT02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Day,10/22/2018 17:29,6274.9,0,-187782.1,0
+ERP-SCI-AJAYI,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/26/2018 16:54,36.1,0,31.8,0
+ERP-SCI-AJAYI,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-AMAIN,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,24,0,-25.2,0
+ERP-SCI-AMAIN,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-CBURNETT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,30.3,0,0.5,0
+ERP-SCI-CBURNETT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-DTARANGO,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/9/2018 17:50,21.3,0,0,0
+ERP-SCI-DTARANGO,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-JHENSLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,5/8/2018 16:58,37.9,0,-21.2,0
+ERP-SCI-JHENSLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-JKENNERKNECHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,34.9,0,3.1,0
+ERP-SCI-JKENNERKNECHT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-MBLACKMORE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,73.4,0,16.8,0
+ERP-SCI-MBLACKMORE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-MPFALLER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,71.3,0,-848.4,0
+ERP-SCI-MPFALLER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-NMANNA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,29.1,0,23.3,0
+ERP-SCI-NMANNA,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-RBAKER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/26/2018 16:54,22,0,0,0
+ERP-SCI-RBAKER,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-RSMITH,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,32.3,0,14.3,0
+ERP-SCI-RSMITH,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-SAJMAL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/9/2018 17:50,60.4,0,0,0
+ERP-SCI-SAJMAL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-SCONYERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,28.2,0,-815,0
+ERP-SCI-SCONYERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-SHULING,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,17.5,0,-20.4,0
+ERP-SCI-SHULING,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-UPGRADE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,52.9,0,-354.7,0
+ERP-SCI-UPGRADE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-UPGRADE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,145.5,0,-12.1,0
+ERP-SCI-UPGRADE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-WPINCKLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,21,0,-16.2,0
+ERP-SCI-WPINCKLEY,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SCI-WROGERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/26/2018 16:54,32.5,0,0,0
+ERP-SCI-WROGERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SDORN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,7/19/2018 11:35,45.9,0,42.8,0
+ERP-SDORN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SEP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/7/2018 20:12,187.1,0,-2510.7,0
+ERP-SEP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SPETERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,30.4,0,-13,0
+ERP-SPETERSON-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-SPETERSON-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-SPETERSON-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,9.5,0,-0.8,0
+ERP-SPLUNK,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/19/2018 10:33,50.6,0,248.6,0
+ERP-SZELLER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,21.1,0,-15.6,0
+ERP-SZELLER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-TMARINEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,31,0,29.8,0
+ERP-TMARINEAU-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-TMORSE-VM,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,6/22/2018 12:07,38.8,0,-81.1,0
+ERP-TMORSE-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+ERP-TMORSE-VM-DR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:41,30.7,0,-23,0
+ERP-UPKWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,54.2,0,-34,0
+ERP-UPKWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-WEBUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,51.6,0,111.6,0
+ERP-WEBUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+fillmore,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,4,0,1.2,0
+fillmore-jump,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,13.1,0,-1,0
+FMDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,53.5,0,30.9,0
+FMDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:17,35.6,0,-4.2,0
+FMDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,35.7,0,62.5,0
+FMDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,19.3,0,-24.3,0
+FMDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:17,25.4,0,-8.6,0
+FMDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,25.5,0,-12.4,0
+FMPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,36.7,0,-29.7,0
+FMPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,26.7,0,-1.5,0
+FMPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,81.9,0,-14.7,0
+FMPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,18.2,0,-17.4,0
+FMPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,18,0,14.8,0
+FMPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,17.9,0,-22.7,0
+FMPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,55.4,0,-39.5,0
+FMSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,28,0,-23.4,0
+FMSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,35,0,-18.2,0
+FMSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,61.5,0,-2.8,0
+FMSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,46.9,0,-23.9,0
+FMSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,44.9,0,126.9,0
+FMSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,62.9,0,-23.5,0
+FMSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,31.3,0,-32.1,0
+FMSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,42.3,0,-955.7,0
+FMSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,2.4,0,0.3,0
+FMSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,18.1,0,-28.2,0
+FMSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,1.7,0,1,0
+FMSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX5APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,51.7,0,0,0
+FMSBX5APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX5WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,30.7,0,0,0
+FMSBX5WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX9APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,3.8,0,-0.7,0
+FMSBX9APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSBX9WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,3.1,0,0.8,0
+FMSBX9WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMSES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+FMSES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,45.6,0,50.9,0
+FMUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,34,0,24.8,0
+FMUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,25,0,-24.8,0
+FMUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,31.8,0,16.8,0
+FMUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,30.5,0,19,0
+FMUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,28,0,-16.5,0
+FMUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FMUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,28.4,0,-36.2,0
+FMUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+FTPDR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+FTPDR,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/24/2017 7:25,50.1,0,5,0
+Generic Linux excluding basic ephemeral dirs,Linux Fileset,10.80.4.111,Remote,Testing client,11/14/2017 13:53,3,0,0,0
+Generic Linux excluding basic ephemeral dirs,Linux Fileset,dbfmuat2rac01.erp.state.vt.us,Remote,NL Two Weeks,7/24/2018 10:48,23.3,0,-332.5,0
+Generic Linux excluding basic ephemeral dirs,Linux Fileset,dbfmuat2rac02.erp.state.vt.us,Remote,NL Two Weeks,7/24/2018 10:49,18.7,0,180.6,0
+GFS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+GFS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:18,36.3,0,20,0
+GFSProxy1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+GFSProxy1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:18,49.9,0,695.1,0
+Gruyere,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,23.7,0,16.8,0
+GWRIGHT-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,38.8,0,-81.9,0
+GWRIGHT-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Havarti,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,25.5,0,64.3,0
+HRDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,42.6,0,3.4,0
+HRDEV2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:17,23.9,0,0.9,0
+HRDEV2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,59.6,0,-136.2,0
+HRDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,11.3,0,-17.3,0
+HRDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:17,31.1,0,12.2,0
+HRDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,48.1,0,-7.7,0
+HRPRDAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,55.6,0,-86.3,0
+HRPRDAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,47.8,0,-11.7,0
+HRPRDCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,65.1,0,11.8,0
+HRPRDREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,25.4,0,-51.9,0
+HRPRDWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,32.8,0,32.7,0
+HRPRDWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/13/2017 10:55,25.6,0,-5.5,0
+HRPRDWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRRPTDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,37.2,0,-2.9,0
+HRRPTDEVAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRRPTDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:57,15.4,0,-35.1,0
+HRRPTDEVCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRRPTDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:17,23.9,0,2.9,0
+HRRPTDEVWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,83.9,0,-111.1,0
+HRSBX1APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,15,0,-1073.8,0
+HRSBX1CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,35.7,0,-56.9,0
+HRSBX1WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,293.3,0,2428.2,0
+HRSBX2APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,15.1,0,-21.7,0
+HRSBX2CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,37.3,0,-18.2,0
+HRSBX2WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,88.9,0,-70.1,0
+HRSBX3APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,15,0,-24.7,0
+HRSBX3CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,41.1,0,-21.6,0
+HRSBX3WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,46.3,0,8.1,0
+HRSBX4APP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,25.5,0,-697.1,0
+HRSBX4CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,33.2,0,26,0
+HRSBX4WEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSBX8CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:38,17.1,0,0,0
+HRSBX8CRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRSES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+HRSES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,64.4,0,27.7,0
+HRUATAPP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,54.8,0,-25.3,0
+HRUATAPP02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,48.5,0,1056.8,0
+HRUATCRY01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,28.7,0,-10.2,0
+HRUATREP01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,25.9,0,-217.9,0
+HRUATWEB01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,34.5,0,-1.8,0
+HRUATWEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+HRUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:42,32.7,0,163.5,0
+HRUATWEB03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+JBECKER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,8.4,0,-6.8,0
+JBECKER-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+JHARRIS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,13.5,0,5.1,0
+JHARRIS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+JUD-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,188.3,0,-172.8,0
+JUD-APP02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,25.5,0,-24.2,0
+JUD-App03,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,39.5,0,154.3,0
+JUD-APP04,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,41.7,0,-64.5,0
+JUD-APP05,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,56.8,0,148.8,0
+JUD-AV01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,130.1,0,-639.1,0
+JUD-AV02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,36.6,0,-60.5,0
+JUD-BI,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,39.8,0,50.4,0
+JUD-BradConsole,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,157.9,0,-222.8,0
+JUD-CMS-DC01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/14/2018 12:15,23.2,0,-70.6,0
+JUD-CMS-DC02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/14/2018 12:45,23.2,0,20.6,0
+JUD-CMS-WSUS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:53,35.3,0,-348.5,0
+Jud-DC01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,42.9,0,-83.8,0
+Jud-DC02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,32.1,0,-896.7,0
+JUD-DR-OP-APPJW01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:13,1.1,0,0.1,0
+JUD-DR-OP-APPJW02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:13,1.1,0,1.2,0
+JUD-DR-OP-DB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/5/2018 12:49,23.5,0,0.5,0
+JUD-DR-OP-DB01-old,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/5/2018 12:19,0,0,-79.8,0
+JUD-DR-OP-EFILE01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:40,18.8,0,0.2,0
+JUD-DR-OP-ELS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:13,1.3,0,-1.5,0
+JUD-DR-OP-FS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:13,1.1,0,0.5,0
+JUD-DR-OP-IMG01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:40,3.8,0,-6.7,0
+JUD-DR-OP-INT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:13,1.1,0,0.4,0
+JUD-DR-OP-PORT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/1/2018 12:13,1.3,0,0.8,0
+JUD-DW-Dev,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,372.1,0,2781,0
+JUD-DW-Prod,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,222.3,0,-71.8,0
+JUD-ECabinet-PreProduction,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,41.8,0,-51.2,0
+JUD-EFILE-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,609.9,0,335.2,0
+JUD-EFILE-DB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,55.7,0,88.7,0
+JUD-EFILE-WEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,32.3,0,-74.3,0
+JUD-ESERVICES-DC01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,28,0,82,0
+JUD-ESERVICES-DC02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,45.2,0,-23.1,0
+JUD-FS02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,151.3,0,-192.1,0
+JUD-FTP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,6.4,0,-1.4,0
+JUD-HELPDESK,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,9,0,-9.7,0
+JUD-IMProxy,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,64.9,0,-0.1,0
+JUD-Jury-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,53.8,0,-58.9,0
+JUD-Jury-DB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,172.3,0,5.5,0
+JUD-Jury-Web01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,19.8,0,-670.9,0
+JUD-Jury-WebApp01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,21,0,-629.3,0
+JUD-Jury-WEBold,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,20.3,0,0.2,0
+JUD-LogicMon,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,17.4,0,22.2,0
+JUD-Logs,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,27.6,0,34.2,0
+JUD-neiconnect,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,4.4,0,2.3,0
+JUD-ONP-CONV-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,29.1,0,-50.7,0
+JUD-ONP-DB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,194.3,0,3960.7,0
+JUD-ONP-DB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:53,9.3,0,12.3,0
+JUD-ONP-STAGE-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,30.2,0,17.9,0
+JUD-ONP-STAGE-INT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,30.4,0,5.8,0
+JUD-ONP-TESTA-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:53,6.6,0,-0.5,0
+JUD-ONP-TESTA-ELS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:53,40.3,0,580.1,0
+JUD-ONP-TESTA-INT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:53,7,0,1.8,0
+JUD-ONP-TESTA-PORT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:53,40.3,0,1052.5,0
+JUD-ONP-TEST-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,32.9,0,-71.4,0
+JUD-ONP-TEST-EFILE01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,26.9,0,-658.2,0
+JUD-ONP-TEST-ELS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,26.1,0,40.4,0
+JUD-ONP-TEST-INT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,34.4,0,100,0
+JUD-ONP-TEST-PORT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,29.5,0,-799.8,0
+JUD-ONP-TRAINA-APPJOB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:23,6.5,0,-2.6,0
+JUD-ONP-TRAINA-INT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:23,6.1,0,-10.3,0
+JUD-ONP-TRAIN-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,26,0,-3.9,0
+JUD-ONP-TRAIN-INT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,21.8,0,-2.7,0
+JUD-ONP-TRAIN-PORT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,43.4,0,-161.5,0
+JUD-OP-APP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,6.4,0,-11.1,0
+JUD-OP-APP02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,6.8,0,-484.5,0
+JUD-OP-APP03,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 14:26,15.3,0,-22.8,0
+JUD-OP-DB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/5/2018 12:49,35.1,0,96.4,0
+JUD-OP-DB01-old,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/5/2018 12:19,0,0,-798.8,0
+JUD-OP-DB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/5/2018 12:49,61,0,-176.4,0
+JUD-OP-DB02-old,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,9/5/2018 12:19,0,0,-212.3,0
+JUD-OP-DBJ1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,69.7,0,-145.7,0
+JUD-OP-EFILE01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 10:22,7.3,0,3.4,0
+JUD-OP-EFILE02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 10:22,30.6,0,264.2,0
+JUD-OP-ELS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:53,15.9,0,-21.8,0
+JUD-OP-ELS02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:53,8.5,0,-13.4,0
+JUD-OP-FS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,5.8,0,-18.9,0
+JUD-OP-FS02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,45.5,0,-43.9,0
+JUD-OP-IMG01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,34.2,0,-755.2,0
+JUD-OP-IMG02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 12:23,22.9,0,127,0
+JUD-OP-INT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,21.8,0,-16.9,0
+JUD-OP-INT02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,6.7,0,19.9,0
+JUD-OP-JOB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,11.2,0,-359.1,0
+JUD-OP-JOB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:43,6,0,-594.1,0
+JUD-OP-PORT01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:53,6.4,0,-11.6,0
+JUD-OP-PORT02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:53,14,0,219.5,0
+JUD-OP-WF01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:53,25.9,0,-18.7,0
+JUD-OP-WF02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/16/2018 11:53,14.2,0,-340.9,0
+JUD-Print01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,24.6,0,18.8,0
+JUD-TYLER00,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,22.9,0,4.4,0
+JUD-Tyler01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,46.8,0,1089.9,0
+JUD-Tyler02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/29/2018 14:42,42.2,0,721.1,0
+JUD-Tyler03,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/29/2018 14:42,77.9,0,-139,0
+JUD-TYLER-DC01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,30.1,0,-127.3,0
+JUD-TYLER-DC02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,25.4,0,-414.7,0
+JUD-VCAS,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,38.6,0,47.2,0
+JUD-vciconnect,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,75.9,0,0.1,0
+JUD-VDICON1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,20.7,0,-170.7,0
+JUD-VDICON2,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,41.5,0,503.9,0
+JUD-VDICON3,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,21.5,0,17.7,0
+JUD-VDICON4,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,21.1,0,33,0
+JUD-VDIMOVEAV01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,23.2,0,27.5,0
+JUD-VDIMOVEAV02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,43.9,0,21,0
+JUD-VDISEC1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,15.7,0,-32,0
+JUD-VDISEC2,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,16,0,-3.2,0
+kentest2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,7.6,0,-0.5,0
+kentest2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+KJAQUISH-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,12.3,0,4.7,0
+KJAQUISH-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+KSEWELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,2.1,0,0.3,0
+KSEWELL-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+KWAKEFIELD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,17.5,0,0.5,0
+KWAKEFIELD-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+LIMSAPP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+LIMSAPP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:18,39,0,-27.7,0
+LIST,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,13.1,0,-39.6,0
+LISTSERV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+LISTSERV,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,111.6,0,-713.7,0
+Mater,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/24/2018 14:30,108.6,0,63.6,0
+MBUTRYMAN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,26.6,0,9.1,0
+MBUTRYMAN-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+NCOLLINS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,10.7,0,-19.1,0
+NCOLLINS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+OmniStackVC-10-216-16-102,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,Unprotected,1/9/2018 8:59,0,0,0,0
+OmniStackVC-10-216-16-105,vSphere VM,eagmtvvca.ea.dii.state.vt.us,Local,Unprotected,1/9/2018 8:59,0,0,0,0
+OmniStackVC-10-246-16-100,vSphere VM,eagmnlvca.ea.dii.state.vt.us,Remote,Unprotected,1/9/2018 9:04,0,0,0,0
+opsview,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+opsview,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:18,6.2,0,-3,0
+Panorama-8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,13.3,0,0,0
+Panorama-8,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+PA-VM-8.0-01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,3.5,0,0,0
+PA-VM-8.0-01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+PBROOKS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,11.3,0,0.4,0
+PBROOKS-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+PCoIP_MC_1.10.5,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,1.5,0,-1.2,0
+ph-CentOS7-firebrand,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,1.9,0,0.1,0
+ph-CentOS7-firebrand,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ph-CentOS7-wavemaker,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,2,0,-0.7,0
+ph-CentOS7-wavemaker,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ph-CentOS7-zealot,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/11/2017 15:55,2.2,0,0,0
+ph-CentOS7-zealot,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+PSBD-DevEcMapp1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,70.8,0,47.8,0
+PSBD-DevSql1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,243.5,0,1564.8,0
+PSB-DevEcrtApp1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,56,0,8.7,0
+PSB-DevEcrtWeb1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,27.8,0,24.1,0
+PSBD-ProdFiles1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,82.1,0,198.6,0
+PSBD-ProdSQL1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,189.6,0,162.3,0
+PSBD-ProEcMapp1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,50.8,0,-600.6,0
+PSB-ProEcrtApp1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,185.1,0,2192.1,0
+PSB-ProEcrtWeb1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,90.5,0,-60.6,0
+PSD-DevEcrtApp1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,46.9,0,-18.9,0
+PSD-DevEcrtWeb1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,23.5,0,67.7,0
+PSD-ProEcrtApp1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,56.4,0,-958.7,0
+PSD-ProEcrtWeb1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/6/2018 10:28,28.3,0,109.5,0
+RSA Authentication Appliance,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,7.5,0,-1.2,0
+SAS-RICOH,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:16,268.8,0,4082.3,0
+ScaleIO-10.216.34.201,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.202,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.203,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.204,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.205,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.206,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.207,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.208,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.209,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.210,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.211,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.212,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.213,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.214,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.215,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ScaleIO-10.216.34.216,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Spock,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/27/2018 14:17,961.5,0,905.1,0
+TAX-CHAINB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:54,35.4,0,1.1,0
+TAX-CHAINB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-Checks02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,98.1,0,162.8,0
+Tax-Checks02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,43.1,0,100.5,0
+TAX-DC01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,73.7,0,901.2,0
+TAX-DC02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-DC03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,34.3,0,79.5,0
+TAX-DC03,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-DC04,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/11/2018 10:44,25.9,0,1725.4,0
+TAX-DC05,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/11/2018 11:14,25.4,0,851.7,0
+TAX-DEV-WS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/9/2018 10:51,39.5,0,-22.5,0
+TAX-FFWEB-P1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/25/2018 11:00,26.9,0,40.2,0
+TAX-FFWEB-P1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-FFWEB-S1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/22/2018 8:34,51.8,0,137.1,0
+TAX-FFWEB-S1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-Files01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,2732,0,1103.1,0
+Tax-Files01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-FPDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 8:41,30.6,0,-39.1,0
+Tax-FPDEV01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-FPPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/26/2018 12:06,34.6,0,-30,0
+Tax-FPPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-FPPRD02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 10:02,36,0,6.6,0
+Tax-FPPRD02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-FPTST01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 8:41,31.6,0,30.1,0
+Tax-FPTST01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTDBFCR1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TAX-GTDBFCR1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TAX-GTDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTDBP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TAX-GTDBP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TAX-GTDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTDBT1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TAX-GTDBT1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTFCR1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/31/2018 9:20,122.1,0,-178.8,0
+TAX-GTFCR1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTFILE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/31/2018 9:20,81.4,0,-14.1,0
+TAX-GTFILE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTFILE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/30/2018 14:51,64.8,0,-25.5,0
+TAX-GTFILE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTFILE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/30/2018 8:40,39.6,0,99.9,0
+TAX-GTFILE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/30/2018 8:40,56.2,0,661.5,0
+TAX-GTPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/30/2018 8:40,36.1,0,2.7,0
+TAX-GTPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/26/2018 10:07,34.7,0,83.7,0
+TAX-GTPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTPROD4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/26/2018 10:07,37.7,0,90.2,0
+TAX-GTPROD4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/26/2018 10:07,50.2,0,35.8,0
+TAX-GTSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/26/2018 10:07,47.7,0,-170,0
+TAX-GTSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTSTAGE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/26/2018 9:30,44,0,-115.1,0
+TAX-GTSTAGE3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTSTAGE4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/26/2018 9:30,57.6,0,-111.3,0
+TAX-GTSTAGE4,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TAX-GTTAPDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TAX-GTTAPDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,43,0,-12.5,0
+TAX-GTTAPPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,43.1,0,30.2,0
+TAX-GTTAPPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,40.3,0,-29.3,0
+TAX-GTTAPSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,40,0,-0.7,0
+TAX-GTTAPSTAGE2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPWEBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,26.9,0,-538.9,0
+TAX-GTTAPWEBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPWEBP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,25.5,0,2.3,0
+TAX-GTTAPWEBP2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPWEBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,25.8,0,-2.3,0
+TAX-GTTAPWEBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTAPWEBS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,26.1,0,1.2,0
+TAX-GTTAPWEBS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,48.4,0,-7.5,0
+TAX-GTTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GTTEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,1/24/2018 9:55,45.3,0,-52.4,0
+TAX-GTTEST2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-GWSPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,34.6,0,-129.8,0
+Tax-GWSPRD01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-GWSUAT01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 8:41,34.9,0,-134.3,0
+TAX-GWSUAT01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IFP-DB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,101.3,0,131,0
+TAX-IFP-DB2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAXILMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:48,26.3,0,259.5,0
+TAXILMT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGDB-IBML1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/22/2018 8:34,41.9,0,78.7,0
+TAX-IMGDB-IBML1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/25/2018 11:00,42.3,0,26.6,0
+TAX-IMGDBP1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/22/2018 8:34,47.3,0,-96.2,0
+TAX-IMGDBS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGFILES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/1/2018 18:02,103.7,0,159.3,0
+TAX-IMGFILES,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGFILES1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/22/2018 8:34,57.9,0,0,0
+TAX-IMGFILES1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGFILES2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/22/2018 13:27,46.1,0,588.5,0
+TAX-IMGFILES2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/22/2018 10:31,26.7,0,-775.5,0
+TAX-IMGPROD1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/22/2018 10:31,48.7,0,547.3,0
+TAX-IMGPROD2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,6/22/2018 11:20,32.5,0,-34,0
+TAX-IMGPROD3,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/22/2018 8:34,181.3,0,-481.4,0
+TAX-IMGSTAGE1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-IMGTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,3/22/2018 8:34,58.5,0,513.2,0
+TAX-IMGTEST1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-NESSUS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,76,0,-91.1,0
+Tax-NESSUS01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-OPSUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,27,0,16.2,0
+TAX-OPSUTIL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,30.2,0,48.3,0
+TAX-PRINTERS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-PVRSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,2/2/2018 9:42,112.3,0,43.6,0
+TAX-PVRSQL,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-RSA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:54,14.4,0,0.5,0
+TAX-RSA01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-RSA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:54,10.9,0,0.2,0
+TAX-RSA02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-secure-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:48,34,0,-17.3,0
+Tax-secure-FTP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-SPLHF,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/23/2017 7:48,26.1,0,-13.7,0
+TAX-SPLHF,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TAX-VIRCS-WS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/9/2018 10:51,76,0,-28.3,0
+Tax-Win10-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,10/15/2018 11:55,0.1,0,6.4,0
+Tax-Win10-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/15/2018 12:43,11.8,0,1071.4,0
+Tax-Win10-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-Win10-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-Win7-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:45,94.9,0,-31.7,0
+Tax-Win7-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Tax-Win7-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/29/2017 15:45,74.3,0,82.9,0
+Tax-Win7-JFO-CB,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Test-O-Rama-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Test-O-Rama-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TMORSE-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/24/2017 8:33,45.2,0,-32.9,0
+TMORSE-VM,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+TRACKIT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+TRACKIT,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,12/26/2017 15:29,34.5,0,-78.2,0
+Turboscan,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+Turboscan,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 13:47,16.6,0,-50.4,0
+UPKMDE01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,10/27/2017 9:10,13.8,0,2.1,0
+UPKMDE01,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+VCAMP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VCAMP,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:18,68.4,0,0.1,0
+VCGIDEVAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/25/2018 11:42,107.8,0,-40.5,0
+VCGIDEVDB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/25/2018 11:42,26,0,-97.3,0
+VCGIDEVWEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/25/2018 11:42,21.8,0,-53,0
+vcgi-geocortex-dev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,139.1,0,65.3,0
+vcgi-geocortex-dev,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vcgi-geocortex-dev,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vcgi-geocortex-prd,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,12/13/2017 14:12,115.8,0,-14.7,0
+vcgi-geocortex-prd,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vcgi-geocortex-prd,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+VCGIPRDAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/25/2018 11:42,5548.7,0,3668.8,0
+VCGIPRDDB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/25/2018 11:42,183.2,0,1186.3,0
+VCGIPRDWEB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/25/2018 11:42,24.7,0,-148.3,0
+VDOL-IUS-DEV-APP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 16:14,41.4,0,-316.9,0
+VDOL-IUS-DEV-DB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 20:16,206.2,0,4952.9,0
+VDOL-IUS-DEV-LOG,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 20:16,33.2,0,-536.8,0
+VDOL-IUS-DEV-WEB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 16:14,29,0,-520.3,0
+VDOL-IUS-TST-APP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 20:16,43.8,0,-553.6,0
+VDOL-IUS-TST-DB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 20:16,42.1,0,-128.9,0
+VDOL-IUS-TST-LOG,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 20:20,36.8,0,166.7,0
+VDOL-IUS-TST-WEB,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,7/26/2018 20:16,31.7,0,-882.9,0
+VEPARDSGIS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VEPARDSGIS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/31/2017 14:26,200,0,-137.7,0
+VEPARDSHQDB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VEPARDSHQDB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,12/27/2017 9:29,147.7,0,258.7,0
+VEPARDSHQSVCS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VEPARDSHQSVCS1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/31/2017 14:26,28.4,0,-51.1,0
+VEPARDSHQWB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VEPARDSHQWB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/31/2017 14:26,115.1,0,-345.3,0
+VEPARDSTESTDB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VEPARDSTESTDB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/29/2017 15:21,226.5,0,-144.9,0
+VEPARDSTESTWB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VEPARDSTESTWB1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/29/2017 15:21,66.2,0,-191.8,0
+VICCrimeNtel,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VICCrimeNtel,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:29,28.4,0,22.8,0
+VICCrimeNtel2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VICCrimeNtel2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/23/2017 7:29,56.4,0,20.7,0
+VJISS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VJISS2,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:18,37.8,0,-1071.5,0
+VLC-ACCTG,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,11/10/2017 9:00,66,0,29.8,0
+VLC-ACCTG,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+VLC-DYNAMICS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,NL Two Weeks,9/5/2018 16:11,23.1,0,352.8,0
+VLC-DYNAMICS,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+VLC-SFTP,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,25.7,0,81.5,0
+vShield-Edge-AGO-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AGO-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-AGO-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AGO-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AGO-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-AGO-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHS-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHS-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-AHS-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHS-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHS-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-AHS-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHSFiles-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHSFiles-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-AHSFiles-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHSFiles-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-AHSFiles-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-AHSFiles-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ANR-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ANR-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-ANR-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ANR-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ANR-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-ANR-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DII-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DII-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-DII-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DII-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DII-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-DII-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DIIDMZ-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DIIDMZ-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-DIIDMZ-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DIIDMZ-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DIIDMZ-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-DIIDMZ-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DLC-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DLC-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-DLC-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DLC-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-DLC-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-DLC-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-E911-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-E911-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-E911-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-E911-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EA-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EA-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-EA-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EA-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EA-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-EA-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Vshield-Edge-eamigtest-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+Vshield-Edge-eamigtest-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EDU-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EDU-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-EDU-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EDU-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EDU-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-EDU-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ERP-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ERP-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-ERP-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ERP-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-ERP-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-ERP-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EX-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-EX-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-GEN-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-GEN-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-GEN-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-GEN-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-GEN-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-GEN-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-JUD-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-JUD-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-JUD-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-JUD-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-JUD-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-JUD-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-edge-migtest-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-edge-migtest-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-edge-migtest-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-edge-migtest-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-PSB-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-PSB-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-TRE-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-TRE-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-TRE-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-TRE-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-TRE-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-TRE-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-VCGI-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-VCGI-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-VxRack-0,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-VxRack-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-VxRack-0,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-VxRack-1,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-Edge-VxRack-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-Edge-VxRack-1,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx10.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx10.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx11.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx11.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx112.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx112.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx12.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx12.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx130.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx130.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx132.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx132.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx16.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx16.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx17.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx17.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx19.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx19.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx30.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx30.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx31.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx31.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx32.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx32.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx33.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx33.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx36.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx36.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx37.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx37.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx38.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx38.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx39.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx39.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx42.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx42.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx43.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx43.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx44.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx44.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx45.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx45.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx50.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx50.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx51.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx51.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx52.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx52.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx53.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx53.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx56.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx56.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx57.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx57.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx58.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx58.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+vShield-FW-eagpesx59.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+vShield-FW-eagpesx59.ea.dii.state.vt.us,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+VSPCROWNPOINTE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+VSPCROWNPOINTE,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 13:47,30.4,0,2.7,0
+VTADS-Ginger,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,123.7,0,10.4,0
+VTADS-Nutmeg,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,142.8,0,64.3,0
+VTADS-Parsley,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,119.5,0,-21.1,0
+VTADS-Rosemary,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,147,0,-11.3,0
+VTADS-Saffron,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,113.9,0,-1.8,0
+VTADS-Sage,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,138.7,0,9.6,0
+VTADS-Slothrup,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,140,0,131.1,0
+VTADS-Thyme,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/28/2018 8:14,208.4,0,32.1,0
+VVH-ScanDent,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,8/18/2018 16:15,1.6,0,-0.8,0
+WEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+WEB02,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/25/2017 8:48,25.7,0,-45.9,0
+WSUSHQ,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Remote,Unprotected,,0,0,0,0
+WSUSHQ,vSphere VM,eagpvmvc01.ea.dii.state.vt.us,Local,TV Two Weeks,10/26/2017 8:18,329.5,0,-765.7,0
