@@ -4,6 +4,7 @@ use Data::Dumper;
 use mapper;
 
 my $fields = 9; #there must be this many fields;
+my $rep_fields = 3; # 3 actually 4...
 
 my $cus_ref = \%customer_o_a;
 #print Dumper \%customer_o_a;
@@ -11,6 +12,7 @@ my $cus_ref = \%customer_o_a;
 
 my $file = shift;
 my %HoA;
+my %gHoA;
 
 # Headings for 4 colmns needed.
 my @heading = (
@@ -20,15 +22,17 @@ my @heading = (
 'Total Local Storage(GB)',
 );
 
-print "--<start>--\n";
+print "--<start>------------------------------------------------\n";
 
 my $date = get_date();
-print $date,"\n";
+ print $date,"\n";
 my @files = get_file_list();
+my $num_files =$#files;
 
-#exit;
+
+foreach my $kk ( 0 .. $#files ) {
 print_fields($fields);
-my ($file,$headings) = parse_file($file);
+my($file,$headings) = parse_file($files[$kk]);
 make_array_and_count($headings);
 my $refHoA;
 $refHoA = make_fields($file,$headings,\%HoA);
@@ -38,18 +42,22 @@ print Dumper \$refHoA;
 print_hash_ref($refHoA);
 
 my $name = "SPX1";
-my $name = "RBKT1";
-$name = $date."__".$name;
+my $name = "RBKT";
 
-iterate_array($name,$refHoA,@heading);
+$name = $date."__".$name."_".$kk."_";
 
-print "--<end>--\n";
+iterate_array($kk,$name,$refHoA,@heading);
+};
+
+print Dumper \%gHoA;
+
+print "--<end>-------------------------------------------------\n";
 
 
-
+#
 # SUBS
 #
-###
+###########################################################################33
 sub get_date{
 my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) =
                                                 localtime(time);
@@ -59,7 +67,7 @@ $mon += 1;
 $mday = sprintf("%02d", $mday);
 my $date = $year."-".$mon."-".$mday;
 return ($date);
-}
+};
 
 sub get_file_list{
 my @files = `/bin/ls *tv_cp_report__.csv`;
@@ -69,14 +77,16 @@ foreach my $item (@files){
   print $item,"\n";
   }
 return(@files);
-}
+};
 
 
 sub iterate_array {
 # sub to create tabs for each tag/key in HoA
 # sub creates the following tabs:  TOTALS, SUMS (of the varios agencies/buckets), & A TAB for EACH AGENCY/BUCKET.
 #
-my($name_for_sheet,$ref,@heading) = @_;
+my($num_files,$name_for_sheet,$ref,@heading) = @_;
+print "#### The number of files is \$num_files $num_files + 1. \n\n";
+# Making %HoA to capture data for graphic.
 use Excel::Writer::XLSX;
 $name_for_sheet = $name_for_sheet."\.xlsx";
 my $workbook = Excel::Writer::XLSX->new( $name_for_sheet );
@@ -122,8 +132,8 @@ my $worksheettotal = $workbook->add_worksheet( $totals );
              $worksheettotal->write( 2, $ii, $heading[$ii], $formath  );
            ###
          };
-my $sum_counter =();
-my $sum_counter_total =();
+  my $sum_counter =();
+  my $sum_counter_total =();
 foreach my $key ( sort ( keys %$ref ) ){
   print "$key:\n";
   $sum_counter = 0;
@@ -166,8 +176,8 @@ foreach my $key ( sort ( keys %$ref ) ){
       
        my $format1 = $workbook->add_format();
           $format1->set_bold(0);
-          $format1->set_bg_color();
-          $format1->set_color();
+          #$format1->set_bg_color(0);
+          $format1->set_color(0);
           $format1->set_font( 'Tahoma' );
           $format1->set_size( '10' );
 
@@ -195,24 +205,19 @@ foreach my $key ( sort ( keys %$ref ) ){
             $trow++;
        }
           $worksheetsum->write( $srow, $scol, $sum_counter, $format1  );
+          $gHoA{$key}[$num_files] =  $sum_counter;
           $sum_counter_total += $sum_counter;
           
           my $final_row = $row;
-          #my $sum_end = "S".$final_row;
-          
-         # my $sum = "\=sum\($sum_start:$sum_end\)";
           my $final_col = $start_col-1;
           my $sum_end = "D".$final_row;
           my $sum_start = "D".$start_row;
           my $vsum = "\=sum\($sum_start:$sum_end\)";
-          # print "\$sum: $sum\n";
           my $vm_col = $final_col;
            print "write line: $row, $vm_col, $vsum\n";
   ###    
   ### TOTALS Label
-          #$sum=~s/\=//g;
           $vsum=~s/\=//g;
-          #my $tsum = "\=\($sum \+ $vsum\)";
           my $tsum = "\=$vsum";
 
           my $t_col = $vm_col;
@@ -250,7 +255,11 @@ print "\n\n---< Start print_hash_ref Sub >-----\n";
        foreach my $ii ( 0 .. $#{@{$ref}{$key} } ){
              my @array = @{ ${$ref}{$key}[$ii] } ;    
             #foreach my $jj ( 0 .. $#{ @{$ref}{$key}[$ii] } ){
-                 if($#array < 14){ print "LESS than 14\n";};
+                 if($#array < $rep_fields){ 
+                    print "#### LESS than $rep_fields\n";
+                   } else {
+                     print "field placemnt correct, $rep_fields.\n";
+                      };
                 foreach my $jj ( 0 .. $#array ){
                      print "\t$ii,$jj: $array[$jj]\n";
                       };
@@ -277,7 +286,7 @@ for my $ii ( 0 .. $#headings ){
 };
 
 sub make_fields{
-print "\n--make-fields---\n";
+print "\n----------make-fields---------\n";
 my($file,$headings,$refHoA) = @_;
 my @headings = split(/,/,$headings);
 open ( my $fh, "<", $file ) || die "Flaming death on open: $!";

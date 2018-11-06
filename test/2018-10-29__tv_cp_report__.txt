@@ -1,0 +1,11 @@
+# Heading
+AAA,bulldog,chow,15
+AAA,elkhound,chow,13
+AAA,shepard,dog-chow,23
+ABC,bull,chow,11
+ABC,stafford,oats,18
+ABC,black,wheat,50
+XXX,tiger,deer,30
+XXX,lion,gazelle,33
+XXX,puma,mule-deer,45
+XXX,hobbes,tunafish,55
