@@ -1,0 +1,330 @@
+--------------------< start >----------------------
+List of Files in @files is: 5
+[0] 2018-10-29__tv_cp_report__.txt
+[1] 2018-11-02__tv_cp_report__.txt
+[2] 2018-11-05__tv_cp_report__.txt
+[3] 2018-11-13__tv_cp_report__.txt
+[4] 2018-11-15__tv_cp_report__.txt
+
+$tagf=0
+$valf=3
+opening: 2018-10-29__tv_cp_report__.txt
+$line: # Heading
+$line: AAA,bulldog,chow,15
+$line: AAA,elkhound,chow,13
+$line: AAA,shepard,dog-chow,23
+$line: ABC,bull,chow,11
+$line: ABC,stafford,oats,18
+$line: ABC,black,wheat,50
+$line: XXX,tiger,deer,30
+$line: XXX,lion,gazelle,33
+$line: XXX,puma,mule-deer,45
+$line: XXX,hobbes,tunafish,55
+$VAR1 = {
+          'XXX' => [
+                     '55'
+                   ],
+          'ABC' => [
+                     '50'
+                   ],
+          'AAA' => [
+                     '23'
+                   ]
+        };
+opening: 2018-11-02__tv_cp_report__.txt
+$line: # Heading
+$line: AAA,bulldog,chow,25
+$line: AAA,elkhound,chow,15
+$line: AAA,shepard,dog-chow,27
+$line: ABC,bull,chow,13
+$line: ABC,stafford,oats,19
+$line: ABC,black,wheat,55
+$line: XXX,tiger,deer,34
+$line: XXX,lion,gazelle,36
+$line: XXX,puma,mule-deer,40
+$line: XXX,calvin,sugar-shockers,51
+$line: ZZZ,hobbes,tunafish,67
+$VAR1 = {
+          'XXX' => [
+                     '55',
+                     '51'
+                   ],
+          'ABC' => [
+                     '50',
+                     '55'
+                   ],
+          'AAA' => [
+                     '23',
+                     '27'
+                   ],
+          'ZZZ' => [
+                     undef,
+                     '67'
+                   ]
+        };
+opening: 2018-11-05__tv_cp_report__.txt
+$line: # Heading
+$line: AAA,bulldog,chow,27
+$line: AAA,elkhound,chow,14
+$line: AAA,shepard,dog-chow,26
+$line: ABC,stafford,oats,29
+$line: ABC,black,wheat,57
+$line: XXX,tiger,deer,39
+$line: XXX,lion,gazelle,38
+$line: XXX,puma,mule-deer,43
+$line: XXX,calvin,sugar-shockers,53
+$line: ZZZ,hobbes,tunafish,68
+$VAR1 = {
+          'XXX' => [
+                     '55',
+                     '51',
+                     '53'
+                   ],
+          'ABC' => [
+                     '50',
+                     '55',
+                     '57'
+                   ],
+          'AAA' => [
+                     '23',
+                     '27',
+                     '26'
+                   ],
+          'ZZZ' => [
+                     undef,
+                     '67',
+                     '68'
+                   ]
+        };
+opening: 2018-11-13__tv_cp_report__.txt
+$line: # Heading
+$line: AAA,bulldog,chow,27
+$line: AAA,elkhound,chow,14
+$line: AAA,shepard,dog-chow,26
+$line: XXX,tiger,deer,39
+$line: XXX,puma,mule-deer,43
+$line: XXX,calvin,sugar-shockers,53
+$line: ZZZ,hobbes,tunafish,68
+$VAR1 = {
+          'XXX' => [
+                     '55',
+                     '51',
+                     '53',
+                     '53'
+                   ],
+          'ABC' => [
+                     '50',
+                     '55',
+                     '57'
+                   ],
+          'AAA' => [
+                     '23',
+                     '27',
+                     '26',
+                     '26'
+                   ],
+          'ZZZ' => [
+                     undef,
+                     '67',
+                     '68',
+                     '68'
+                   ]
+        };
+opening: 2018-11-15__tv_cp_report__.txt
+$line: # Heading
+$line: AAA,bulldog,chow,27
+$line: AAA,elkhound,chow,14
+$line: AAA,shepard,dog-chow,26
+$line: ABC,stafford,oats,29
+$line: ABC,black,wheat,57
+$line: XXX,tiger,deer,39
+$line: XXX,lion,gazelle,38
+$line: XXX,puma,mule-deer,43
+$line: XXX,calvin,sugar-shockers,53
+$line: ZZZ,hobbes,tunafish,68
+$VAR1 = {
+          'XXX' => [
+                     '55',
+                     '51',
+                     '53',
+                     '53',
+                     '53'
+                   ],
+          'ABC' => [
+                     '50',
+                     '55',
+                     '57',
+                     undef,
+                     '57'
+                   ],
+          'AAA' => [
+                     '23',
+                     '27',
+                     '26',
+                     '26',
+                     '26'
+                   ],
+          'ZZZ' => [
+                     undef,
+                     '67',
+                     '68',
+                     '68',
+                     '68'
+                   ]
+        };
+Print href
+$VAR1 = {
+          'XXX' => [
+                     '55',
+                     '51',
+                     '53',
+                     '53',
+                     '53'
+                   ],
+          'ABC' => [
+                     '50',
+                     '55',
+                     '57',
+                     undef,
+                     '57'
+                   ],
+          'AAA' => [
+                     '23',
+                     '27',
+                     '26',
+                     '26',
+                     '26'
+                   ],
+          'ZZZ' => [
+                     undef,
+                     '67',
+                     '68',
+                     '68',
+                     '68'
+                   ]
+        };
+Number of periods: 4
+$VAR1 = [
+          0,
+          1,
+          2,
+          3,
+          4
+        ];
+Printing $ref_tab!!!
+$key: AAA: 
+23
+27
+26
+26
+26
+$key: ABC: 
+50
+55
+57
+
+57
+$key: XXX: 
+55
+51
+53
+53
+53
+$key: ZZZ: 
+
+67
+68
+68
+68
+Legend: @legend
+$VAR1 = [
+          'AAA',
+          'ABC',
+          'XXX',
+          'ZZZ'
+        ];
+GDATA: 
+$VAR1 = [
+          [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          [
+            '23',
+            '27',
+            '26',
+            '26',
+            '26'
+          ],
+          [
+            '50',
+            '55',
+            '57',
+            undef,
+            '57'
+          ],
+          [
+            '55',
+            '51',
+            '53',
+            '53',
+            '53'
+          ],
+          [
+            undef,
+            '67',
+            '68',
+            '68',
+            '68'
+          ]
+        ];
+Dumping $legend ref
+$VAR1 = \[
+            'AAA',
+            'ABC',
+            'XXX',
+            'ZZZ'
+          ];
+Dumping $data ref
+$VAR1 = \[
+            [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
+            [
+              '23',
+              '27',
+              '26',
+              '26',
+              '26'
+            ],
+            [
+              '50',
+              '55',
+              '57',
+              undef,
+              '57'
+            ],
+            [
+              '55',
+              '51',
+              '53',
+              '53',
+              '53'
+            ],
+            [
+              undef,
+              '67',
+              '68',
+              '68',
+              '68'
+            ]
+          ];
+finished with graph creation!!!
+---------------------< end >------------------------

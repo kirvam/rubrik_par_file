@@ -10,6 +10,8 @@ our @EXPORT = qw(%customer_o_a);
 #
 #
 our %customer_o_a = (
+     'EAG' => 'EAG',
+     'eag' => 'EAG',
      'ACCDDEV-PFS' => 'ACCD',
      'ACCDDEV' => 'ACCD',
      'ACCDDEV' => 'ACCD',

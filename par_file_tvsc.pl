@@ -50,6 +50,27 @@ iterate_array($kk,$name,$refHoA,@heading);
 };
 
 print Dumper \%gHoA;
+my $gHoAref = \%gHoA;
+
+my($legendref,$gdataref)=read_thru_HoA($num_files,$gHoAref);
+
+my @legend = @$legendref;
+my @gdata = @$gdataref;
+
+print "Legend: \@legend\n";
+print Dumper \@legend;
+
+print "GDATA: \n";
+print Dumper \@gdata;
+
+
+graph_it(\@legend,\@gdata);
+graph_it_hbars(\@legend,\@gdata);
+
+
+
+
+
 
 print "--<end>-------------------------------------------------\n";
 
@@ -58,6 +79,120 @@ print "--<end>-------------------------------------------------\n";
 # SUBS
 #
 ###########################################################################33
+###
+sub graph_it {
+my($legend,$data) = @_;
+print "Dumping \$legend ref\n";
+print Dumper \$legend;
+
+print "Dumping \$data ref\n";
+print Dumper \$data;
+
+use GD::Graph::linespoints;
+use GD::Graph::lines;
+use GD::Graph::hbars;
+
+my $graph = GD::Graph::linespoints->new(1200, 1000);
+
+$graph->set(
+    x_label           => 'Samples taken over Time',
+    y_label           => 'GB\s Capacity Used on the Rubriks',
+    title             => 'Rubrik Capacity Graph',
+    y_max_value       => 300000,
+    y_tick_number     => 500,
+    y_label_skip      => 50,
+
+) or die $graph->error;
+
+$graph->set_legend_font(GD::Font->Tiny);
+$graph->set_legend(@$legend);
+
+my $gd = $graph->plot($data) or die $graph->error;
+
+open(IMG, '>RBKL.png') or die $!;
+binmode IMG;
+print IMG $gd->png;
+close IMG;
+
+open(IMG, '>RBKL.gif') or die $!;
+binmode IMG;
+print IMG $gd->gif;
+close IMG;
+
+print "finished with graph creation!!!\n";
+};
+
+
+sub graph_it_hbars {
+my($legend,$data) = @_;
+print "Dumping \$legend ref\n";
+print Dumper \$legend;
+
+print "Dumping \$data ref\n";
+print Dumper \$data;
+
+use GD::Graph::linespoints;
+use GD::Graph::lines;
+use GD::Graph::hbars;
+
+my $graph = GD::Graph::hbars->new(1200, 1000);
+
+$graph->set(
+    x_label           => 'Samples taken over Time',
+    y_label           => 'GB\s Capacity Used on the Rubriks',
+    title             => 'Rubrik Capacity Graph',
+    y_max_value       => 300000,
+    y_tick_number     => 500,
+    y_label_skip      => 50,
+
+) or die $graph->error;
+
+$graph->set_legend_font(GD::Font->Tiny);
+$graph->set_legend(@$legend);
+
+my $gd = $graph->plot($data) or die $graph->error;
+
+open(IMG, '>RBKHB.png') or die $!;
+binmode IMG;
+print IMG $gd->png;
+close IMG;
+
+open(IMG, '>RBKHB.gif') or die $!;
+binmode IMG;
+print IMG $gd->gif;
+close IMG;
+
+print "finished with graph creation!!!\n";
+};
+
+
+sub read_thru_HoA{
+my($periods,$href) = @_;
+print "Number of periods: $periods\n";
+my @periods;
+foreach my $ii ( 0 .. $periods ){
+       push @periods, $ii;
+};
+print Dumper \@periods;
+my @legend = ();
+my @gdata = ();;
+print "Printing \$ref_tab!!!\n";
+foreach my $key ( sort keys %{$href} ){
+     print "\$key: $key: \n";
+        push @legend, $key;
+       my @array =  @{ ${$href}{$key} };
+        my @garray;
+         foreach my $ii ( 0 .. $#array ){
+                     print "$array[$ii]\n";
+              push @garray, $array[$ii];
+                 }
+           push @gdata, [ @garray ];
+ };
+  unshift @gdata, [ @periods ];
+  return(\@legend,\@gdata);
+}
+
+
 sub get_date{
 my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) =
                                                 localtime(time);
@@ -332,7 +467,7 @@ for my $ii ( 0 .. $#headings ){
            # check table for odd-balls
            #
            $org = $cus_ref->{$owner};
-           print "#### FOUND PDD-BALL: $cus_ref->{$owner}\n";
+           print "#### FOUND ODD-BALL: $cus_ref->{$owner}\n";
          } 
         elsif ( $owner =~ m/^(\w{3,4}\-.+)/ig ) {
                 my $match = $1;
@@ -343,6 +478,8 @@ for my $ii ( 0 .. $#headings ){
           } else {
             print "#### NO MATCH\n";
             $org = substr $owner, 0, 3;
+            ###$org = "MISC";
+            ###print "#### Dumping into MISC to sort out later\n";
             print "#### $org\n";
       };
      
@@ -350,7 +487,13 @@ for my $ii ( 0 .. $#headings ){
      if ( $cus_ref->{$org} ){
           print "#### Found \$org in Cus Table. \n";
           $org = $cus_ref->{$org};
-       };
+       } 
+        ### else { 
+        ###  print "#### NOT FOUND.  ORG being changed to MISC.\n";
+        ###  $org = "MISC";
+        ###  print "### ORG is now $org\n";
+       ###};
+
   my @arr =();
   if( $array[0] =~ m/^(All)$/i ){
    ## Attemp to manage NAS in one spot
