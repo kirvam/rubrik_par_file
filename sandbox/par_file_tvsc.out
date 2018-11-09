@@ -1,0 +1,2049 @@
+--<start>------------------------------------------------
+2018-11-07
+List of report files:
+2018-10-29__tv_cp_report__.csv
+2018-11-06__tv_cp_report__.csv
+There needs to be: 9.
+Object Name,Object Type,Location,Cluster Location,SLA Domain,Protected On,Total Local Storage (GB),Total Archive Storage (GB),Local Storage Growth (MB/day),Archive Storage Growth (MB/day)
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+Here are the headings:
+Object Name,Object Type,Location,Cluster Location,SLA Domain,Protected On,Total Local Storage (GB),Total Archive Storage (GB),Local Storage Growth (MB/day),Archive Storage Growth (MB/day)
+Total lines: 16
+
+---make_array_and_count---
+
+Number of Headings:
+Object Name [0 ++ 1]
+Object Type [1 ++ 1]
+Location [2 ++ 1]
+Cluster Location [3 ++ 1]
+SLA Domain [4 ++ 1]
+Protected On [5 ++ 1]
+Total Local Storage (GB) [6 ++ 1]
+Total Archive Storage (GB) [7 ++ 1]
+Local Storage Growth (MB/day) [8 ++ 1]
+Archive Storage Growth (MB/day) [9 ++ 1]
+
+----------make-fields---------
+
+Object Name=>Object Name
+Object Type=>Object Type
+Location=>Location
+Cluster Location=>Cluster Location
+SLA Domain=>SLA Domain
+Protected On=>Protected On
+Total Local Storage (GB)=>Total Local Storage (GB)
+Total Archive Storage (GB)=>Total Archive Storage (GB)
+Local Storage Growth (MB/day)=>Local Storage Growth (MB/day)
+Archive Storage Growth (MB/day)=>Archive Storage Growth (MB/day)
+#### NO MATCH
+#### Obj
+
+Object Name=>Generic Linux excluding basic ephemeral dirs
+Object Type=>Linux Fileset
+Location=>10.80.4.111
+Cluster Location=>Remote
+SLA Domain=>Testing client
+Protected On=>11/14/2017 13:53
+Total Local Storage (GB)=>3
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### FOUND ODD-BALL: EAG
+#### Found $org in Cus Table. 
+
+Object Name=>All
+Object Type=>Linux Fileset
+Location=>\\10.244.1.146\ACCD
+Cluster Location=>Remote
+SLA Domain=>NL Two Weeks NAS
+Protected On=>1/15/2018 13:25
+Total Local Storage (GB)=>5436.4
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>1873.6
+Archive Storage Growth (MB/day)=>0
+#### NO MATCH
+#### All
+#### Found $org in Cus Table. 
+
+Object Name=>All
+Object Type=>Linux Fileset
+Location=>\\10.244.1.146\ACD
+Cluster Location=>Remote
+SLA Domain=>NL Two Weeks NAS
+Protected On=>1/15/2018 13:11
+Total Local Storage (GB)=>298.8
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>203.7
+Archive Storage Growth (MB/day)=>0
+#### NO MATCH
+#### All
+#### Found $org in Cus Table. 
+
+Object Name=>ERP-BIDEVAPP01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ERP-BIDEVAPP01
+#### Org is ERP
+
+Object Name=>EAG-PFSENSE-ANR01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/4/2018 14:08
+Total Local Storage (GB)=>0.2
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0.1
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EAG-PFSENSE-ANR01
+#### Org is EAG
+#### Found $org in Cus Table. 
+
+Object Name=>EAG-PFSENSE-ANR02
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/4/2018 15:08
+Total Local Storage (GB)=>0.7
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0.1
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EAG-PFSENSE-ANR02
+#### Org is EAG
+#### Found $org in Cus Table. 
+
+Object Name=>ERP-BUDDBDEV01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ERP-BUDDBDEV01
+#### Org is ERP
+
+Object Name=>JUD-OP-DB01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/5/2018 12:49
+Total Local Storage (GB)=>35.5
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>104.3
+Archive Storage Growth (MB/day)=>0
+#### MATCH: JUD-OP-DB01
+#### Org is JUD
+
+Object Name=>JUD-OP-DB02
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/5/2018 12:49
+Total Local Storage (GB)=>61.1
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>-87.5
+Archive Storage Growth (MB/day)=>0
+#### MATCH: JUD-OP-DB02
+#### Org is JUD
+
+Object Name=>JUD-DR-OP-DB01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/5/2018 12:49
+Total Local Storage (GB)=>23.5
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0.5
+Archive Storage Growth (MB/day)=>0
+#### MATCH: JUD-DR-OP-DB01
+#### Org is JUD
+
+Object Name=>EDU-SQL
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EDU-SQL
+#### Org is EDU
+
+Object Name=>ERP-NVISION
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/7/2018 8:14
+Total Local Storage (GB)=>22.9
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>-674.6
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ERP-NVISION
+#### Org is ERP
+
+Object Name=>AHSORAD01D
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### NO MATCH
+#### AHS
+
+Object Name=>EAG-PFSENSE-AHS01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/10/2018 15:29
+Total Local Storage (GB)=>0.7
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>15.7
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EAG-PFSENSE-AHS01
+#### Org is EAG
+#### Found $org in Cus Table. 
+
+Object Name=>ANR-SATURN
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/10/2018 16:28
+Total Local Storage (GB)=>5322.4
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>5294.6
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ANR-SATURN
+#### Org is ANR
+#### 0 Dumper for $refHoA
+$VAR1 = \{
+            'EAG' => [
+                       [
+                         'EAG',
+                         'Generic Linux excluding basic ephemeral dirs',
+                         'Testing client',
+                         '3'
+                       ],
+                       [
+                         'EAG',
+                         'EAG-PFSENSE-ANR01',
+                         'TV Two Weeks',
+                         '0.2'
+                       ],
+                       [
+                         'EAG',
+                         'EAG-PFSENSE-ANR02',
+                         'TV Two Weeks',
+                         '0.7'
+                       ],
+                       [
+                         'EAG',
+                         'EAG-PFSENSE-AHS01',
+                         'TV Two Weeks',
+                         '0.7'
+                       ]
+                     ],
+            'OBJ' => [
+                       [
+                         'OBJ',
+                         'Object Name',
+                         'SLA Domain',
+                         'Total Local Storage (GB)'
+                       ]
+                     ],
+            'ERP' => [
+                       [
+                         'ERP',
+                         'ERP-BIDEVAPP01',
+                         'Unprotected',
+                         '0'
+                       ],
+                       [
+                         'ERP',
+                         'ERP-BUDDBDEV01',
+                         'Unprotected',
+                         '0'
+                       ],
+                       [
+                         'ERP',
+                         'ERP-NVISION',
+                         'TV Two Weeks',
+                         '22.9'
+                       ]
+                     ],
+            'NAS' => [
+                       [
+                         'NAS',
+                         '\\\\10.244.1.146\\ACCD',
+                         'NL Two Weeks NAS',
+                         '5436.4'
+                       ],
+                       [
+                         'NAS',
+                         '\\\\10.244.1.146\\ACD',
+                         'NL Two Weeks NAS',
+                         '298.8'
+                       ]
+                     ],
+            'EDU' => [
+                       [
+                         'EDU',
+                         'EDU-SQL',
+                         'Unprotected',
+                         '0'
+                       ]
+                     ],
+            'ANR' => [
+                       [
+                         'ANR',
+                         'ANR-SATURN',
+                         'TV Two Weeks',
+                         '5322.4'
+                       ]
+                     ],
+            'JUD' => [
+                       [
+                         'JUD',
+                         'JUD-OP-DB01',
+                         'TV Two Weeks',
+                         '35.5'
+                       ],
+                       [
+                         'JUD',
+                         'JUD-OP-DB02',
+                         'TV Two Weeks',
+                         '61.1'
+                       ],
+                       [
+                         'JUD',
+                         'JUD-DR-OP-DB01',
+                         'TV Two Weeks',
+                         '23.5'
+                       ]
+                     ],
+            'AHS' => [
+                       [
+                         'AHS',
+                         'AHSORAD01D',
+                         'Unprotected',
+                         '0'
+                       ]
+                     ]
+          };
+
+
+---< Start print_hash_ref Sub >-----
+AHS:
+field placemnt correct, 3.
+	0,0: AHS
+	0,1: AHSORAD01D
+	0,2: Unprotected
+	0,3: 0
+ANR:
+field placemnt correct, 3.
+	0,0: ANR
+	0,1: ANR-SATURN
+	0,2: TV Two Weeks
+	0,3: 5322.4
+EAG:
+field placemnt correct, 3.
+	0,0: EAG
+	0,1: Generic Linux excluding basic ephemeral dirs
+	0,2: Testing client
+	0,3: 3
+field placemnt correct, 3.
+	1,0: EAG
+	1,1: EAG-PFSENSE-ANR01
+	1,2: TV Two Weeks
+	1,3: 0.2
+field placemnt correct, 3.
+	2,0: EAG
+	2,1: EAG-PFSENSE-ANR02
+	2,2: TV Two Weeks
+	2,3: 0.7
+field placemnt correct, 3.
+	3,0: EAG
+	3,1: EAG-PFSENSE-AHS01
+	3,2: TV Two Weeks
+	3,3: 0.7
+EDU:
+field placemnt correct, 3.
+	0,0: EDU
+	0,1: EDU-SQL
+	0,2: Unprotected
+	0,3: 0
+ERP:
+field placemnt correct, 3.
+	0,0: ERP
+	0,1: ERP-BIDEVAPP01
+	0,2: Unprotected
+	0,3: 0
+field placemnt correct, 3.
+	1,0: ERP
+	1,1: ERP-BUDDBDEV01
+	1,2: Unprotected
+	1,3: 0
+field placemnt correct, 3.
+	2,0: ERP
+	2,1: ERP-NVISION
+	2,2: TV Two Weeks
+	2,3: 22.9
+JUD:
+field placemnt correct, 3.
+	0,0: JUD
+	0,1: JUD-OP-DB01
+	0,2: TV Two Weeks
+	0,3: 35.5
+field placemnt correct, 3.
+	1,0: JUD
+	1,1: JUD-OP-DB02
+	1,2: TV Two Weeks
+	1,3: 61.1
+field placemnt correct, 3.
+	2,0: JUD
+	2,1: JUD-DR-OP-DB01
+	2,2: TV Two Weeks
+	2,3: 23.5
+NAS:
+field placemnt correct, 3.
+	0,0: NAS
+	0,1: \\10.244.1.146\ACCD
+	0,2: NL Two Weeks NAS
+	0,3: 5436.4
+field placemnt correct, 3.
+	1,0: NAS
+	1,1: \\10.244.1.146\ACD
+	1,2: NL Two Weeks NAS
+	1,3: 298.8
+OBJ:
+field placemnt correct, 3.
+	0,0: OBJ
+	0,1: Object Name
+	0,2: SLA Domain
+	0,3: Total Local Storage (GB)
+---< End print_hash_ref Sub >-----
+#### The number of files is $num_files 0 + 1. 
+
+---< Start iterate_array >---
+worksheetsum, write line: 2, 0, TAG
+worksheetsum, write line: 2, 1, SUM
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+AHS:
+write line: 0, 0, AHS
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, AHS
+write totals line: 3, 0, AHS
+	0,0: AHS
+write line: 3, 1, AHSORAD01D
+write totals line: 3, 1, AHSORAD01D
+	0,1: AHSORAD01D
+write line: 3, 2, Unprotected
+write totals line: 3, 2, Unprotected
+	0,2: Unprotected
+write line: 3, 3, 0
+write totals line: 3, 3, 0
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 0 0
+#### 0 ## Current $sum_counter: 0
+	0,3: 0
+#### 0 ## FINAL sum_counter  $gHoA{AHS}[0] = 0
+#### 0 ## $sum_counter_total = 0
+write line: 4, 2, =sum(D4:D4)
+write line: 6, 2, 'Total'
+write line: 6, 3, =sum(D4:D4)
+ANR:
+write line: 0, 0, ANR
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, ANR
+write totals line: 4, 0, ANR
+	0,0: ANR
+write line: 3, 1, ANR-SATURN
+write totals line: 4, 1, ANR-SATURN
+	0,1: ANR-SATURN
+write line: 3, 2, TV Two Weeks
+write totals line: 4, 2, TV Two Weeks
+	0,2: TV Two Weeks
+write line: 3, 3, 5322.4
+write totals line: 4, 3, 5322.4
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 5322.4 5322.4
+#### 0 ## Current $sum_counter: 5322.4
+	0,3: 5322.4
+#### 0 ## FINAL sum_counter  $gHoA{ANR}[0] = 5322.4
+#### 0 ## $sum_counter_total = 5322.4
+write line: 4, 2, =sum(D4:D4)
+write line: 6, 2, 'Total'
+write line: 6, 3, =sum(D4:D4)
+EAG:
+write line: 0, 0, EAG
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, EAG
+write totals line: 5, 0, EAG
+	0,0: EAG
+write line: 3, 1, Generic Linux excluding basic ephemeral dirs
+write totals line: 5, 1, Generic Linux excluding basic ephemeral dirs
+	0,1: Generic Linux excluding basic ephemeral dirs
+write line: 3, 2, Testing client
+write totals line: 5, 2, Testing client
+	0,2: Testing client
+write line: 3, 3, 3
+write totals line: 5, 3, 3
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 3 3
+#### 0 ## Current $sum_counter: 3
+	0,3: 3
+write line: 4, 0, EAG
+write totals line: 6, 0, EAG
+	1,0: EAG
+write line: 4, 1, EAG-PFSENSE-ANR01
+write totals line: 6, 1, EAG-PFSENSE-ANR01
+	1,1: EAG-PFSENSE-ANR01
+write line: 4, 2, TV Two Weeks
+write totals line: 6, 2, TV Two Weeks
+	1,2: TV Two Weeks
+write line: 4, 3, 0.2
+write totals line: 6, 3, 0.2
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 3.2 0.2
+#### 0 ## Current $sum_counter: 3.2
+	1,3: 0.2
+write line: 5, 0, EAG
+write totals line: 7, 0, EAG
+	2,0: EAG
+write line: 5, 1, EAG-PFSENSE-ANR02
+write totals line: 7, 1, EAG-PFSENSE-ANR02
+	2,1: EAG-PFSENSE-ANR02
+write line: 5, 2, TV Two Weeks
+write totals line: 7, 2, TV Two Weeks
+	2,2: TV Two Weeks
+write line: 5, 3, 0.7
+write totals line: 7, 3, 0.7
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 3.9 0.7
+#### 0 ## Current $sum_counter: 3.9
+	2,3: 0.7
+write line: 6, 0, EAG
+write totals line: 8, 0, EAG
+	3,0: EAG
+write line: 6, 1, EAG-PFSENSE-AHS01
+write totals line: 8, 1, EAG-PFSENSE-AHS01
+	3,1: EAG-PFSENSE-AHS01
+write line: 6, 2, TV Two Weeks
+write totals line: 8, 2, TV Two Weeks
+	3,2: TV Two Weeks
+write line: 6, 3, 0.7
+write totals line: 8, 3, 0.7
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 4.6 0.7
+#### 0 ## Current $sum_counter: 4.6
+	3,3: 0.7
+#### 0 ## FINAL sum_counter  $gHoA{EAG}[0] = 4.6
+#### 0 ## $sum_counter_total = 5327
+write line: 7, 2, =sum(D4:D7)
+write line: 9, 2, 'Total'
+write line: 9, 3, =sum(D4:D7)
+EDU:
+write line: 0, 0, EDU
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, EDU
+write totals line: 9, 0, EDU
+	0,0: EDU
+write line: 3, 1, EDU-SQL
+write totals line: 9, 1, EDU-SQL
+	0,1: EDU-SQL
+write line: 3, 2, Unprotected
+write totals line: 9, 2, Unprotected
+	0,2: Unprotected
+write line: 3, 3, 0
+write totals line: 9, 3, 0
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 0 0
+#### 0 ## Current $sum_counter: 0
+	0,3: 0
+#### 0 ## FINAL sum_counter  $gHoA{EDU}[0] = 0
+#### 0 ## $sum_counter_total = 5327
+write line: 4, 2, =sum(D4:D4)
+write line: 6, 2, 'Total'
+write line: 6, 3, =sum(D4:D4)
+ERP:
+write line: 0, 0, ERP
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, ERP
+write totals line: 10, 0, ERP
+	0,0: ERP
+write line: 3, 1, ERP-BIDEVAPP01
+write totals line: 10, 1, ERP-BIDEVAPP01
+	0,1: ERP-BIDEVAPP01
+write line: 3, 2, Unprotected
+write totals line: 10, 2, Unprotected
+	0,2: Unprotected
+write line: 3, 3, 0
+write totals line: 10, 3, 0
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 0 0
+#### 0 ## Current $sum_counter: 0
+	0,3: 0
+write line: 4, 0, ERP
+write totals line: 11, 0, ERP
+	1,0: ERP
+write line: 4, 1, ERP-BUDDBDEV01
+write totals line: 11, 1, ERP-BUDDBDEV01
+	1,1: ERP-BUDDBDEV01
+write line: 4, 2, Unprotected
+write totals line: 11, 2, Unprotected
+	1,2: Unprotected
+write line: 4, 3, 0
+write totals line: 11, 3, 0
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 0 0
+#### 0 ## Current $sum_counter: 0
+	1,3: 0
+write line: 5, 0, ERP
+write totals line: 12, 0, ERP
+	2,0: ERP
+write line: 5, 1, ERP-NVISION
+write totals line: 12, 1, ERP-NVISION
+	2,1: ERP-NVISION
+write line: 5, 2, TV Two Weeks
+write totals line: 12, 2, TV Two Weeks
+	2,2: TV Two Weeks
+write line: 5, 3, 22.9
+write totals line: 12, 3, 22.9
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 22.9 22.9
+#### 0 ## Current $sum_counter: 22.9
+	2,3: 22.9
+#### 0 ## FINAL sum_counter  $gHoA{ERP}[0] = 22.9
+#### 0 ## $sum_counter_total = 5349.9
+write line: 6, 2, =sum(D4:D6)
+write line: 8, 2, 'Total'
+write line: 8, 3, =sum(D4:D6)
+JUD:
+write line: 0, 0, JUD
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, JUD
+write totals line: 13, 0, JUD
+	0,0: JUD
+write line: 3, 1, JUD-OP-DB01
+write totals line: 13, 1, JUD-OP-DB01
+	0,1: JUD-OP-DB01
+write line: 3, 2, TV Two Weeks
+write totals line: 13, 2, TV Two Weeks
+	0,2: TV Two Weeks
+write line: 3, 3, 35.5
+write totals line: 13, 3, 35.5
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 35.5 35.5
+#### 0 ## Current $sum_counter: 35.5
+	0,3: 35.5
+write line: 4, 0, JUD
+write totals line: 14, 0, JUD
+	1,0: JUD
+write line: 4, 1, JUD-OP-DB02
+write totals line: 14, 1, JUD-OP-DB02
+	1,1: JUD-OP-DB02
+write line: 4, 2, TV Two Weeks
+write totals line: 14, 2, TV Two Weeks
+	1,2: TV Two Weeks
+write line: 4, 3, 61.1
+write totals line: 14, 3, 61.1
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 96.6 61.1
+#### 0 ## Current $sum_counter: 96.6
+	1,3: 61.1
+write line: 5, 0, JUD
+write totals line: 15, 0, JUD
+	2,0: JUD
+write line: 5, 1, JUD-DR-OP-DB01
+write totals line: 15, 1, JUD-DR-OP-DB01
+	2,1: JUD-DR-OP-DB01
+write line: 5, 2, TV Two Weeks
+write totals line: 15, 2, TV Two Weeks
+	2,2: TV Two Weeks
+write line: 5, 3, 23.5
+write totals line: 15, 3, 23.5
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 120.1 23.5
+#### 0 ## Current $sum_counter: 120.1
+	2,3: 23.5
+#### 0 ## FINAL sum_counter  $gHoA{JUD}[0] = 120.1
+#### 0 ## $sum_counter_total = 5470
+write line: 6, 2, =sum(D4:D6)
+write line: 8, 2, 'Total'
+write line: 8, 3, =sum(D4:D6)
+NAS:
+write line: 0, 0, NAS
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, NAS
+write totals line: 16, 0, NAS
+	0,0: NAS
+write line: 3, 1, \\10.244.1.146\ACCD
+write totals line: 16, 1, \\10.244.1.146\ACCD
+	0,1: \\10.244.1.146\ACCD
+write line: 3, 2, NL Two Weeks NAS
+write totals line: 16, 2, NL Two Weeks NAS
+	0,2: NL Two Weeks NAS
+write line: 3, 3, 5436.4
+write totals line: 16, 3, 5436.4
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 5436.4 5436.4
+#### 0 ## Current $sum_counter: 5436.4
+	0,3: 5436.4
+write line: 4, 0, NAS
+write totals line: 17, 0, NAS
+	1,0: NAS
+write line: 4, 1, \\10.244.1.146\ACD
+write totals line: 17, 1, \\10.244.1.146\ACD
+	1,1: \\10.244.1.146\ACD
+write line: 4, 2, NL Two Weeks NAS
+write totals line: 17, 2, NL Two Weeks NAS
+	1,2: NL Two Weeks NAS
+write line: 4, 3, 298.8
+write totals line: 17, 3, 298.8
+#### 0 ## $sum_counter += $array[3]
+#### 0 ## 5735.2 298.8
+#### 0 ## Current $sum_counter: 5735.2
+	1,3: 298.8
+#### 0 ## FINAL sum_counter  $gHoA{NAS}[0] = 5735.2
+#### 0 ## $sum_counter_total = 11205.2
+write line: 5, 2, =sum(D4:D5)
+write line: 7, 2, 'Total'
+write line: 7, 3, =sum(D4:D5)
+OBJ:
+#### NEXT found Owner: OBJ.
+=sum(d4:d18)
+write final totals sum cell: 18, 3, =sum(d4:d18)
+---< End iterate_array >-----
+Number of periods: 1
+$VAR1 = [
+          0,
+          1
+        ];
+Printing $ref_tab!!!
+$key: AHS: 
+0
+$key: ANR: 
+5322.4
+$key: EAG: 
+4.6
+$key: EDU: 
+0
+$key: ERP: 
+22.9
+$key: JUD: 
+120.1
+$key: NAS: 
+5735.2
+#### Dumper pieHoAref
+$VAR1 = {
+          'EDU' => [
+                     0
+                   ],
+          'EAG' => [
+                     '4.6'
+                   ],
+          'ANR' => [
+                     '5322.4'
+                   ],
+          'ERP' => [
+                     '22.9'
+                   ],
+          'JUD' => [
+                     '120.1'
+                   ],
+          'NAS' => [
+                     '5735.2'
+                   ],
+          'AHS' => [
+                     0
+                   ]
+        };
+#### 0 ## @pie_data
+$VAR1 = [
+          [
+            0
+          ],
+          [
+            '5322.4'
+          ],
+          [
+            '4.6'
+          ],
+          [
+            0
+          ],
+          [
+            '22.9'
+          ],
+          [
+            '120.1'
+          ],
+          [
+            '5735.2'
+          ]
+        ];
+#### 0 ## Dumping $legend ref
+$VAR1 = \[
+            'AHS',
+            'ANR',
+            'EAG',
+            'EDU',
+            'ERP',
+            'JUD',
+            'NAS'
+          ];
+#### 0 ## Dumping $data ref
+$VAR1 = \[
+            [
+              0
+            ],
+            [
+              '5322.4'
+            ],
+            [
+              '4.6'
+            ],
+            [
+              0
+            ],
+            [
+              '22.9'
+            ],
+            [
+              '120.1'
+            ],
+            [
+              '5735.2'
+            ]
+          ];
+#### 0 ## @new_data_bucket
+$VAR1 = [
+          [
+            0
+          ],
+          [
+            '5322.4'
+          ],
+          [
+            '4.6'
+          ],
+          [
+            0
+          ],
+          [
+            '22.9'
+          ],
+          [
+            '120.1'
+          ],
+          [
+            '5735.2'
+          ]
+        ];
+$new_data_bucket[0] [0] : 0
+$new_data_bucket[1] [0] : 5322.4
+$new_data_bucket[2] [0] : 4.6
+$new_data_bucket[3] [0] : 0
+$new_data_bucket[4] [0] : 22.9
+$new_data_bucket[5] [0] : 120.1
+$new_data_bucket[6] [0] : 5735.2
+#### 0 ## Dumper @flat_data
+$VAR1 = [
+          0,
+          '5322.4',
+          '4.6',
+          0,
+          '22.9',
+          '120.1',
+          '5735.2'
+        ];
+finished with graph creation!!!
+There needs to be: 9.
+Object Name,Object Type,Location,Cluster Location,SLA Domain,Protected On,Total Local Storage (GB),Total Archive Storage (GB),Local Storage Growth (MB/day),Archive Storage Growth (MB/day)
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+count: 9
+Here are the headings:
+Object Name,Object Type,Location,Cluster Location,SLA Domain,Protected On,Total Local Storage (GB),Total Archive Storage (GB),Local Storage Growth (MB/day),Archive Storage Growth (MB/day)
+Total lines: 16
+
+---make_array_and_count---
+
+Number of Headings:
+Object Name [0 ++ 1]
+Object Type [1 ++ 1]
+Location [2 ++ 1]
+Cluster Location [3 ++ 1]
+SLA Domain [4 ++ 1]
+Protected On [5 ++ 1]
+Total Local Storage (GB) [6 ++ 1]
+Total Archive Storage (GB) [7 ++ 1]
+Local Storage Growth (MB/day) [8 ++ 1]
+Archive Storage Growth (MB/day) [9 ++ 1]
+
+----------make-fields---------
+
+Object Name=>Object Name
+Object Type=>Object Type
+Location=>Location
+Cluster Location=>Cluster Location
+SLA Domain=>SLA Domain
+Protected On=>Protected On
+Total Local Storage (GB)=>Total Local Storage (GB)
+Total Archive Storage (GB)=>Total Archive Storage (GB)
+Local Storage Growth (MB/day)=>Local Storage Growth (MB/day)
+Archive Storage Growth (MB/day)=>Archive Storage Growth (MB/day)
+#### NO MATCH
+#### Obj
+
+Object Name=>Generic Linux excluding basic ephemeral dirs
+Object Type=>Linux Fileset
+Location=>10.80.4.111
+Cluster Location=>Remote
+SLA Domain=>Testing client
+Protected On=>11/14/2017 12:53
+Total Local Storage (GB)=>3
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### FOUND ODD-BALL: EAG
+#### Found $org in Cus Table. 
+
+Object Name=>All
+Object Type=>Linux Fileset
+Location=>\\10.244.1.146\ACCD
+Cluster Location=>Remote
+SLA Domain=>NL Two Weeks NAS
+Protected On=>1/15/2018 12:25
+Total Local Storage (GB)=>5460.2
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>1892
+Archive Storage Growth (MB/day)=>0
+#### NO MATCH
+#### All
+#### Found $org in Cus Table. 
+
+Object Name=>All
+Object Type=>Linux Fileset
+Location=>\\10.244.1.146\ACD
+Cluster Location=>Remote
+SLA Domain=>NL Two Weeks NAS
+Protected On=>1/15/2018 12:11
+Total Local Storage (GB)=>294.8
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>-126.8
+Archive Storage Growth (MB/day)=>0
+#### NO MATCH
+#### All
+#### Found $org in Cus Table. 
+
+Object Name=>ERP-BIDEVAPP01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ERP-BIDEVAPP01
+#### Org is ERP
+
+Object Name=>EAG-PFSENSE-ANR01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/4/2018 13:08
+Total Local Storage (GB)=>0.2
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EAG-PFSENSE-ANR01
+#### Org is EAG
+#### Found $org in Cus Table. 
+
+Object Name=>EAG-PFSENSE-ANR02
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/4/2018 14:08
+Total Local Storage (GB)=>0.7
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0.1
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EAG-PFSENSE-ANR02
+#### Org is EAG
+#### Found $org in Cus Table. 
+
+Object Name=>ERP-BUDDBDEV01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ERP-BUDDBDEV01
+#### Org is ERP
+
+Object Name=>JUD-OP-DB01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/5/2018 11:49
+Total Local Storage (GB)=>35.8
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>10.9
+Archive Storage Growth (MB/day)=>0
+#### MATCH: JUD-OP-DB01
+#### Org is JUD
+
+Object Name=>JUD-OP-DB02
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/5/2018 11:49
+Total Local Storage (GB)=>61.7
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>-58.3
+Archive Storage Growth (MB/day)=>0
+#### MATCH: JUD-OP-DB02
+#### Org is JUD
+
+Object Name=>JUD-DR-OP-DB01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/5/2018 11:49
+Total Local Storage (GB)=>23.5
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0.6
+Archive Storage Growth (MB/day)=>0
+#### MATCH: JUD-DR-OP-DB01
+#### Org is JUD
+
+Object Name=>EDU-SQL
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EDU-SQL
+#### Org is EDU
+
+Object Name=>ERP-NVISION
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/7/2018 7:14
+Total Local Storage (GB)=>23.6
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>-609.2
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ERP-NVISION
+#### Org is ERP
+
+Object Name=>AHSORAD01D
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>Unprotected
+Protected On=>0
+Total Local Storage (GB)=>0
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>0
+Archive Storage Growth (MB/day)=>0
+#### NO MATCH
+#### AHS
+
+Object Name=>EAG-PFSENSE-AHS01
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/10/2018 14:29
+Total Local Storage (GB)=>0.8
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>15.1
+Archive Storage Growth (MB/day)=>0
+#### MATCH: EAG-PFSENSE-AHS01
+#### Org is EAG
+#### Found $org in Cus Table. 
+
+Object Name=>ANR-SATURN
+Object Type=>vSphere VM
+Location=>eagptvvc01.ea.dii.state.vt.us
+Cluster Location=>Local
+SLA Domain=>TV Two Weeks
+Protected On=>9/10/2018 15:28
+Total Local Storage (GB)=>5093.8
+Total Archive Storage (GB)=>0
+Local Storage Growth (MB/day)=>-26540
+Archive Storage Growth (MB/day)=>0
+#### MATCH: ANR-SATURN
+#### Org is ANR
+#### 1 Dumper for $refHoA
+$VAR1 = \{
+            'EAG' => [
+                       [
+                         'EAG',
+                         'Generic Linux excluding basic ephemeral dirs',
+                         'Testing client',
+                         '3'
+                       ],
+                       [
+                         'EAG',
+                         'EAG-PFSENSE-ANR01',
+                         'TV Two Weeks',
+                         '0.2'
+                       ],
+                       [
+                         'EAG',
+                         'EAG-PFSENSE-ANR02',
+                         'TV Two Weeks',
+                         '0.7'
+                       ],
+                       [
+                         'EAG',
+                         'EAG-PFSENSE-AHS01',
+                         'TV Two Weeks',
+                         '0.8'
+                       ]
+                     ],
+            'OBJ' => [
+                       [
+                         'OBJ',
+                         'Object Name',
+                         'SLA Domain',
+                         'Total Local Storage (GB)'
+                       ]
+                     ],
+            'ERP' => [
+                       [
+                         'ERP',
+                         'ERP-BIDEVAPP01',
+                         'Unprotected',
+                         '0'
+                       ],
+                       [
+                         'ERP',
+                         'ERP-BUDDBDEV01',
+                         'Unprotected',
+                         '0'
+                       ],
+                       [
+                         'ERP',
+                         'ERP-NVISION',
+                         'TV Two Weeks',
+                         '23.6'
+                       ]
+                     ],
+            'NAS' => [
+                       [
+                         'NAS',
+                         '\\\\10.244.1.146\\ACCD',
+                         'NL Two Weeks NAS',
+                         '5460.2'
+                       ],
+                       [
+                         'NAS',
+                         '\\\\10.244.1.146\\ACD',
+                         'NL Two Weeks NAS',
+                         '294.8'
+                       ]
+                     ],
+            'ANR' => [
+                       [
+                         'ANR',
+                         'ANR-SATURN',
+                         'TV Two Weeks',
+                         '5093.8'
+                       ]
+                     ],
+            'EDU' => [
+                       [
+                         'EDU',
+                         'EDU-SQL',
+                         'Unprotected',
+                         '0'
+                       ]
+                     ],
+            'JUD' => [
+                       [
+                         'JUD',
+                         'JUD-OP-DB01',
+                         'TV Two Weeks',
+                         '35.8'
+                       ],
+                       [
+                         'JUD',
+                         'JUD-OP-DB02',
+                         'TV Two Weeks',
+                         '61.7'
+                       ],
+                       [
+                         'JUD',
+                         'JUD-DR-OP-DB01',
+                         'TV Two Weeks',
+                         '23.5'
+                       ]
+                     ],
+            'AHS' => [
+                       [
+                         'AHS',
+                         'AHSORAD01D',
+                         'Unprotected',
+                         '0'
+                       ]
+                     ]
+          };
+
+
+---< Start print_hash_ref Sub >-----
+AHS:
+field placemnt correct, 3.
+	0,0: AHS
+	0,1: AHSORAD01D
+	0,2: Unprotected
+	0,3: 0
+ANR:
+field placemnt correct, 3.
+	0,0: ANR
+	0,1: ANR-SATURN
+	0,2: TV Two Weeks
+	0,3: 5093.8
+EAG:
+field placemnt correct, 3.
+	0,0: EAG
+	0,1: Generic Linux excluding basic ephemeral dirs
+	0,2: Testing client
+	0,3: 3
+field placemnt correct, 3.
+	1,0: EAG
+	1,1: EAG-PFSENSE-ANR01
+	1,2: TV Two Weeks
+	1,3: 0.2
+field placemnt correct, 3.
+	2,0: EAG
+	2,1: EAG-PFSENSE-ANR02
+	2,2: TV Two Weeks
+	2,3: 0.7
+field placemnt correct, 3.
+	3,0: EAG
+	3,1: EAG-PFSENSE-AHS01
+	3,2: TV Two Weeks
+	3,3: 0.8
+EDU:
+field placemnt correct, 3.
+	0,0: EDU
+	0,1: EDU-SQL
+	0,2: Unprotected
+	0,3: 0
+ERP:
+field placemnt correct, 3.
+	0,0: ERP
+	0,1: ERP-BIDEVAPP01
+	0,2: Unprotected
+	0,3: 0
+field placemnt correct, 3.
+	1,0: ERP
+	1,1: ERP-BUDDBDEV01
+	1,2: Unprotected
+	1,3: 0
+field placemnt correct, 3.
+	2,0: ERP
+	2,1: ERP-NVISION
+	2,2: TV Two Weeks
+	2,3: 23.6
+JUD:
+field placemnt correct, 3.
+	0,0: JUD
+	0,1: JUD-OP-DB01
+	0,2: TV Two Weeks
+	0,3: 35.8
+field placemnt correct, 3.
+	1,0: JUD
+	1,1: JUD-OP-DB02
+	1,2: TV Two Weeks
+	1,3: 61.7
+field placemnt correct, 3.
+	2,0: JUD
+	2,1: JUD-DR-OP-DB01
+	2,2: TV Two Weeks
+	2,3: 23.5
+NAS:
+field placemnt correct, 3.
+	0,0: NAS
+	0,1: \\10.244.1.146\ACCD
+	0,2: NL Two Weeks NAS
+	0,3: 5460.2
+field placemnt correct, 3.
+	1,0: NAS
+	1,1: \\10.244.1.146\ACD
+	1,2: NL Two Weeks NAS
+	1,3: 294.8
+OBJ:
+field placemnt correct, 3.
+	0,0: OBJ
+	0,1: Object Name
+	0,2: SLA Domain
+	0,3: Total Local Storage (GB)
+---< End print_hash_ref Sub >-----
+#### The number of files is $num_files 1 + 1. 
+
+---< Start iterate_array >---
+worksheetsum, write line: 2, 0, TAG
+worksheetsum, write line: 2, 1, SUM
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+AHS:
+write line: 0, 0, AHS
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, AHS
+write totals line: 3, 0, AHS
+	0,0: AHS
+write line: 3, 1, AHSORAD01D
+write totals line: 3, 1, AHSORAD01D
+	0,1: AHSORAD01D
+write line: 3, 2, Unprotected
+write totals line: 3, 2, Unprotected
+	0,2: Unprotected
+write line: 3, 3, 0
+write totals line: 3, 3, 0
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 0 0
+#### 1 ## Current $sum_counter: 0
+	0,3: 0
+#### 1 ## FINAL sum_counter  $gHoA{AHS}[1] = 0
+#### 1 ## $sum_counter_total = 0
+write line: 4, 2, =sum(D4:D4)
+write line: 6, 2, 'Total'
+write line: 6, 3, =sum(D4:D4)
+ANR:
+write line: 0, 0, ANR
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, ANR
+write totals line: 4, 0, ANR
+	0,0: ANR
+write line: 3, 1, ANR-SATURN
+write totals line: 4, 1, ANR-SATURN
+	0,1: ANR-SATURN
+write line: 3, 2, TV Two Weeks
+write totals line: 4, 2, TV Two Weeks
+	0,2: TV Two Weeks
+write line: 3, 3, 5093.8
+write totals line: 4, 3, 5093.8
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 5093.8 5093.8
+#### 1 ## Current $sum_counter: 5093.8
+	0,3: 5093.8
+#### 1 ## FINAL sum_counter  $gHoA{ANR}[1] = 5093.8
+#### 1 ## $sum_counter_total = 5093.8
+write line: 4, 2, =sum(D4:D4)
+write line: 6, 2, 'Total'
+write line: 6, 3, =sum(D4:D4)
+EAG:
+write line: 0, 0, EAG
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, EAG
+write totals line: 5, 0, EAG
+	0,0: EAG
+write line: 3, 1, Generic Linux excluding basic ephemeral dirs
+write totals line: 5, 1, Generic Linux excluding basic ephemeral dirs
+	0,1: Generic Linux excluding basic ephemeral dirs
+write line: 3, 2, Testing client
+write totals line: 5, 2, Testing client
+	0,2: Testing client
+write line: 3, 3, 3
+write totals line: 5, 3, 3
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 3 3
+#### 1 ## Current $sum_counter: 3
+	0,3: 3
+write line: 4, 0, EAG
+write totals line: 6, 0, EAG
+	1,0: EAG
+write line: 4, 1, EAG-PFSENSE-ANR01
+write totals line: 6, 1, EAG-PFSENSE-ANR01
+	1,1: EAG-PFSENSE-ANR01
+write line: 4, 2, TV Two Weeks
+write totals line: 6, 2, TV Two Weeks
+	1,2: TV Two Weeks
+write line: 4, 3, 0.2
+write totals line: 6, 3, 0.2
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 3.2 0.2
+#### 1 ## Current $sum_counter: 3.2
+	1,3: 0.2
+write line: 5, 0, EAG
+write totals line: 7, 0, EAG
+	2,0: EAG
+write line: 5, 1, EAG-PFSENSE-ANR02
+write totals line: 7, 1, EAG-PFSENSE-ANR02
+	2,1: EAG-PFSENSE-ANR02
+write line: 5, 2, TV Two Weeks
+write totals line: 7, 2, TV Two Weeks
+	2,2: TV Two Weeks
+write line: 5, 3, 0.7
+write totals line: 7, 3, 0.7
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 3.9 0.7
+#### 1 ## Current $sum_counter: 3.9
+	2,3: 0.7
+write line: 6, 0, EAG
+write totals line: 8, 0, EAG
+	3,0: EAG
+write line: 6, 1, EAG-PFSENSE-AHS01
+write totals line: 8, 1, EAG-PFSENSE-AHS01
+	3,1: EAG-PFSENSE-AHS01
+write line: 6, 2, TV Two Weeks
+write totals line: 8, 2, TV Two Weeks
+	3,2: TV Two Weeks
+write line: 6, 3, 0.8
+write totals line: 8, 3, 0.8
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 4.7 0.8
+#### 1 ## Current $sum_counter: 4.7
+	3,3: 0.8
+#### 1 ## FINAL sum_counter  $gHoA{EAG}[1] = 4.7
+#### 1 ## $sum_counter_total = 5098.5
+write line: 7, 2, =sum(D4:D7)
+write line: 9, 2, 'Total'
+write line: 9, 3, =sum(D4:D7)
+EDU:
+write line: 0, 0, EDU
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, EDU
+write totals line: 9, 0, EDU
+	0,0: EDU
+write line: 3, 1, EDU-SQL
+write totals line: 9, 1, EDU-SQL
+	0,1: EDU-SQL
+write line: 3, 2, Unprotected
+write totals line: 9, 2, Unprotected
+	0,2: Unprotected
+write line: 3, 3, 0
+write totals line: 9, 3, 0
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 0 0
+#### 1 ## Current $sum_counter: 0
+	0,3: 0
+#### 1 ## FINAL sum_counter  $gHoA{EDU}[1] = 0
+#### 1 ## $sum_counter_total = 5098.5
+write line: 4, 2, =sum(D4:D4)
+write line: 6, 2, 'Total'
+write line: 6, 3, =sum(D4:D4)
+ERP:
+write line: 0, 0, ERP
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, ERP
+write totals line: 10, 0, ERP
+	0,0: ERP
+write line: 3, 1, ERP-BIDEVAPP01
+write totals line: 10, 1, ERP-BIDEVAPP01
+	0,1: ERP-BIDEVAPP01
+write line: 3, 2, Unprotected
+write totals line: 10, 2, Unprotected
+	0,2: Unprotected
+write line: 3, 3, 0
+write totals line: 10, 3, 0
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 0 0
+#### 1 ## Current $sum_counter: 0
+	0,3: 0
+write line: 4, 0, ERP
+write totals line: 11, 0, ERP
+	1,0: ERP
+write line: 4, 1, ERP-BUDDBDEV01
+write totals line: 11, 1, ERP-BUDDBDEV01
+	1,1: ERP-BUDDBDEV01
+write line: 4, 2, Unprotected
+write totals line: 11, 2, Unprotected
+	1,2: Unprotected
+write line: 4, 3, 0
+write totals line: 11, 3, 0
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 0 0
+#### 1 ## Current $sum_counter: 0
+	1,3: 0
+write line: 5, 0, ERP
+write totals line: 12, 0, ERP
+	2,0: ERP
+write line: 5, 1, ERP-NVISION
+write totals line: 12, 1, ERP-NVISION
+	2,1: ERP-NVISION
+write line: 5, 2, TV Two Weeks
+write totals line: 12, 2, TV Two Weeks
+	2,2: TV Two Weeks
+write line: 5, 3, 23.6
+write totals line: 12, 3, 23.6
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 23.6 23.6
+#### 1 ## Current $sum_counter: 23.6
+	2,3: 23.6
+#### 1 ## FINAL sum_counter  $gHoA{ERP}[1] = 23.6
+#### 1 ## $sum_counter_total = 5122.1
+write line: 6, 2, =sum(D4:D6)
+write line: 8, 2, 'Total'
+write line: 8, 3, =sum(D4:D6)
+JUD:
+write line: 0, 0, JUD
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, JUD
+write totals line: 13, 0, JUD
+	0,0: JUD
+write line: 3, 1, JUD-OP-DB01
+write totals line: 13, 1, JUD-OP-DB01
+	0,1: JUD-OP-DB01
+write line: 3, 2, TV Two Weeks
+write totals line: 13, 2, TV Two Weeks
+	0,2: TV Two Weeks
+write line: 3, 3, 35.8
+write totals line: 13, 3, 35.8
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 35.8 35.8
+#### 1 ## Current $sum_counter: 35.8
+	0,3: 35.8
+write line: 4, 0, JUD
+write totals line: 14, 0, JUD
+	1,0: JUD
+write line: 4, 1, JUD-OP-DB02
+write totals line: 14, 1, JUD-OP-DB02
+	1,1: JUD-OP-DB02
+write line: 4, 2, TV Two Weeks
+write totals line: 14, 2, TV Two Weeks
+	1,2: TV Two Weeks
+write line: 4, 3, 61.7
+write totals line: 14, 3, 61.7
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 97.5 61.7
+#### 1 ## Current $sum_counter: 97.5
+	1,3: 61.7
+write line: 5, 0, JUD
+write totals line: 15, 0, JUD
+	2,0: JUD
+write line: 5, 1, JUD-DR-OP-DB01
+write totals line: 15, 1, JUD-DR-OP-DB01
+	2,1: JUD-DR-OP-DB01
+write line: 5, 2, TV Two Weeks
+write totals line: 15, 2, TV Two Weeks
+	2,2: TV Two Weeks
+write line: 5, 3, 23.5
+write totals line: 15, 3, 23.5
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 121 23.5
+#### 1 ## Current $sum_counter: 121
+	2,3: 23.5
+#### 1 ## FINAL sum_counter  $gHoA{JUD}[1] = 121
+#### 1 ## $sum_counter_total = 5243.1
+write line: 6, 2, =sum(D4:D6)
+write line: 8, 2, 'Total'
+write line: 8, 3, =sum(D4:D6)
+NAS:
+write line: 0, 0, NAS
+write line: 2, 0, Tag
+write line: 2, 1, Object Name
+write line: 2, 2, SLA Domain
+write line: 2, 3, Total Local Storage(GB)
+$start_col: 3
+write line: 3, 0, NAS
+write totals line: 16, 0, NAS
+	0,0: NAS
+write line: 3, 1, \\10.244.1.146\ACCD
+write totals line: 16, 1, \\10.244.1.146\ACCD
+	0,1: \\10.244.1.146\ACCD
+write line: 3, 2, NL Two Weeks NAS
+write totals line: 16, 2, NL Two Weeks NAS
+	0,2: NL Two Weeks NAS
+write line: 3, 3, 5460.2
+write totals line: 16, 3, 5460.2
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 5460.2 5460.2
+#### 1 ## Current $sum_counter: 5460.2
+	0,3: 5460.2
+write line: 4, 0, NAS
+write totals line: 17, 0, NAS
+	1,0: NAS
+write line: 4, 1, \\10.244.1.146\ACD
+write totals line: 17, 1, \\10.244.1.146\ACD
+	1,1: \\10.244.1.146\ACD
+write line: 4, 2, NL Two Weeks NAS
+write totals line: 17, 2, NL Two Weeks NAS
+	1,2: NL Two Weeks NAS
+write line: 4, 3, 294.8
+write totals line: 17, 3, 294.8
+#### 1 ## $sum_counter += $array[3]
+#### 1 ## 5755 294.8
+#### 1 ## Current $sum_counter: 5755
+	1,3: 294.8
+#### 1 ## FINAL sum_counter  $gHoA{NAS}[1] = 5755
+#### 1 ## $sum_counter_total = 10998.1
+write line: 5, 2, =sum(D4:D5)
+write line: 7, 2, 'Total'
+write line: 7, 3, =sum(D4:D5)
+OBJ:
+#### NEXT found Owner: OBJ.
+=sum(d4:d18)
+write final totals sum cell: 18, 3, =sum(d4:d18)
+---< End iterate_array >-----
+Number of periods: 1
+$VAR1 = [
+          0,
+          1
+        ];
+Printing $ref_tab!!!
+$key: AHS: 
+0
+$key: ANR: 
+5093.8
+$key: EAG: 
+4.7
+$key: EDU: 
+0
+$key: ERP: 
+23.6
+$key: JUD: 
+121
+$key: NAS: 
+5755
+#### Dumper pieHoAref
+$VAR1 = {
+          'EDU' => [
+                     0
+                   ],
+          'EAG' => [
+                     '4.7'
+                   ],
+          'ANR' => [
+                     '5093.8'
+                   ],
+          'ERP' => [
+                     '23.6'
+                   ],
+          'JUD' => [
+                     121
+                   ],
+          'NAS' => [
+                     5755
+                   ],
+          'AHS' => [
+                     0
+                   ]
+        };
+#### 1 ## @pie_data
+$VAR1 = [
+          [
+            0
+          ],
+          [
+            '5093.8'
+          ],
+          [
+            '4.7'
+          ],
+          [
+            0
+          ],
+          [
+            '23.6'
+          ],
+          [
+            121
+          ],
+          [
+            5755
+          ]
+        ];
+#### 1 ## Dumping $legend ref
+$VAR1 = \[
+            'AHS',
+            'ANR',
+            'EAG',
+            'EDU',
+            'ERP',
+            'JUD',
+            'NAS'
+          ];
+#### 1 ## Dumping $data ref
+$VAR1 = \[
+            [
+              0
+            ],
+            [
+              '5093.8'
+            ],
+            [
+              '4.7'
+            ],
+            [
+              0
+            ],
+            [
+              '23.6'
+            ],
+            [
+              121
+            ],
+            [
+              5755
+            ]
+          ];
+#### 1 ## @new_data_bucket
+$VAR1 = [
+          [
+            0
+          ],
+          [
+            '5093.8'
+          ],
+          [
+            '4.7'
+          ],
+          [
+            0
+          ],
+          [
+            '23.6'
+          ],
+          [
+            121
+          ],
+          [
+            5755
+          ]
+        ];
+$new_data_bucket[0] [0] : 0
+$new_data_bucket[1] [0] : 5093.8
+$new_data_bucket[2] [0] : 4.7
+$new_data_bucket[3] [0] : 0
+$new_data_bucket[4] [0] : 23.6
+$new_data_bucket[5] [0] : 121
+$new_data_bucket[6] [0] : 5755
+#### 1 ## Dumper @flat_data
+$VAR1 = [
+          0,
+          '5093.8',
+          '4.7',
+          0,
+          '23.6',
+          121,
+          5755
+        ];
+finished with graph creation!!!
+#### Dumper %gHoA
+$VAR1 = {
+          'EDU' => [
+                     0,
+                     0
+                   ],
+          'EAG' => [
+                     '4.6',
+                     '4.7'
+                   ],
+          'ANR' => [
+                     '5322.4',
+                     '5093.8'
+                   ],
+          'ERP' => [
+                     '22.9',
+                     '23.6'
+                   ],
+          'JUD' => [
+                     '120.1',
+                     121
+                   ],
+          'NAS' => [
+                     '5735.2',
+                     5755
+                   ],
+          'AHS' => [
+                     0,
+                     0
+                   ]
+        };
+Number of periods: 1
+$VAR1 = [
+          0,
+          1
+        ];
+Printing $ref_tab!!!
+$key: AHS: 
+0
+0
+$key: ANR: 
+5322.4
+5093.8
+$key: EAG: 
+4.6
+4.7
+$key: EDU: 
+0
+0
+$key: ERP: 
+22.9
+23.6
+$key: JUD: 
+120.1
+121
+$key: NAS: 
+5735.2
+5755
+Legend: @legend
+$VAR1 = [
+          'AHS',
+          'ANR',
+          'EAG',
+          'EDU',
+          'ERP',
+          'JUD',
+          'NAS'
+        ];
+GDATA: 
+$VAR1 = [
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            '5322.4',
+            '5093.8'
+          ],
+          [
+            '4.6',
+            '4.7'
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            '22.9',
+            '23.6'
+          ],
+          [
+            '120.1',
+            121
+          ],
+          [
+            '5735.2',
+            5755
+          ]
+        ];
+Dumping $legend ref
+$VAR1 = \[
+            'AHS',
+            'ANR',
+            'EAG',
+            'EDU',
+            'ERP',
+            'JUD',
+            'NAS'
+          ];
+Dumping $data ref
+$VAR1 = \[
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              '5322.4',
+              '5093.8'
+            ],
+            [
+              '4.6',
+              '4.7'
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              '22.9',
+              '23.6'
+            ],
+            [
+              '120.1',
+              121
+            ],
+            [
+              '5735.2',
+              5755
+            ]
+          ];
+finished with graph creation!!!
+Dumping $legend ref
+$VAR1 = \[
+            'AHS',
+            'ANR',
+            'EAG',
+            'EDU',
+            'ERP',
+            'JUD',
+            'NAS'
+          ];
+Dumping $data ref
+$VAR1 = \[
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              '5322.4',
+              '5093.8'
+            ],
+            [
+              '4.6',
+              '4.7'
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              '22.9',
+              '23.6'
+            ],
+            [
+              '120.1',
+              121
+            ],
+            [
+              '5735.2',
+              5755
+            ]
+          ];
+finished with graph creation!!!
+--<end>-------------------------------------------------

@@ -1,0 +1,16 @@
+Object Name,Object Type,Location,Cluster Location,SLA Domain,Protected On,Total Local Storage (GB),Total Archive Storage (GB),Local Storage Growth (MB/day),Archive Storage Growth (MB/day)
+Generic Linux excluding basic ephemeral dirs,Linux Fileset,10.80.4.111,Remote,Testing client,11/14/2017 13:53,3,0,0,0
+All,Linux Fileset,\\10.244.1.146\ACCD,Remote,NL Two Weeks NAS,1/15/2018 13:25,5436.4,0,1873.6,0
+All,Linux Fileset,\\10.244.1.146\ACD,Remote,NL Two Weeks NAS,1/15/2018 13:11,298.8,0,203.7,0
+ERP-BIDEVAPP01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-PFSENSE-ANR01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 14:08,0.2,0,0.1,0
+EAG-PFSENSE-ANR02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/4/2018 15:08,0.7,0,0.1,0
+ERP-BUDDBDEV01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+JUD-OP-DB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/5/2018 12:49,35.5,0,104.3,0
+JUD-OP-DB02,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/5/2018 12:49,61.1,0,-87.5,0
+JUD-DR-OP-DB01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/5/2018 12:49,23.5,0,0.5,0
+EDU-SQL,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+ERP-NVISION,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/7/2018 8:14,22.9,0,-674.6,0
+AHSORAD01D,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,Unprotected,,0,0,0,0
+EAG-PFSENSE-AHS01,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/10/2018 15:29,0.7,0,15.7,0
+ANR-SATURN,vSphere VM,eagptvvc01.ea.dii.state.vt.us,Local,TV Two Weeks,9/10/2018 16:28,5322.4,0,5294.6,0

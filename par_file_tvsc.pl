@@ -10,8 +10,8 @@ my $cus_ref = \%customer_o_a;
 #print Dumper \%customer_o_a;
 #exit;
 
-my $file = shift;
-my %HoA;
+#my $file = shift;
+#my %HoA;
 my %gHoA;
 
 # Headings for 4 colmns needed.
@@ -31,24 +31,38 @@ my $num_files =$#files;
 
 
 foreach my $kk ( 0 .. $#files ) {
+my %HoA;
 print_fields($fields);
 my($file,$headings) = parse_file($files[$kk]);
 make_array_and_count($headings);
-my $refHoA;
-$refHoA = make_fields($file,$headings,\%HoA);
+### my $refHoA;
+my $refHoA = make_fields($file,$headings,\%HoA);
 
-print "Dumper for \$refHoA\n";
+print "#### $kk Dumper for \$refHoA\n";
 print Dumper \$refHoA;
 print_hash_ref($refHoA);
 
-my $name = "SPX1";
 my $name = "RBKT";
 
 $name = $date."__".$name."_".$kk."_";
 
-iterate_array($kk,$name,$refHoA,@heading);
+my($pieHoAref) = iterate_array($kk,$name,$refHoA,@heading);
+###
+my($legendref,$gdataref,$pie_dataref)=read_thru_HoA($num_files,$pieHoAref);
+print "#### Dumper pieHoAref\n";
+print Dumper $pieHoAref;
+
+my @legend = @$legendref;
+my @gdata = @$gdataref;
+my @pie_data = @$pie_dataref;
+print "#### $kk ## \@pie_data\n";
+print Dumper \@pie_data;
+graph_it_pie($kk,\@legend,\@pie_data);
+
+###
 };
 
+print "#### Dumper \%gHoA\n";
 print Dumper \%gHoA;
 my $gHoAref = \%gHoA;
 
@@ -67,6 +81,9 @@ print Dumper \@gdata;
 graph_it(\@legend,\@gdata);
 graph_it_hbars(\@legend,\@gdata);
 
+#my $y_max_value = '150000';
+#my $y_tick_number = '500';
+#my $y_label_skip  = '50';
 
 
 
@@ -80,6 +97,75 @@ print "--<end>-------------------------------------------------\n";
 #
 ###########################################################################33
 ###
+sub graph_it_pie {
+my($kk,$legend,$data) = @_;
+print "#### $kk ## Dumping \$legend ref\n";
+print Dumper \$legend;
+
+print "#### $kk ## Dumping \$data ref\n";
+print Dumper \$data;
+
+use GD::Graph::linespoints;
+use GD::Graph::lines;
+use GD::Graph::pie;
+
+my $graph = GD::Graph::pie->new(1600, 1400);
+
+$graph->set(
+   # x_label           => 'Samples taken over Time',
+   # y_label           => 'GB\s Capacity Used on the Rubriks',
+    title             => 'Rubrik Capacity Graph',
+   # y_max_value       => 120000,
+   # y_tick_number     => 500,
+   # y_label_skip      => 50,
+   label => 'Rubrik Capacity Graph',
+
+) or die $graph->error;
+
+#$graph->set_legend_font(GD::Font->Tiny);
+#$graph->set_legend(@$legend);
+my @new_data_bucket = @$data;
+my @legend = @$legend;
+#unshift @data, @legend;
+
+print "#### $kk ## \@new_data_bucket\n";
+print Dumper \@new_data_bucket;
+
+my @flat_data = ();
+
+for my $ii ( 0 .. $#new_data_bucket ){ 
+  for my $jj ( 0 .. $#{ $new_data_bucket[$ii] } ){
+    print "\$new_data_bucket[$ii] [$jj] : $new_data_bucket[$ii][$jj]\n";
+    push @flat_data, $new_data_bucket[$ii][$jj];   
+  };
+};
+
+print "#### $kk ## Dumper \@flat_data\n";
+print Dumper \@flat_data;
+
+my $flat_dataref = \@flat_data;
+
+my @my_pie_data = ( \@legend,$flat_dataref );
+my $gd = $graph->plot( \@my_pie_data ) or die $graph->error;
+
+my $file_png = "RBKP-".$kk.".png";
+
+open(IMG, '>',$file_png) or die $!;
+binmode IMG;
+print IMG $gd->png;
+close IMG;
+
+my $file_gif = "RBKP-".$kk.".gif";
+
+open(IMG, '>', $file_gif) or die $!;
+binmode IMG;
+print IMG $gd->gif;
+close IMG;
+
+print "finished with graph creation!!!\n";
+};
+
+
 sub graph_it {
 my($legend,$data) = @_;
 print "Dumping \$legend ref\n";
@@ -92,13 +178,13 @@ use GD::Graph::linespoints;
 use GD::Graph::lines;
 use GD::Graph::hbars;
 
-my $graph = GD::Graph::linespoints->new(1200, 1000);
+my $graph = GD::Graph::linespoints->new(1600, 1400);
 
 $graph->set(
     x_label           => 'Samples taken over Time',
     y_label           => 'GB\s Capacity Used on the Rubriks',
     title             => 'Rubrik Capacity Graph',
-    y_max_value       => 300000,
+    y_max_value       => 120000,
     y_tick_number     => 500,
     y_label_skip      => 50,
 
@@ -135,13 +221,13 @@ use GD::Graph::linespoints;
 use GD::Graph::lines;
 use GD::Graph::hbars;
 
-my $graph = GD::Graph::hbars->new(1200, 1000);
+my $graph = GD::Graph::hbars->new(1200, 1100);
 
 $graph->set(
     x_label           => 'Samples taken over Time',
     y_label           => 'GB\s Capacity Used on the Rubriks',
     title             => 'Rubrik Capacity Graph',
-    y_max_value       => 300000,
+    y_max_value       => 100000,
     y_tick_number     => 500,
     y_label_skip      => 50,
 
@@ -183,13 +269,18 @@ foreach my $key ( sort keys %{$href} ){
        my @array =  @{ ${$href}{$key} };
         my @garray;
          foreach my $ii ( 0 .. $#array ){
-                     print "$array[$ii]\n";
+                     if ( $array[$ii] ) {
+                     print "\$array[$ii]: $array[$ii]\n";
+                     } else {
+                      print "#### ERROR, No \$array[$ii]\n";
+                  }
               push @garray, $array[$ii];
                  }
            push @gdata, [ @garray ];
  };
+  my @pie_data = @gdata;
   unshift @gdata, [ @periods ];
-  return(\@legend,\@gdata);
+  return(\@legend,\@gdata,\@pie_data);
 }
 
 
@@ -267,11 +358,12 @@ my $worksheettotal = $workbook->add_worksheet( $totals );
              $worksheettotal->write( 2, $ii, $heading[$ii], $formath  );
            ###
          };
-  my $sum_counter =();
+  #my $sum_counter =();
   my $sum_counter_total =();
+  my %pieHoA;
 foreach my $key ( sort ( keys %$ref ) ){
   print "$key:\n";
-  $sum_counter = 0;
+  my $sum_counter = ();;
   if($key =~ m/Owner/gi){ print "### NEXT found Owner: $key.\n"; next; };
   ###if($key =~ m/eag/gi){ print "#### NEXT found Owner: $key.\n"; next; };
   if($key =~ m/vshield/gi){ print "#### NEXT found Owner: $key.\n"; next; };
@@ -329,6 +421,9 @@ foreach my $key ( sort ( keys %$ref ) ){
                ###
                    if( $jj eq 3 ){
                      $sum_counter += $array[$jj];
+                     print "#### $num_files ## \$sum_counter += \$array[$jj]\n";
+                     print "#### $num_files ## $sum_counter $array[$jj]\n";
+                     print "#### $num_files ## Current \$sum_counter: $sum_counter\n";
                     }
                ###
                     print "\t$ii,$jj: $array[$jj]\n";
@@ -340,8 +435,12 @@ foreach my $key ( sort ( keys %$ref ) ){
             $trow++;
        }
           $worksheetsum->write( $srow, $scol, $sum_counter, $format1  );
-          $gHoA{$key}[$num_files] =  $sum_counter;
+          $gHoA{$key}[$num_files] = $sum_counter;
+          $pieHoA{$key}[0] = $sum_counter;
           $sum_counter_total += $sum_counter;
+            print "#### $num_files ## FINAL sum_counter  \$gHoA{$key}[$num_files] \= $sum_counter\n";
+            ###$sum_counter = ();
+            print "#### $num_files ## \$sum_counter_total \= $sum_counter_total\n";
           
           my $final_row = $row;
           my $final_col = $start_col-1;
@@ -378,6 +477,7 @@ foreach my $key ( sort ( keys %$ref ) ){
                  $worksheetsum->write( $srow, $scol, $sum_counter_total  );
     
 print "---< End iterate_array >-----\n";
+return(\%pieHoA);
 };
 
 ###
